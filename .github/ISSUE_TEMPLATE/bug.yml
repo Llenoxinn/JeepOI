@@ -1,0 +1,43 @@
+name: Bug
+description: Something in the app or pipeline is broken.
+title: "[bug] "
+labels: ["bug"]
+body:
+  - type: dropdown
+    id: area
+    attributes:
+      label: Where?
+      options:
+        - Map
+        - Trip planner
+        - Route explorer
+        - Tourism / Tour Lines
+        - Landing page
+        - Data pipeline
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      placeholder: |
+        1. Search IT Park to Colon
+        2. Tap the first result
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: What you expected vs. what happened
+    validations:
+      required: true
+  - type: input
+    id: env
+    attributes:
+      label: Device and browser (or command and Python version)
+      placeholder: Android 14, Chrome 130
+  - type: textarea
+    id: logs
+    attributes:
+      label: Screenshot or error output
+      render: shell

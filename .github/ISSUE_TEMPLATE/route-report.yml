@@ -1,0 +1,57 @@
+name: Route report
+description: A jeep route is wrong, changed, missing, or you saw it running.
+title: "[route] <code>: "
+labels: ["data", "route"]
+body:
+  - type: input
+    id: code
+    attributes:
+      label: Route code
+      placeholder: 13C
+    validations:
+      required: true
+  - type: dropdown
+    id: kind
+    attributes:
+      label: What happened?
+      options:
+        - I saw this jeep running (sighting)
+        - The line on the map is wrong
+        - The route changed or stopped running
+        - A route is missing
+        - A stop name is wrong or missing
+        - Fare is wrong
+    validations:
+      required: true
+  - type: input
+    id: date
+    attributes:
+      label: When did you see it?
+      description: Date and rough time (AM/PM).
+      placeholder: 2026-11-08 AM
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: Details
+      description: Where you boarded and got off, the streets it took, what the signboard said.
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Evidence
+      description: GPX file, photo of the signboard, or a dated link. Nothing goes on the map without a source.
+  - type: dropdown
+    id: method
+    attributes:
+      label: How do you know?
+      options:
+        - Rode it with GPS
+        - Rode it, no GPS
+        - Saw it on the road
+        - Asked a driver or barker
+        - Dated guide, news or document
+    validations:
+      required: true

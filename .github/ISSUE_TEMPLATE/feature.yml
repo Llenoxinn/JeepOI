@@ -1,0 +1,23 @@
+name: Feature idea
+description: Suggest something JeepOI should do.
+title: "[feature] "
+labels: ["enhancement"]
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: What problem does it solve?
+      description: Who needs it, and what do they do today instead?
+    validations:
+      required: true
+  - type: textarea
+    id: idea
+    attributes:
+      label: The idea
+    validations:
+      required: true
+  - type: input
+    id: plan
+    attributes:
+      label: Related plan.md section
+      placeholder: "5.3 Code-first tourism"
