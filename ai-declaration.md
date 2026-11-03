@@ -6,7 +6,7 @@ JeepOI is a student side project. We use AI coding tools, and we say where, so a
 
 | Tool | What it did | Where it shows |
 |---|---|---|
-| **Cursor** (agent mode) | Wrote the first version of the data pipeline: the OSM and weebly downloaders, the route builder, the overrides file and the generated route files. | Commit `69e2dc2`, marked `Co-authored-by: Cursor` |
+| **Cursor** (agent mode) | Wrote the first version of the data and pipeline: the OSM and weebly downloaders, the route builder, the overrides file and the generated route files. | Commit `a31b971`|
 | **Claude Code** | Reviewed the processed data against `plan.md`, then fixed the builder: joins OSM road pieces in any order, sets real outbound/inbound directions, drops drawing scraps, merges duplicate stops, keeps credits out of `sources`. Added `pipeline/check_data.py`. Drafted this file, `architecture.md`, `design.md`, `data.md` and the GitHub issue templates. | Commit `23b75f9` and the commits that add these docs |
 
 ## What AI did not do
