@@ -1,0 +1,4597 @@
+{
+  "generated": "2026-11-03",
+  "edit": "data/overrides.yaml",
+  "rebuild": "python pipeline/build_routes.py",
+  "counts": {
+    "codes": 70,
+    "with_geometry": 69,
+    "from_osm": 53,
+    "from_weebly_only": 16,
+    "disputed": 1,
+    "no_geometry": 1
+  },
+  "attribution": {
+    "osm": "© OpenStreetMap contributors (ODbL)",
+    "weebly": "Cebu Jeepney Maps by John Mercado Lee, CC BY-NC 3.0 (https://creativecommons.org/licenses/by-nc/3.0/). Source: https://cebujeepneys.weebly.com/"
+  },
+  "routes": [
+    {
+      "code": "01B",
+      "name": "Sambag-Pier 1 & 2",
+      "from": "Pier 1 & 2",
+      "to": "Sambag 1",
+      "family": "01",
+      "status": "unconfirmed",
+      "auto_status": "unconfirmed",
+      "method": "osm_crosscheck",
+      "geometry_source": "osm",
+      "license": "ODbL",
+      "length_km": 4.23,
+      "directions": [
+        {
+          "id": "01B-osm-20587182",
+          "name": "Sambag-Pier 1 & 2",
+          "from": "Pier 1 & 2",
+          "to": "Sambag 1",
+          "length_km": 4.23
+        },
+        {
+          "id": "01B-osm-20587183",
+          "name": "Sambag-Pier 1 & 2",
+          "from": "Sambag 1",
+          "to": "Pier 1 & 2",
+          "length_km": 4.14
+        }
+      ],
+      "stops": [
+        "Pier 3",
+        "Pier 4",
+        "Sotto",
+        "Commission on Audit",
+        "Tejero Elementary School",
+        "M.J. Cuenco",
+        "Tiburcio Padilla Public Market",
+        "Gaisano Savemart",
+        "Bonifacio",
+        "Museo Pari-an",
+        "University of the Visayas",
+        "Junquera",
+        "Hotel Sogo",
+        "University of Cebu",
+        "Elizabeth Mall",
+        "Asian College of Technology",
+        "Kabulihan",
+        "USC South Campus",
+        "Gaisano Capital South",
+        "Colonnade Mall",
+        "Gaisano Main",
+        "Colon Obelisk",
+        "Sikatuna",
+        "Jakosalem"
+      ],
+      "overlap": {
+        "osm_on_weebly": 0.849,
+        "weebly_on_osm": 0.842,
+        "threshold_m": 80
+      },
+      "osm_relations": [
+        20587182,
+        20587183
+      ],
+      "weebly_pages": [
+        "https://cebujeepneys.weebly.com/01b.html"
+      ],
+      "sources": [
+        "osm:relation/20587182",
+        "osm:relation/20587183",
+        "https://cebujeepneys.weebly.com/01b.html",
+        "© OpenStreetMap contributors (ODbL)",
+        "cross-check: Cebu Jeepney Maps by John Mercado Lee, CC BY-NC 3.0 (https://creativecommons.org/licenses/by-nc/3.0/). Source: https://cebujeepneys.weebly.com/"
+      ],
+      "note": null
+    },
+    {
+      "code": "01C",
+      "name": "Robinsons-Colon-Sambag",
+      "from": "Robinsons",
+      "to": "Sambag",
+      "family": "01",
+      "status": "unconfirmed",
+      "auto_status": "unconfirmed",
+      "method": "osm_crosscheck",
+      "geometry_source": "osm",
+      "license": "ODbL",
+      "length_km": 3.91,
+      "directions": [
+        {
+          "id": "01C-osm-21251283",
+          "name": "Robinsons-Colon-Sambag",
+          "from": "Robinsons",
+          "to": "Sambag",
+          "length_km": 3.52
+        },
+        {
+          "id": "01C-osm-21251284",
+          "name": "Robinsons-Colon-Sambag",
+          "from": "Sambag",
+          "to": "Robinsons",
+          "length_km": 3.91
+        }
+      ],
+      "stops": [
+        "Robinsons Galleria Cebu Main Entrance",
+        "USC South Campus",
+        "Kabulihan",
+        "Asian College of Technology",
+        "Elizabeth Mall",
+        "Gaisano Capital South",
+        "Colonnade Mall",
+        "Gaisano Main",
+        "Colon Obelisk",
+        "Museo Pari-an",
+        "M.J. Cuenco",
+        "Tejero Elementary School",
+        "Robinsons Galleria Cebu Benedicto Entrance"
+      ],
+      "overlap": {
+        "osm_on_weebly": 1.0,
+        "weebly_on_osm": 0.93,
+        "threshold_m": 80
+      },
+      "osm_relations": [
+        21251283,
+        21251284
+      ],
+      "weebly_pages": [
+        "https://cebujeepneys.weebly.com/01c.html"
+      ],
+      "sources": [
+        "osm:relation/21251283",
+        "osm:relation/21251284",
+        "https://cebujeepneys.weebly.com/01c.html",
+        "© OpenStreetMap contributors (ODbL)",
+        "cross-check: Cebu Jeepney Maps by John Mercado Lee, CC BY-NC 3.0 (https://creativecommons.org/licenses/by-nc/3.0/). Source: https://cebujeepneys.weebly.com/"
+      ],
+      "note": null
+    },
+    {
+      "code": "01K",
+      "name": "Urgello-Parkmall via eMall, Colon, SM, City Health",
+      "from": "Parkmall",
+      "to": "Urgello",
+      "family": "01",
+      "status": "unconfirmed",
+      "auto_status": "unconfirmed",
+      "method": "osm_crosscheck",
+      "geometry_source": "osm",
+      "license": "ODbL",
+      "length_km": 8.91,
+      "directions": [
+        {
+          "id": "01K-osm-21251289",
+          "name": "Urgello-Parkmall via eMall, Colon, SM, City Health",
+          "from": "Parkmall",
+          "to": "Urgello",
+          "length_km": 7.9
+        },
+        {
+          "id": "01K-osm-21251290",
+          "name": "Urgello-Parkmall via eMall, Colon, SM, City Health",
+          "from": "Urgello",
+          "to": "Parkmall",
+          "length_km": 8.91
+        }
+      ],
+      "stops": [
+        "Parkmall",
+        "E.O. Perez-F. F. Cruz",
+        "S. O. Albaño",
+        "Gatewalk",
+        "F. Cabahug",
+        "APM Mall",
+        "SM City Cebu",
+        "G Mall of Cebu",
+        "White Gold House",
+        "Robinsons Galleria Cebu Benedicto Entrance",
+        "M. Lhuillier Group Headquarters",
+        "T. Padilla",
+        "Tejero Elementary School",
+        "Commission on Audit",
+        "CTU",
+        "Mabini",
+        "Gaisano Main",
+        "Colonnade Mall",
+        "Gaisano Capital South",
+        "Elizabeth Mall",
+        "Asian College of Technology",
+        "SWU PHINMA Hospital",
+        "Ascension & V. Urgello",
+        "Colon Obelisk",
+        "Museo Pari-an",
+        "Museo Sugbo",
+        "Carreta – M. Cuenco",
+        "Carreta Elementary School",
+        "Cebu Doctors University",
+        "NorthDrive Mall"
+      ],
+      "overlap": {
+        "osm_on_weebly": 0.958,
+        "weebly_on_osm": 0.95,
+        "threshold_m": 80
+      },
+      "osm_relations": [
+        21251289,
+        21251290
+      ],
+      "weebly_pages": [
+        "https://cebujeepneys.weebly.com/01k.html"
+      ],
+      "sources": [
+        "osm:relation/21251289",
+        "osm:relation/21251290",
+        "https://cebujeepneys.weebly.com/01k.html",
+        "© OpenStreetMap contributors (ODbL)",
+        "cross-check: Cebu Jeepney Maps by John Mercado Lee, CC BY-NC 3.0 (https://creativecommons.org/licenses/by-nc/3.0/). Source: https://cebujeepneys.weebly.com/"
+      ],
+      "note": null
+    },
+    {
+      "code": "01KX",
+      "name": "SM Seaside-Parkmall via Urgello",
+      "from": "SM Seaside",
+      "to": "Parkmall",
+      "family": "01",
+      "status": "unconfirmed",
+      "auto_status": "unconfirmed",
+      "method": "osm_crosscheck",
+      "geometry_source": "osm",
+      "license": "ODbL",
+      "length_km": 13.0,
+      "directions": [
+        {
+          "id": "01KX-osm-21452000",
+          "name": "SM Seaside-Parkmall via Urgello",
+          "from": "SM Seaside",
+          "to": "Parkmall",
+          "length_km": 13.0
+        },
+        {
+          "id": "01KX-osm-21452001",
+          "name": "SM Seaside-Parkmall via Urgello",
+          "from": "Parkmall",
+          "to": "SM Seaside",
+          "length_km": 12.16
+        }
+      ],
+      "stops": [
+        "SM Seaside",
+        "CIT",
+        "Salazar Colleges",
+        "V. Rama",
+        "USC South Campus",
+        "SWU PHINMA Hospital",
+        "Ascension & V. Urgello",
+        "A.B. Aznar",
+        "A. Tormis",
+        "Asian College of Technology",
+        "Elizabeth Mall",
+        "Gaisano Capital South",
+        "Colonnade Mall",
+        "Gaisano Main",
+        "Colon Obelisk",
+        "Museo Pari-an",
+        "Tejero Elementary School",
+        "T. Padilla",
+        "Museo Sugbo",
+        "Carreta – M. Cuenco",
+        "Carreta Elementary School",
+        "White Gold House",
+        "G Mall of Cebu",
+        "SM City Cebu",
+        "APM Mall",
+        "F. Cabahug",
+        "Gatewalk",
+        "S. O. Albaño",
+        "University of Cebu Medical Center",
+        "Parkmall",
+        "E.O. Perez-F. F. Cruz",
+        "Robinsons Galleria Cebu Benedicto Entrance",
+        "M. Lhuillier Group Headquarters",
+        "Sikatuna",
+        "Mambaling BRT Stop",
+        "SM Arena"
+      ],
+      "overlap": {
+        "osm_on_weebly": null,
+        "weebly_on_osm": null,
+        "threshold_m": 80
+      },
+      "osm_relations": [
+        21452000,
+        21452001
+      ],
+      "weebly_pages": [],
+      "sources": [
+        "osm:relation/21452000",
+        "osm:relation/21452001",
+        "© OpenStreetMap contributors (ODbL)"
+      ],
+      "note": "OSM tags this 01Kx: SM Seaside-Parkmall via Urgello. Plain 01K is Urgello-Parkmall. Check the windshield before treating 01Kx as its own code."
+    },
+    {
+      "code": "02B",
+      "name": "San Nicolas-Robinsons",
+      "from": "San Nicolas",
+      "to": "Robinsons",
+      "family": "02",
+      "status": "unconfirmed",
+      "auto_status": "unconfirmed",
+      "method": "osm_crosscheck",
+      "geometry_source": "osm",
+      "license": "ODbL",
+      "length_km": 4.05,
+      "directions": [
+        {
+          "id": "02B-osm-21251287",
+          "name": "San Nicolas-Robinsons",
+          "from": "San Nicolas",
+          "to": "Robinsons",
+          "length_km": 3.69
+        },
+        {
+          "id": "02B-osm-21251288",
+          "name": "San Nicolas-Robinsons",
+          "from": "San Nicolas",
+          "to": "Robinsons",
+          "length_km": 4.05
+        }
+      ],
+      "stops": [
+        "Robinsons Galleria Cebu Maxilom Entrance",
+        "White Gold House",
+        "Carreta Elementary School",
+        "Carreta",
+        "Lorega",
+        "Museo Sugbo",
+        "T. Padilla",
+        "Tejero Elementary School",
+        "Sikatuna",
+        "Museo Pari-an",
+        "University of the Visayas",
+        "Junquera",
+        "Hotel Sogo",
+        "University of Cebu",
+        "Borromeo",
+        "Cebu City Medical Center",
+        "Cebu South Bus Terminal",
+        "Elizabeth Mall",
+        "Gaisano Capital South",
+        "Colonnade Mall",
+        "Gaisano Main",
+        "Colon Obelisk",
+        "Cebu Metropolitan Cathedral",
+        "Osmeña Boulevard",
+        "Pier 2",
+        "Pier 3",
+        "Pier 4"
+      ],
+      "overlap": {
+        "osm_on_weebly": 0.97,
+        "weebly_on_osm": 0.971,
+        "threshold_m": 80
+      },
+      "osm_relations": [
+        21251287,
+        21251288
+      ],
+      "weebly_pages": [
+        "https://cebujeepneys.weebly.com/02b.html"
+      ],
+      "sources": [
+        "osm:relation/21251287",
+        "osm:relation/21251288",
+        "https://cebujeepneys.weebly.com/02b.html",
+        "© OpenStreetMap contributors (ODbL)",
+        "cross-check: Cebu Jeepney Maps by John Mercado Lee, CC BY-NC 3.0 (https://creativecommons.org/licenses/by-nc/3.0/). Source: https://cebujeepneys.weebly.com/"
+      ],
+      "note": null
+    },
+    {
+      "code": "03A",
+      "name": "Mabolo-Carbon",
+      "from": "Carbon Market",
+      "to": "Mabolo",
+      "family": "03",
+      "status": "unconfirmed",
+      "auto_status": "unconfirmed",
+      "method": "osm_crosscheck",
+      "geometry_source": "osm",
+      "license": "ODbL",
+      "length_km": 6.08,
+      "directions": [
+        {
+          "id": "03A-osm-21251279",
+          "name": "Mabolo-Carbon",
+          "from": "Carbon Market",
+          "to": "Mabolo",
+          "length_km": 5.75
+        },
+        {
+          "id": "03A-osm-21251280",
+          "name": "Mabolo-Carbon",
+          "from": "Mabolo",
+          "to": "Carbon Market",
+          "length_km": 6.08
+        }
+      ],
+      "stops": [
+        "Carbon Market Unit 3",
+        "MCWD",
+        "Urdaneta",
+        "CTU",
+        "Commission on Audit",
+        "Tejero Elementary School",
+        "T. Padilla",
+        "Museo Sugbo",
+        "Lorega",
+        "Carreta",
+        "Hipodromo",
+        "Gil Tudtud",
+        "Crossing Mabolo",
+        "Carmelite Monastery",
+        "Cardinal Rosales",
+        "Castle Peak Hotel",
+        "Villa Aurora",
+        "Shell F. Cabahug",
+        "Bonifacio District",
+        "Subangdaku Boundary",
+        "Mabini",
+        "Gaisano Main",
+        "Legaspi",
+        "BPI Manalili"
+      ],
+      "overlap": {
+        "osm_on_weebly": 1.0,
+        "weebly_on_osm": 1.0,
+        "threshold_m": 80
+      },
+      "osm_relations": [
+        21251279,
+        21251280
+      ],
+      "weebly_pages": [
+        "https://cebujeepneys.weebly.com/03a.html"
+      ],
+      "sources": [
+        "osm:relation/21251279",
+        "osm:relation/21251280",
+        "https://cebujeepneys.weebly.com/03a.html",
+        "© OpenStreetMap contributors (ODbL)",
+        "cross-check: Cebu Jeepney Maps by John Mercado Lee, CC BY-NC 3.0 (https://creativecommons.org/licenses/by-nc/3.0/). Source: https://cebujeepneys.weebly.com/"
+      ],
+      "note": null
+    },
+    {
+      "code": "03B",
+      "name": "Mabolo-Fuente-Carbon",
+      "from": "Mabolo",
+      "to": "Carbon Market",
+      "family": "03",
+      "status": "unconfirmed",
+      "auto_status": "unconfirmed",
+      "method": "osm_crosscheck",
+      "geometry_source": "osm",
+      "license": "ODbL",
+      "length_km": 6.0,
+      "directions": [
+        {
+          "id": "03B-osm-21251277",
+          "name": "Mabolo-Fuente-Carbon",
+          "from": "Mabolo",
+          "to": "Carbon Market",
+          "length_km": 4.38
+        },
+        {
+          "id": "03B-osm-21251278",
+          "name": "Mabolo-Fuente-Carbon",
+          "from": "Mabolo",
+          "to": "Carbon Market",
+          "length_km": 6.0
+        }
+      ],
+      "stops": [
+        "Carbon Market Unit 3",
+        "MCWD",
+        "Urdaneta",
+        "CTU",
+        "Commission on Audit",
+        "Tejero Elementary School",
+        "T. Padilla",
+        "Museo Sugbo",
+        "Lorega",
+        "Carreta",
+        "Hipodromo",
+        "Gil Tudtud",
+        "Crossing Mabolo",
+        "Metrobank Mabolo",
+        "GCH Building",
+        "Sindulan",
+        "M.J. Cuenco",
+        "Sacred Heart School",
+        "MYA Building",
+        "USC North Campus",
+        "Puregold Mango",
+        "Horizons 101",
+        "Mango Square",
+        "DOH Regional Office VII",
+        "VisayasMed Hospital",
+        "Uytengsu",
+        "CNU",
+        "Unitop",
+        "Metro Colon",
+        "USJ Recoletos",
+        "Freedom Park"
+      ],
+      "overlap": {
+        "osm_on_weebly": 0.966,
+        "weebly_on_osm": 0.978,
+        "threshold_m": 80
+      },
+      "osm_relations": [
+        21251277,
+        21251278
+      ],
+      "weebly_pages": [
+        "https://cebujeepneys.weebly.com/03b.html"
+      ],
+      "sources": [
+        "osm:relation/21251277",
+        "osm:relation/21251278",
+        "https://cebujeepneys.weebly.com/03b.html",
+        "© OpenStreetMap contributors (ODbL)",
+        "cross-check: Cebu Jeepney Maps by John Mercado Lee, CC BY-NC 3.0 (https://creativecommons.org/licenses/by-nc/3.0/). Source: https://cebujeepneys.weebly.com/"
+      ],
+      "note": null
+    },
+    {
+      "code": "03L",
+      "name": "Mabolo-Luyo-Carbon",
+      "from": "Carbon Market",
+      "to": "Mabolo",
+      "family": "03",
+      "status": "unconfirmed",
+      "auto_status": "unconfirmed",
+      "method": "osm_crosscheck",
+      "geometry_source": "osm",
+      "license": "ODbL",
+      "length_km": 5.63,
+      "directions": [
+        {
+          "id": "03L-osm-21251273",
+          "name": "Mabolo-Luyo-Carbon",
+          "from": "Carbon Market",
+          "to": "Mabolo",
+          "length_km": 3.31
+        },
+        {
+          "id": "03L-osm-21251274",
+          "name": "Mabolo-Luyo-Carbon",
+          "from": "Mabolo",
+          "to": "Carbon Market",
+          "length_km": 5.63
+        }
+      ],
+      "stops": [
+        "Carbon Market Unit 3",
+        "MCWD",
+        "Urdaneta",
+        "CTU",
+        "Commission on Audit",
+        "Tejero Elementary School",
+        "T. Padilla",
+        "Museo Sugbo",
+        "Lorega",
+        "Carreta",
+        "Hipodromo",
+        "Gil Tudtud",
+        "Mabolo",
+        "Limbong",
+        "Arca",
+        "New Era",
+        "East Gate",
+        "Cardinal Rosales",
+        "Carmelite Monastery",
+        "Crossing Mabolo",
+        "Mabini",
+        "Gaisano Main",
+        "Legaspi",
+        "BPI Manalili"
+      ],
+      "overlap": {
+        "osm_on_weebly": 1.0,
+        "weebly_on_osm": 0.844,
+        "threshold_m": 80
+      },
+      "osm_relations": [
+        21251273,
+        21251274
+      ],
+      "weebly_pages": [
+        "https://cebujeepneys.weebly.com/03l.html"
+      ],
+      "sources": [
+        "osm:relation/21251273",
+        "osm:relation/21251274",
+        "https://cebujeepneys.weebly.com/03l.html",
+        "© OpenStreetMap contributors (ODbL)",
+        "cross-check: Cebu Jeepney Maps by John Mercado Lee, CC BY-NC 3.0 (https://creativecommons.org/licenses/by-nc/3.0/). Source: https://cebujeepneys.weebly.com/"
+      ],
+      "note": null
+    },
+    {
+      "code": "03Q",
+      "name": "Ayala Center-SM City Cebu",
+      "from": "Ayala Center",
+      "to": "SM City Cebu",
+      "family": "03",
+      "status": "unconfirmed",
+      "auto_status": "unconfirmed",
+      "method": "osm_crosscheck",
+      "geometry_source": "osm",
+      "license": "ODbL",
+      "length_km": 4.02,
+      "directions": [
+        {
+          "id": "03Q-osm-21267107",
+          "name": "Ayala Center-SM City Cebu",
+          "from": "",
+          "to": "",
+          "length_km": 3.52
+        },
+        {
+          "id": "03Q-osm-21267108",
+          "name": "Ayala Center-SM City Cebu",
+          "from": "Ayala Center",
+          "to": "SM City Cebu",
+          "length_km": 4.02
+        }
+      ],
+      "stops": [
+        "SM City Cebu PUJ Terminal",
+        "Mabolo Elementary School",
+        "Crossing Mabolo",
+        "Carmelite Monastery",
+        "Cardinal Rosales",
+        "East Gate",
+        "Barrio Luz",
+        "Samar Loop",
+        "Negros Road",
+        "Ayala Center Terminal",
+        "SM City Cebu",
+        "North Bus Terminal"
+      ],
+      "overlap": {
+        "osm_on_weebly": 1.0,
+        "weebly_on_osm": 1.0,
+        "threshold_m": 80
+      },
+      "osm_relations": [
+        21267107,
+        21267108
+      ],
+      "weebly_pages": [
+        "https://cebujeepneys.weebly.com/03q.html"
+      ],
+      "sources": [
+        "osm:relation/21267107",
+        "osm:relation/21267108",
+        "https://cebujeepneys.weebly.com/03q.html",
+        "© OpenStreetMap contributors (ODbL)",
+        "cross-check: Cebu Jeepney Maps by John Mercado Lee, CC BY-NC 3.0 (https://creativecommons.org/licenses/by-nc/3.0/). Source: https://cebujeepneys.weebly.com/"
+      ],
+      "note": "Listed in guides. The team has not seen it on the road. Field-check."
+    },
+    {
+      "code": "04A",
+      "name": "04A",
+      "from": "",
+      "to": "",
+      "family": "04",
+      "status": "unconfirmed",
+      "auto_status": "unconfirmed",
+      "method": "none",
+      "geometry_source": "none",
+      "license": null,
+      "length_km": null,
+      "directions": [],
+      "stops": [],
+      "overlap": {
+        "osm_on_weebly": null,
+        "weebly_on_osm": null,
+        "threshold_m": 80
+      },
+      "osm_relations": [],
+      "weebly_pages": [],
+      "sources": [],
+      "note": "The team has not seen it on the road. Field-check."
+    },
+    {
+      "code": "04B",
+      "name": "Campo Lahug-Escario-Carbon",
+      "from": "Carbon Market",
+      "to": "Lahug",
+      "family": "04",
+      "status": "unconfirmed",
+      "auto_status": "unconfirmed",
+      "method": "osm_crosscheck",
+      "geometry_source": "osm",
+      "license": "ODbL",
+      "length_km": 6.6,
+      "directions": [
+        {
+          "id": "04B-osm-21251271",
+          "name": "Campo Lahug-Escario-Carbon",
+          "from": "Carbon Market",
+          "to": "Lahug",
+          "length_km": 6.6
+        },
+        {
+          "id": "04B-osm-21251272",
+          "name": "Campo Lahug-Escario-Carbon",
+          "from": "Campo Lahug",
+          "to": "Carbon Market",
+          "length_km": 6.07
+        }
+      ],
+      "stops": [
+        "Carbon Market Unit 3",
+        "MCWD",
+        "Jakosalem",
+        "LUYM Building",
+        "P. Gullas",
+        "Unitop",
+        "CNU",
+        "Uytengsu",
+        "VisayasMed Hospital",
+        "DOH Regional Office VII",
+        "Jose Rizal Memorial Library",
+        "Cebu Doctors Hospital",
+        "Capitol BRT Station",
+        "F. Ramos",
+        "Jollibee Escario",
+        "Sacred Heart",
+        "Gonzales Compound",
+        "GP Sy Building",
+        "UP Cebu",
+        "Lahug",
+        "LDS Cebu City Temple",
+        "Sudlon",
+        "JY Square Mall",
+        "Pasteur",
+        "Camp Lapu-Lapu",
+        "C. S. Rosal",
+        "Metro Colon",
+        "USJ Recoletos",
+        "Freedom Park"
+      ],
+      "overlap": {
+        "osm_on_weebly": 0.981,
+        "weebly_on_osm": 0.946,
+        "threshold_m": 80
+      },
+      "osm_relations": [
+        21251271,
+        21251272
+      ],
+      "weebly_pages": [
+        "https://cebujeepneys.weebly.com/04b.html"
+      ],
+      "sources": [
+        "osm:relation/21251271",
+        "osm:relation/21251272",
+        "https://cebujeepneys.weebly.com/04b.html",
+        "© OpenStreetMap contributors (ODbL)",
+        "cross-check: Cebu Jeepney Maps by John Mercado Lee, CC BY-NC 3.0 (https://creativecommons.org/licenses/by-nc/3.0/). Source: https://cebujeepneys.weebly.com/"
+      ],
+      "note": "suroy.ph lists it in 2026. The team has not seen it on the road. Field-check before treating it as active."
+    },
+    {
+      "code": "04C",
+      "name": "Campo Lahug-Ramos-Carbon",
+      "from": "Campo Lahug",
+      "to": "Carbon Market",
+      "family": "04",
+      "status": "unconfirmed",
+      "auto_status": "unconfirmed",
+      "method": "osm_crosscheck",
+      "geometry_source": "osm",
+      "license": "ODbL",
+      "length_km": 7.37,
+      "directions": [
+        {
+          "id": "04C-osm-21251269",
+          "name": "Campo Lahug-Ramos-Carbon",
+          "from": "Campo Lahug",
+          "to": "Carbon Market",
+          "length_km": 6.96
+        },
+        {
+          "id": "04C-osm-21251270",
+          "name": "Campo Lahug-Ramos-Carbon",
+          "from": "Campo Lahug",
+          "to": "Carbon Market",
+          "length_km": 7.37
+        }
+      ],
+      "stops": [
+        "Carbon Market Unit 3",
+        "MCWD",
+        "Cebu Metropolitan Cathedral",
+        "V. Gullas",
+        "J.C. Zamora",
+        "Bonifacio",
+        "P. del Rosario",
+        "R.R. Landon",
+        "Echavez Extension",
+        "St. Paul College High School",
+        "Primeway Suites",
+        "Mango Square",
+        "Horizons 101",
+        "Puregold Mango",
+        "USC North Campus",
+        "MYA Building",
+        "Colegio de la Inmaculada Concepcion",
+        "Asilo de la Milagrosa",
+        "Mitsubishi Gorordo",
+        "GP Sy Building",
+        "UP Cebu",
+        "Lahug",
+        "LDS Cebu City Temple",
+        "Sudlon",
+        "JY Square Mall",
+        "Pasteur",
+        "Camp Lapu-Lapu",
+        "R. Landon",
+        "USC Main",
+        "Junquera",
+        "Hotel Sogo",
+        "University of Cebu",
+        "Borromeo",
+        "Katipunan Lumber",
+        "Panganiban",
+        "Freedom Park"
+      ],
+      "overlap": {
+        "osm_on_weebly": 0.992,
+        "weebly_on_osm": 0.967,
+        "threshold_m": 80
+      },
+      "osm_relations": [
+        21251269,
+        21251270
+      ],
+      "weebly_pages": [
+        "https://cebujeepneys.weebly.com/04c.html"
+      ],
+      "sources": [
+        "osm:relation/21251269",
+        "osm:relation/21251270",
+        "https://cebujeepneys.weebly.com/04c.html",
+        "© OpenStreetMap contributors (ODbL)",
+        "cross-check: Cebu Jeepney Maps by John Mercado Lee, CC BY-NC 3.0 (https://creativecommons.org/licenses/by-nc/3.0/). Source: https://cebujeepneys.weebly.com/"
+      ],
+      "note": null
+    },
+    {
+      "code": "04D",
+      "name": "Plaza Housing-Carbon via Escario, Jones",
+      "from": "Carbon Market",
+      "to": "Plaza Housing",
+      "family": "04",
+      "status": "unconfirmed",
+      "auto_status": "unconfirmed",
+      "method": "osm_crosscheck",
+      "geometry_source": "osm",
+      "license": "ODbL",
+      "length_km": 9.48,
+      "directions": [
+        {
+          "id": "04D-osm-21254495",
+          "name": "Plaza Housing-Carbon via Escario, Jones",
+          "from": "Carbon Market",
+          "to": "Plaza Housing",
+          "length_km": 8.19
+        },
+        {
+          "id": "04D-osm-21254496",
+          "name": "Plaza Housing-Carbon via Escario, Jones",
+          "from": "Plaza Housing",
+          "to": "Carbon Market",
+          "length_km": 9.48
+        },
+        {
+          "id": "04D-osm-21256979",
+          "name": "Plaza Housing-Lahug-Ramos-Carbon",
+          "from": "Carbon Market",
+          "to": "Plaza Housing",
+          "length_km": 8.77
+        },
+        {
+          "id": "04D-osm-21256981",
+          "name": "Plaza Housing-Lahug-Carbon-Magallanes",
+          "from": "Carbon Market",
+          "to": "Plaza Housing",
+          "length_km": 8.58
+        }
+      ],
+      "stops": [
+        "MCWD",
+        "Cebu Metropolitan Cathedral",
+        "Jakosalem",
+        "Colonnade Mall",
+        "PSBank Colon",
+        "USC Main",
+        "CNU",
+        "Uytengsu",
+        "VisayasMed Hospital",
+        "DOH Regional Office VII",
+        "Jose Rizal Memorial Library",
+        "Cebu Doctors Hospital",
+        "Capitol BRT Station",
+        "F. Ramos",
+        "Jollibee Escario",
+        "Sacred Heart",
+        "Gonzales Compound",
+        "GP Sy Building",
+        "UP Cebu",
+        "Lahug",
+        "LDS Cebu City Temple",
+        "Sudlon",
+        "Cosmopolitan Funeral Home",
+        "Chrysler Cebu",
+        "Tops Restaurant",
+        "Marco Polo Plaza",
+        "Nivel Hills",
+        "Nivel Hills Chapel",
+        "Busay Multipurpose Hall",
+        "Plaza Housing",
+        "JY Square Mall",
+        "C. S. Rosal",
+        "University of Cebu",
+        "Borromeo",
+        "Taboan Market",
+        "C. Padilla",
+        "San Nicolas Parish",
+        "Panganiban",
+        "BDO Manalili",
+        "Plaridel",
+        "Plaza Sugbo",
+        "Carbon Market Unit 3",
+        "V. Gullas",
+        "J.C. Zamora",
+        "Bonifacio",
+        "P. del Rosario",
+        "R.R. Landon",
+        "Echavez Extension",
+        "St. Paul College High School",
+        "Velez General Hospital",
+        "Primeway Suites",
+        "Mango Square",
+        "Horizons 101",
+        "Puregold Mango",
+        "USC North Campus",
+        "MYA Building",
+        "Colegio de la Inmaculada Concepcion",
+        "Asilo de la Milagrosa",
+        "Mitsubishi Gorordo"
+      ],
+      "overlap": {
+        "osm_on_weebly": 0.889,
+        "weebly_on_osm": 0.743,
+        "threshold_m": 80
+      },
+      "osm_relations": [
+        21254495,
+        21254496,
+        21256979,
+        21256981
+      ],
+      "weebly_pages": [
+        "https://cebujeepneys.weebly.com/04d.html"
+      ],
+      "sources": [
+        "osm:relation/21254495",
+        "osm:relation/21254496",
+        "osm:relation/21256979",
+        "osm:relation/21256981",
+        "https://cebujeepneys.weebly.com/04d.html",
+        "© OpenStreetMap contributors (ODbL)",
+        "cross-check: Cebu Jeepney Maps by John Mercado Lee, CC BY-NC 3.0 (https://creativecommons.org/licenses/by-nc/3.0/). Source: https://cebujeepneys.weebly.com/"
+      ],
+      "note": null
+    },
+    {
+      "code": "04H",
+      "name": "Plaza Housing-Lahug-Carbon-Magallanes",
+      "from": "Plaza Housing",
+      "to": "Carbon Market",
+      "family": "04",
+      "status": "unconfirmed",
+      "auto_status": "unconfirmed",
+      "method": "osm_crosscheck",
+      "geometry_source": "osm",
+      "license": "ODbL",
+      "length_km": 8.62,
+      "directions": [
+        {
+          "id": "04H-osm-21256982",
+          "name": "Plaza Housing-Lahug-Carbon-Magallanes",
+          "from": "Plaza Housing",
+          "to": "Carbon Market",
+          "length_km": 8.62
+        }
+      ],
+      "stops": [
+        "Plaza Housing",
+        "Busay Multipurpose Hall",
+        "Nivel Hills Chapel",
+        "Nivel Hills",
+        "Marco Polo Plaza",
+        "Tops Restaurant",
+        "Chrysler Cebu",
+        "Cosmopolitan Funeral Home",
+        "JY Square Mall",
+        "Sudlon",
+        "LDS Cebu City Temple",
+        "Lahug",
+        "UP Cebu",
+        "C. S. Rosal",
+        "Gonzales Compound",
+        "Sacred Heart",
+        "Jollibee Escario",
+        "F. Ramos",
+        "Capitol BRT Station",
+        "Cebu Doctors Hospital",
+        "Jose Rizal Memorial Library",
+        "DOH Regional Office VII",
+        "VisayasMed Hospital",
+        "Uytengsu",
+        "CNU",
+        "University of Cebu",
+        "Borromeo",
+        "Katipunan Lumber",
+        "Panganiban",
+        "Freedom Park",
+        "Carbon Market Unit 3"
+      ],
+      "overlap": {
+        "osm_on_weebly": 1.0,
+        "weebly_on_osm": 0.667,
+        "threshold_m": 80
+      },
+      "osm_relations": [
+        21256982
+      ],
+      "weebly_pages": [
+        "https://cebujeepneys.weebly.com/04h.html"
+      ],
+      "sources": [
+        "osm:relation/21256982",
+        "https://cebujeepneys.weebly.com/04h.html",
+        "© OpenStreetMap contributors (ODbL)",
+        "cross-check: Cebu Jeepney Maps by John Mercado Lee, CC BY-NC 3.0 (https://creativecommons.org/licenses/by-nc/3.0/). Source: https://cebujeepneys.weebly.com/"
+      ],
+      "note": null
+    },
+    {
+      "code": "04I",
+      "name": "Plaza Housing-Lahug-Ramos-Carbon",
+      "from": "Plaza Housing",
+      "to": "Carbon Market",
+      "family": "04",
+      "status": "disputed",
+      "auto_status": "unconfirmed",
+      "method": "osm_crosscheck",
+      "geometry_source": "osm",
+      "license": "ODbL",
+      "length_km": 9.13,
+      "directions": [
+        {
+          "id": "04I-osm-21256980",
+          "name": "Plaza Housing-Lahug-Ramos-Carbon",
+          "from": "Plaza Housing",
+          "to": "Carbon Market",
+          "length_km": 9.13
+        }
+      ],
+      "stops": [
+        "Plaza Housing",
+        "Busay Multipurpose Hall",
+        "Nivel Hills Chapel",
+        "Nivel Hills",
+        "Marco Polo Plaza",
+        "Tops Restaurant",
+        "Chrysler Cebu",
+        "Cosmopolitan Funeral Home",
+        "JY Square Mall",
+        "Sudlon",
+        "LDS Cebu City Temple",
+        "Lahug",
+        "UP Cebu",
+        "GP Sy Building",
+        "Mitsubishi Gorordo",
+        "Asilo de la Milagrosa",
+        "Colegio de la Inmaculada Concepcion",
+        "MYA Building",
+        "USC North Campus",
+        "Puregold Mango",
+        "Horizons 101",
+        "Mango Square",
+        "Primeway Suites",
+        "St. Paul College High School",
+        "R. Landon",
+        "USC Main",
+        "Junquera",
+        "Hotel Sogo",
+        "University of Cebu",
+        "Borromeo",
+        "Katipunan Lumber",
+        "Panganiban",
+        "Freedom Park",
+        "Carbon Market Unit 3"
+      ],
+      "overlap": {
+        "osm_on_weebly": 1.0,
+        "weebly_on_osm": 0.663,
+        "threshold_m": 80
+      },
+      "osm_relations": [
+        21256980
+      ],
+      "weebly_pages": [
+        "https://cebujeepneys.weebly.com/04i.html"
+      ],
+      "sources": [
+        "osm:relation/21256980",
+        "https://cebujeepneys.weebly.com/04i.html",
+        "© OpenStreetMap contributors (ODbL)",
+        "cross-check: Cebu Jeepney Maps by John Mercado Lee, CC BY-NC 3.0 (https://creativecommons.org/licenses/by-nc/3.0/). Source: https://cebujeepneys.weebly.com/"
+      ],
+      "note": "One guide says Plaza Housing-Carbon, another says Busay-Carbon. Ride it before picking an endpoint."
+    },
+    {
+      "code": "04L",
+      "name": "Lahug-SM Cebu",
+      "from": "",
+      "to": "",
+      "family": "04",
+      "status": "unconfirmed",
+      "auto_status": "unconfirmed",
+      "method": "osm_crosscheck",
+      "geometry_source": "osm",
+      "license": "ODbL",
+      "length_km": 4.77,
+      "directions": [
+        {
+          "id": "04L-osm-14991302",
+          "name": "Lahug-SM Cebu",
+          "from": "",
+          "to": "",
+          "length_km": 3.79
+        },
+        {
+          "id": "04L-osm-14991303",
+          "name": "Lahug-SM Cebu",
+          "from": "",
+          "to": "",
+          "length_km": 4.77
+        }
+      ],
+      "stops": [
+        "North Bus Terminal",
+        "SM City Cebu",
+        "Crossing Mabolo",
+        "Carmelite Monastery",
+        "Cardinal Rosales",
+        "San Carlos Seminary",
+        "Cuenco Flyover",
+        "Honda Cebu",
+        "Metro Sports Center",
+        "University of Southern Philippines",
+        "JY Square Mall",
+        "Sudlon",
+        "LDS Cebu City Temple",
+        "Lahug",
+        "UP Cebu",
+        "GP Sy Building",
+        "Ayala South",
+        "Pag-IBIG",
+        "Barrio Luz",
+        "East Gate",
+        "Mabolo Elementary School",
+        "Juan Luna"
+      ],
+      "overlap": {
+        "osm_on_weebly": 0.838,
+        "weebly_on_osm": 0.939,
+        "threshold_m": 80
+      },
+      "osm_relations": [
+        14991302,
+        14991303
+      ],
+      "weebly_pages": [
+        "https://cebujeepneys.weebly.com/04l.html"
+      ],
+      "sources": [
+        "osm:relation/14991302",
+        "osm:relation/14991303",
+        "https://cebujeepneys.weebly.com/04l.html",
+        "© OpenStreetMap contributors (ODbL)",
+        "cross-check: Cebu Jeepney Maps by John Mercado Lee, CC BY-NC 3.0 (https://creativecommons.org/licenses/by-nc/3.0/). Source: https://cebujeepneys.weebly.com/"
+      ],
+      "note": null
+    },
+    {
+      "code": "04M",
+      "name": "Ayala Center-Lahug",
+      "from": "Ayala Center",
+      "to": "Lahug",
+      "family": "04",
+      "status": "unconfirmed",
+      "auto_status": "unconfirmed",
+      "method": "osm_crosscheck",
+      "geometry_source": "osm",
+      "license": "ODbL",
+      "length_km": 2.36,
+      "directions": [
+        {
+          "id": "04M-osm-20587180",
+          "name": "Ayala Center-Lahug",
+          "from": "",
+          "to": "",
+          "length_km": 2.21
+        },
+        {
+          "id": "04M-osm-20587181",
+          "name": "Ayala Center-Lahug",
+          "from": "Ayala Center",
+          "to": "Lahug",
+          "length_km": 2.36
+        }
+      ],
+      "stops": [
+        "JY Square Mall",
+        "University of Southern Philippines",
+        "Cebu Exchange",
+        "Luz",
+        "Ayala Center Terminal",
+        "Gorordo",
+        "UP Cebu",
+        "Lahug",
+        "LDS Cebu City Temple",
+        "Sudlon"
+      ],
+      "overlap": {
+        "osm_on_weebly": 1.0,
+        "weebly_on_osm": 1.0,
+        "threshold_m": 80
+      },
+      "osm_relations": [
+        20587180,
+        20587181
+      ],
+      "weebly_pages": [
+        "https://cebujeepneys.weebly.com/04m.html"
+      ],
+      "sources": [
+        "osm:relation/20587180",
+        "osm:relation/20587181",
+        "https://cebujeepneys.weebly.com/04m.html",
+        "© OpenStreetMap contributors (ODbL)",
+        "cross-check: Cebu Jeepney Maps by John Mercado Lee, CC BY-NC 3.0 (https://creativecommons.org/licenses/by-nc/3.0/). Source: https://cebujeepneys.weebly.com/"
+      ],
+      "note": "The team has not seen it on the road. Field-check."
+    },
+    {
+      "code": "06B",
+      "name": "Guadalupe-Jones-Carbon",
+      "from": "Carbon Market",
+      "to": "Guadalupe",
+      "family": "06",
+      "status": "unconfirmed",
+      "auto_status": "unconfirmed",
+      "method": "osm_crosscheck",
+      "geometry_source": "osm",
+      "license": "ODbL",
+      "length_km": 6.23,
+      "directions": [
+        {
+          "id": "06B-osm-21142705",
+          "name": "Guadalupe-Jones-Carbon",
+          "from": "Carbon Market",
+          "to": "Guadalupe",
+          "length_km": 6.23
+        },
+        {
+          "id": "06B-osm-21142706",
+          "name": "Guadalupe-Jones-Carbon",
+          "from": "Guadalupe",
+          "to": "Carbon Market",
+          "length_km": 5.56
+        }
+      ],
+      "stops": [
+        "Carbon Market Unit 3",
+        "MCWD",
+        "Jakosalem",
+        "LUYM Building",
+        "P. Gullas",
+        "Unitop",
+        "CNU",
+        "Uytengsu",
+        "VisayasMed Hospital",
+        "DOH Regional Office VII",
+        "Jose Rizal Memorial Library",
+        "Cebu Doctors Hospital",
+        "Capitol BRT Station",
+        "Cebu Provincial Capitol",
+        "Metrobank Guadalupe",
+        "SMEAG Global Education",
+        "L. Bacayo",
+        "P. Duterte Elementary School",
+        "Puregold Guadalupe",
+        "Guadalajara",
+        "A. Theresa",
+        "Guadalupe Church",
+        "Banawa",
+        "EastWest Unibank M. Velez",
+        "M. Velez Bridge",
+        "Metro Colon",
+        "USJ Recoletos",
+        "Freedom Park"
+      ],
+      "overlap": {
+        "osm_on_weebly": 0.99,
+        "weebly_on_osm": 0.991,
+        "threshold_m": 80
+      },
+      "osm_relations": [
+        21142705,
+        21142706
+      ],
+      "weebly_pages": [
+        "https://cebujeepneys.weebly.com/06b.html"
+      ],
+      "sources": [
+        "osm:relation/21142705",
+        "osm:relation/21142706",
+        "https://cebujeepneys.weebly.com/06b.html",
+        "© OpenStreetMap contributors (ODbL)",
+        "cross-check: Cebu Jeepney Maps by John Mercado Lee, CC BY-NC 3.0 (https://creativecommons.org/licenses/by-nc/3.0/). Source: https://cebujeepneys.weebly.com/"
+      ],
+      "note": null
+    },
+    {
+      "code": "06C",
+      "name": "Guadalupe-Carbon via Jones, B. Rodriguez, Englis",
+      "from": "Carbon Market",
+      "to": "Guadalupe",
+      "family": "06",
+      "status": "unconfirmed",
+      "auto_status": "unconfirmed",
+      "method": "osm_crosscheck",
+      "geometry_source": "osm",
+      "license": "ODbL",
+      "length_km": 6.6,
+      "directions": [
+        {
+          "id": "06C-osm-21265626",
+          "name": "Guadalupe-Carbon via Jones, B. Rodriguez, Englis",
+          "from": "Carbon Market",
+          "to": "Guadalupe",
+          "length_km": 6.6
+        },
+        {
+          "id": "06C-osm-21265627",
+          "name": "Guadalupe-Carbon via Jones, B. Rodriguez, Englis",
+          "from": "",
+          "to": "",
+          "length_km": 5.63
+        }
+      ],
+      "stops": [
+        "Carbon Market Unit 3",
+        "MCWD",
+        "Jakosalem",
+        "LUYM Building",
+        "P. Gullas",
+        "Unitop",
+        "CNU",
+        "Uytengsu",
+        "VisayasMed Hospital",
+        "DOH Regional Office VII",
+        "Vicente Sotto Memorial Medical Center",
+        "B. Rodriguez Extension",
+        "Phoenix B. Rodriguez",
+        "P. Abella",
+        "Securities and Exchange Commision",
+        "Banawa",
+        "L. Bacayo",
+        "P. Duterte Elementary School",
+        "Puregold Guadalupe",
+        "Guadalajara",
+        "A. Theresa",
+        "Guadalupe Church",
+        "Magallanes"
+      ],
+      "overlap": {
+        "osm_on_weebly": 1.0,
+        "weebly_on_osm": 1.0,
+        "threshold_m": 80
+      },
+      "osm_relations": [
+        21265626,
+        21265627
+      ],
+      "weebly_pages": [
+        "https://cebujeepneys.weebly.com/06c.html"
+      ],
+      "sources": [
+        "osm:relation/21265626",
+        "osm:relation/21265627",
+        "https://cebujeepneys.weebly.com/06c.html",
+        "© OpenStreetMap contributors (ODbL)",
+        "cross-check: Cebu Jeepney Maps by John Mercado Lee, CC BY-NC 3.0 (https://creativecommons.org/licenses/by-nc/3.0/). Source: https://cebujeepneys.weebly.com/"
+      ],
+      "note": null
+    },
+    {
+      "code": "06F",
+      "name": "Guadalupe-Magallanes",
+      "from": "Magallanes",
+      "to": "Guadalupe",
+      "family": "06",
+      "status": "unconfirmed",
+      "auto_status": "unconfirmed",
+      "method": "osm_crosscheck",
+      "geometry_source": "osm",
+      "license": "ODbL",
+      "length_km": 5.98,
+      "directions": [
+        {
+          "id": "06F-osm-21267111",
+          "name": "Guadalupe-Magallanes",
+          "from": "Magallanes",
+          "to": "Guadalupe",
+          "length_km": 5.87
+        },
+        {
+          "id": "06F-osm-21267112",
+          "name": "Guadalupe-Magallanes",
+          "from": "Guadalupe",
+          "to": "Magallanes",
+          "length_km": 5.98
+        }
+      ],
+      "stops": [
+        "MCWD",
+        "Jakosalem",
+        "LUYM Building",
+        "P. Gullas",
+        "Unitop",
+        "CNU",
+        "Uytengsu",
+        "VisayasMed Hospital",
+        "DOH Regional Office VII",
+        "Jose Rizal Memorial Library",
+        "Cebu Doctors Hospital",
+        "Capitol BRT Station",
+        "Cebu Provincial Capitol",
+        "Metrobank Guadalupe",
+        "EastWest Unibank M. Velez",
+        "Banawa",
+        "L. Bacayo",
+        "P. Duterte Elementary School",
+        "Puregold Guadalupe",
+        "Guadalajara",
+        "A. Theresa",
+        "Guadalupe Church",
+        "M. Velez Bridge",
+        "Magallanes",
+        "Carbon Market Unit 3"
+      ],
+      "overlap": {
+        "osm_on_weebly": null,
+        "weebly_on_osm": null,
+        "threshold_m": 80
+      },
+      "osm_relations": [
+        21267111,
+        21267112
+      ],
+      "weebly_pages": [],
+      "sources": [
+        "osm:relation/21267111",
+        "osm:relation/21267112",
+        "© OpenStreetMap contributors (ODbL)"
+      ],
+      "note": null
+    },
+    {
+      "code": "06G",
+      "name": "Guadalupe-San Nicolas",
+      "from": "San Nicolas",
+      "to": "Guadalupe",
+      "family": "06",
+      "status": "unconfirmed",
+      "auto_status": "unconfirmed",
+      "method": "osm_crosscheck",
+      "geometry_source": "osm",
+      "license": "ODbL",
+      "length_km": 6.08,
+      "directions": [
+        {
+          "id": "06G-osm-21142707",
+          "name": "Guadalupe-San Nicolas",
+          "from": "San Nicolas",
+          "to": "Guadalupe",
+          "length_km": 6.08
+        },
+        {
+          "id": "06G-osm-21142708",
+          "name": "Guadalupe-San Nicolas",
+          "from": "Guadalupe",
+          "to": "San Nicolas",
+          "length_km": 5.29
+        }
+      ],
+      "stops": [
+        "San Nicolas Parish",
+        "Gothong High School",
+        "Carlock",
+        "Salazar Colleges",
+        "V. Rama",
+        "J. Alcantara",
+        "USC South Campus V. Rama Entrance",
+        "Calamba Cemetery",
+        "B. Rodriguez",
+        "P. Abella",
+        "Securities and Exchange Commision",
+        "L. Bacayo",
+        "Banawa",
+        "P. Duterte Elementary School",
+        "Puregold Guadalupe",
+        "Guadalupe Church",
+        "A. Theresa",
+        "Guadalajara",
+        "Adventist Hospital",
+        "San Nicolas Elementary School",
+        "Figueroa",
+        "C. Padilla"
+      ],
+      "overlap": {
+        "osm_on_weebly": 1.0,
+        "weebly_on_osm": 1.0,
+        "threshold_m": 80
+      },
+      "osm_relations": [
+        21142707,
+        21142708
+      ],
+      "weebly_pages": [
+        "https://cebujeepneys.weebly.com/06g.html"
+      ],
+      "sources": [
+        "osm:relation/21142707",
+        "osm:relation/21142708",
+        "https://cebujeepneys.weebly.com/06g.html",
+        "© OpenStreetMap contributors (ODbL)",
+        "cross-check: Cebu Jeepney Maps by John Mercado Lee, CC BY-NC 3.0 (https://creativecommons.org/licenses/by-nc/3.0/). Source: https://cebujeepneys.weebly.com/"
+      ],
+      "note": null
+    },
+    {
+      "code": "06H",
+      "name": "Guadalupe-SM City Cebu",
+      "from": "SM City Cebu",
+      "to": "Guadalupe",
+      "family": "06",
+      "status": "unconfirmed",
+      "auto_status": "unconfirmed",
+      "method": "osm_crosscheck",
+      "geometry_source": "osm",
+      "license": "ODbL",
+      "length_km": 8.53,
+      "directions": [
+        {
+          "id": "06H-osm-21267109",
+          "name": "Guadalupe-SM City Cebu",
+          "from": "SM City Cebu",
+          "to": "Guadalupe",
+          "length_km": 8.19
+        },
+        {
+          "id": "06H-osm-21267110",
+          "name": "Guadalupe-SM City Cebu",
+          "from": "Guadalupe",
+          "to": "SM City Cebu",
+          "length_km": 8.53
+        }
+      ],
+      "stops": [
+        "SM City Cebu PUJ Terminal",
+        "Mabolo Elementary School",
+        "Crossing Mabolo",
+        "Carmelite Monastery",
+        "Cardinal Rosales",
+        "East Gate",
+        "Barrio Luz",
+        "Samar Loop",
+        "Negros Road",
+        "Acacia",
+        "Perpetual Succor Hospital",
+        "Puregold Mango",
+        "Horizons 101",
+        "Mango Square",
+        "Vicente Sotto Memorial Medical Center",
+        "B. Rodriguez Extension",
+        "Phoenix B. Rodriguez",
+        "P. Abella",
+        "Securities and Exchange Commision",
+        "Banawa",
+        "L. Bacayo",
+        "P. Duterte Elementary School",
+        "Puregold Guadalupe",
+        "Guadalajara",
+        "A. Theresa",
+        "Guadalupe Church",
+        "EastWest Unibank M. Velez",
+        "M. Velez Bridge",
+        "Cebu Provincial Capitol",
+        "Capitol BRT Station",
+        "F. Ramos",
+        "Jollibee Escario",
+        "Sacred Heart",
+        "Gonzales Compound",
+        "Ayala South",
+        "Seda Ayala Cebu",
+        "SM City Cebu",
+        "North Bus Terminal"
+      ],
+      "overlap": {
+        "osm_on_weebly": 0.993,
+        "weebly_on_osm": 0.986,
+        "threshold_m": 80
+      },
+      "osm_relations": [
+        21267109,
+        21267110
+      ],
+      "weebly_pages": [
+        "https://cebujeepneys.weebly.com/06h.html"
+      ],
+      "sources": [
+        "osm:relation/21267109",
+        "osm:relation/21267110",
+        "https://cebujeepneys.weebly.com/06h.html",
+        "© OpenStreetMap contributors (ODbL)",
+        "cross-check: Cebu Jeepney Maps by John Mercado Lee, CC BY-NC 3.0 (https://creativecommons.org/licenses/by-nc/3.0/). Source: https://cebujeepneys.weebly.com/"
+      ],
+      "note": null
+    },
+    {
+      "code": "07B",
+      "name": "Banawa-Carbon via Capitol, Jones",
+      "from": "Carbon Market",
+      "to": "Banawa",
+      "family": "07",
+      "status": "unconfirmed",
+      "auto_status": "unconfirmed",
+      "method": "osm_crosscheck",
+      "geometry_source": "osm",
+      "license": "ODbL",
+      "length_km": 6.15,
+      "directions": [
+        {
+          "id": "07B-osm-21267105",
+          "name": "Banawa-Carbon via Capitol, Jones",
+          "from": "Carbon Market",
+          "to": "Banawa",
+          "length_km": 6.15
+        },
+        {
+          "id": "07B-osm-21267106",
+          "name": "Banawa-Carbon via Capitol, Jones",
+          "from": "Banawa",
+          "to": "Carbon Market",
+          "length_km": 5.66
+        }
+      ],
+      "stops": [
+        "Carbon Market Unit 3",
+        "MCWD",
+        "Jakosalem",
+        "LUYM Building",
+        "P. Gullas",
+        "Unitop",
+        "CNU",
+        "Uytengsu",
+        "VisayasMed Hospital",
+        "DOH Regional Office VII",
+        "Jose Rizal Memorial Library",
+        "Cebu Doctors Hospital",
+        "Capitol BRT Station",
+        "Cebu Provincial Capitol",
+        "Metrobank Guadalupe",
+        "EastWest Unibank M. Velez",
+        "Jollibee Banawa",
+        "MHAM",
+        "Good Shepherd",
+        "The Marketplace",
+        "Paseo Arcenas",
+        "South Hills International School",
+        "P. Abella",
+        "M. Velez Bridge",
+        "Metro Colon",
+        "BDO Manalili",
+        "BPI Manalili"
+      ],
+      "overlap": {
+        "osm_on_weebly": 1.0,
+        "weebly_on_osm": 0.99,
+        "threshold_m": 80
+      },
+      "osm_relations": [
+        21267105,
+        21267106
+      ],
+      "weebly_pages": [
+        "https://cebujeepneys.weebly.com/07b.html"
+      ],
+      "sources": [
+        "osm:relation/21267105",
+        "osm:relation/21267106",
+        "https://cebujeepneys.weebly.com/07b.html",
+        "© OpenStreetMap contributors (ODbL)",
+        "cross-check: Cebu Jeepney Maps by John Mercado Lee, CC BY-NC 3.0 (https://creativecommons.org/licenses/by-nc/3.0/). Source: https://cebujeepneys.weebly.com/"
+      ],
+      "note": null
+    },
+    {
+      "code": "08G",
+      "name": "Alumnos-Colon",
+      "from": "Colon",
+      "to": "Alumnos",
+      "family": "08",
+      "status": "unconfirmed",
+      "auto_status": "unconfirmed",
+      "method": "osm_crosscheck",
+      "geometry_source": "osm",
+      "license": "ODbL",
+      "length_km": 4.96,
+      "directions": [
+        {
+          "id": "08G-osm-21241370",
+          "name": "Alumnos-Colon",
+          "from": "Colon",
+          "to": "Alumnos",
+          "length_km": 4.91
+        },
+        {
+          "id": "08G-osm-21241371",
+          "name": "Alumnos-Colon",
+          "from": "Alumnos",
+          "to": "Colon",
+          "length_km": 4.96
+        }
+      ],
+      "stops": [
+        "Commission on Audit",
+        "CTU",
+        "Cebu Metropolitan Cathedral",
+        "Jakosalem",
+        "Legaspi",
+        "BDO Manalili",
+        "Panganiban",
+        "Tres de Abril",
+        "Lakandula",
+        "Gothong High School",
+        "Carlock",
+        "R. Padilla",
+        "Jai Alai",
+        "Mambaling",
+        "Tabada",
+        "Alumnos - Tabada",
+        "Alumnos",
+        "Saint Anthony Mother and Child Hospital",
+        "Carlock Cockpit Arena",
+        "Cebu City Sports Institute",
+        "J. Climaco",
+        "Gaisano Capital South",
+        "Colonnade Mall",
+        "Gaisano Main",
+        "Colon Obelisk"
+      ],
+      "overlap": {
+        "osm_on_weebly": 1.0,
+        "weebly_on_osm": 0.977,
+        "threshold_m": 80
+      },
+      "osm_relations": [
+        21241370,
+        21241371
+      ],
+      "weebly_pages": [
+        "https://cebujeepneys.weebly.com/08g.html"
+      ],
+      "sources": [
+        "osm:relation/21241370",
+        "osm:relation/21241371",
+        "https://cebujeepneys.weebly.com/08g.html",
+        "© OpenStreetMap contributors (ODbL)",
+        "cross-check: Cebu Jeepney Maps by John Mercado Lee, CC BY-NC 3.0 (https://creativecommons.org/licenses/by-nc/3.0/). Source: https://cebujeepneys.weebly.com/"
+      ],
+      "note": null
+    },
+    {
+      "code": "09C",
+      "name": "Pardo-Carbon",
+      "from": "Carbon Market",
+      "to": "Pardo",
+      "family": "09",
+      "status": "unconfirmed",
+      "auto_status": "unconfirmed",
+      "method": "osm_crosscheck",
+      "geometry_source": "osm",
+      "license": "ODbL",
+      "length_km": 7.72,
+      "directions": [
+        {
+          "id": "09C-osm-21267103",
+          "name": "Pardo-Carbon",
+          "from": "Carbon Market",
+          "to": "Pardo",
+          "length_km": 4.82
+        },
+        {
+          "id": "09C-osm-21267104",
+          "name": "Pardo-Carbon",
+          "from": "Pardo",
+          "to": "Carbon Market",
+          "length_km": 7.72
+        }
+      ],
+      "stops": [
+        "Plaza Sugbo",
+        "Plaridel",
+        "BDO Manalili",
+        "Panganiban",
+        "Tres de Abril",
+        "Lakandula",
+        "Gothong High School",
+        "Carlock",
+        "R. Padilla",
+        "CIT",
+        "Mambaling Elementary School",
+        "Grand Orchard South",
+        "Friendship Village",
+        "Basak Pardo",
+        "USJ Recoletos Basak",
+        "Sitio Bayanihan",
+        "Quiot Pardo",
+        "Honey Ville",
+        "Greenbelt Subdivision",
+        "Rainbow Connection Child Learning Center",
+        "Macopa",
+        "Don Vicente Rama Memorial National High School",
+        "Tri-J Marketing",
+        "Shopwise",
+        "Salazar Colleges",
+        "V. Rama",
+        "Cebu City Medical Center",
+        "Cebu South Bus Terminal",
+        "RCBC P. del Rosario",
+        "Jakosalem",
+        "Bonifacio",
+        "Museo Pari-an",
+        "Cebu Metropolitan Cathedral"
+      ],
+      "overlap": {
+        "osm_on_weebly": 1.0,
+        "weebly_on_osm": 1.0,
+        "threshold_m": 80
+      },
+      "osm_relations": [
+        21267103,
+        21267104
+      ],
+      "weebly_pages": [
+        "https://cebujeepneys.weebly.com/09c.html"
+      ],
+      "sources": [
+        "osm:relation/21267103",
+        "osm:relation/21267104",
+        "https://cebujeepneys.weebly.com/09c.html",
+        "© OpenStreetMap contributors (ODbL)",
+        "cross-check: Cebu Jeepney Maps by John Mercado Lee, CC BY-NC 3.0 (https://creativecommons.org/licenses/by-nc/3.0/). Source: https://cebujeepneys.weebly.com/"
+      ],
+      "note": null
+    },
+    {
+      "code": "09F",
+      "name": "Pardo-Colon",
+      "from": "Colon",
+      "to": "Pardo",
+      "family": "09",
+      "status": "unconfirmed",
+      "auto_status": "unconfirmed",
+      "method": "osm_crosscheck",
+      "geometry_source": "osm",
+      "license": "ODbL",
+      "length_km": 7.62,
+      "directions": [
+        {
+          "id": "09F-osm-21267101",
+          "name": "Pardo-Colon",
+          "from": "Colon",
+          "to": "Pardo",
+          "length_km": 5.26
+        },
+        {
+          "id": "09F-osm-21267102",
+          "name": "Pardo-Colon",
+          "from": "Pardo",
+          "to": "Colon",
+          "length_km": 7.62
+        }
+      ],
+      "stops": [
+        "Cebu Metropolitan Cathedral",
+        "Jakosalem",
+        "Legaspi",
+        "BDO Manalili",
+        "Panganiban",
+        "Tres de Abril",
+        "Lakandula",
+        "Gothong High School",
+        "Carlock",
+        "R. Padilla",
+        "CIT",
+        "Mambaling Elementary School",
+        "Grand Orchard South",
+        "Friendship Village",
+        "Basak Pardo",
+        "USJ Recoletos Basak",
+        "Sitio Bayanihan",
+        "Quiot Pardo",
+        "Honey Ville",
+        "Greenbelt Subdivision",
+        "Rainbow Connection Child Learning Center",
+        "Macopa",
+        "Don Vicente Rama Memorial National High School",
+        "Tri-J Marketing",
+        "Shopwise",
+        "Salazar Colleges",
+        "V. Rama",
+        "Cebu City Medical Center",
+        "Cebu South Bus Terminal",
+        "USC Main",
+        "Gaisano Main",
+        "Colon Obelisk",
+        "Museo Pari-an",
+        "M.J. Cuenco",
+        "CTU"
+      ],
+      "overlap": {
+        "osm_on_weebly": 1.0,
+        "weebly_on_osm": 1.0,
+        "threshold_m": 80
+      },
+      "osm_relations": [
+        21267101,
+        21267102
+      ],
+      "weebly_pages": [
+        "https://cebujeepneys.weebly.com/09f.html"
+      ],
+      "sources": [
+        "osm:relation/21267101",
+        "osm:relation/21267102",
+        "https://cebujeepneys.weebly.com/09f.html",
+        "© OpenStreetMap contributors (ODbL)",
+        "cross-check: Cebu Jeepney Maps by John Mercado Lee, CC BY-NC 3.0 (https://creativecommons.org/licenses/by-nc/3.0/). Source: https://cebujeepneys.weebly.com/"
+      ],
+      "note": null
+    },
+    {
+      "code": "09G",
+      "name": "Basak-Colon",
+      "from": "Colon",
+      "to": "Basak",
+      "family": "09",
+      "status": "unconfirmed",
+      "auto_status": "unconfirmed",
+      "method": "osm_crosscheck",
+      "geometry_source": "osm",
+      "license": "ODbL",
+      "length_km": 7.2,
+      "directions": [
+        {
+          "id": "09G-osm-21241368",
+          "name": "Basak-Colon",
+          "from": "Colon",
+          "to": "Basak",
+          "length_km": 4.79
+        },
+        {
+          "id": "09G-osm-21241369",
+          "name": "Basak-Colon",
+          "from": "Basak",
+          "to": "Colon",
+          "length_km": 7.2
+        }
+      ],
+      "stops": [
+        "Cebu Metropolitan Cathedral",
+        "Jakosalem",
+        "Colonnade Mall",
+        "Gaisano Capital South",
+        "J. Climaco",
+        "Lakandula",
+        "Gothong High School",
+        "Carlock",
+        "R. Padilla",
+        "Jai Alai",
+        "Mambaling",
+        "Mambaling Elementary School",
+        "Grand Orchard South",
+        "Friendship Village",
+        "Basak Pardo",
+        "USJ Recoletos Basak",
+        "Sitio Bayanihan",
+        "Quiot Pardo",
+        "Honey Ville",
+        "Greenbelt Subdivision",
+        "Rainbow Connection Child Learning Center",
+        "Macopa",
+        "Don Vicente Rama Memorial National High School",
+        "Tri-J Marketing",
+        "Shopwise",
+        "Carlock Cockpit Arena",
+        "Cebu City Sports Institute",
+        "Tres de Abril",
+        "Cebu Eastern College",
+        "BDO Manalili",
+        "Plaridel",
+        "Plaza Sugbo",
+        "MCWD"
+      ],
+      "overlap": {
+        "osm_on_weebly": 1.0,
+        "weebly_on_osm": 1.0,
+        "threshold_m": 80
+      },
+      "osm_relations": [
+        21241368,
+        21241369
+      ],
+      "weebly_pages": [
+        "https://cebujeepneys.weebly.com/09g.html"
+      ],
+      "sources": [
+        "osm:relation/21241368",
+        "osm:relation/21241369",
+        "https://cebujeepneys.weebly.com/09g.html",
+        "© OpenStreetMap contributors (ODbL)",
+        "cross-check: Cebu Jeepney Maps by John Mercado Lee, CC BY-NC 3.0 (https://creativecommons.org/licenses/by-nc/3.0/). Source: https://cebujeepneys.weebly.com/"
+      ],
+      "note": null
+    },
+    {
+      "code": "10F",
+      "name": "Bulacao-Colon",
+      "from": "Colon",
+      "to": "Bulacao",
+      "family": "10",
+      "status": "unconfirmed",
+      "auto_status": "unconfirmed",
+      "method": "osm_crosscheck",
+      "geometry_source": "osm",
+      "license": "ODbL",
+      "length_km": 7.16,
+      "directions": [
+        {
+          "id": "10F-osm-21267099",
+          "name": "Bulacao-Colon",
+          "from": "Colon",
+          "to": "Bulacao",
+          "length_km": 6.84
+        },
+        {
+          "id": "10F-osm-21267100",
+          "name": "Bulacao-Colon",
+          "from": "Bulacao",
+          "to": "Colon",
+          "length_km": 7.16
+        }
+      ],
+      "stops": [
+        "Colonnade Mall",
+        "Gaisano Capital South",
+        "Borromeo",
+        "Cebu City Medical Center",
+        "V. Rama",
+        "Salazar Colleges",
+        "CIT",
+        "Mambaling Elementary School",
+        "Grand Orchard South",
+        "Friendship Village",
+        "Basak Pardo",
+        "USJ Recoletos Basak",
+        "Caltex Kinasang-an Pardo",
+        "Kinasang-an",
+        "Pardo",
+        "Newtown Subdivision",
+        "Bulacao",
+        "Prince Warehouse Club",
+        "UC Pardo",
+        "Tri-J Marketing",
+        "Shopwise",
+        "Cebu South Bus Terminal",
+        "USC Main"
+      ],
+      "overlap": {
+        "osm_on_weebly": 1.0,
+        "weebly_on_osm": 1.0,
+        "threshold_m": 80
+      },
+      "osm_relations": [
+        21267099,
+        21267100
+      ],
+      "weebly_pages": [
+        "https://cebujeepneys.weebly.com/10f.html"
+      ],
+      "sources": [
+        "osm:relation/21267099",
+        "osm:relation/21267100",
+        "https://cebujeepneys.weebly.com/10f.html",
+        "© OpenStreetMap contributors (ODbL)",
+        "cross-check: Cebu Jeepney Maps by John Mercado Lee, CC BY-NC 3.0 (https://creativecommons.org/licenses/by-nc/3.0/). Source: https://cebujeepneys.weebly.com/"
+      ],
+      "note": null
+    },
+    {
+      "code": "10G",
+      "name": "Pardo-Magallanes",
+      "from": "Pardo",
+      "to": "Magallanes",
+      "family": "10",
+      "status": "unconfirmed",
+      "auto_status": "unconfirmed",
+      "method": "osm_crosscheck",
+      "geometry_source": "osm",
+      "license": "ODbL",
+      "length_km": 6.85,
+      "directions": [
+        {
+          "id": "10G-osm-21251285",
+          "name": "Pardo-Magallanes",
+          "from": "Pardo",
+          "to": "Magallanes",
+          "length_km": 6.22
+        },
+        {
+          "id": "10G-osm-21251286",
+          "name": "Pardo-Magallanes",
+          "from": "Pardo",
+          "to": "Magallanes",
+          "length_km": 6.85
+        }
+      ],
+      "stops": [
+        "Cebu Metropolitan Cathedral",
+        "V. Gullas",
+        "Gaisano Main",
+        "Colonnade Mall",
+        "Gaisano Capital South",
+        "J. Climaco",
+        "Tres de Abril",
+        "Lakandula",
+        "Gothong High School",
+        "Carlock",
+        "R. Padilla",
+        "Jai Alai",
+        "Mambaling",
+        "Mambaling Elementary School",
+        "Grand Orchard South",
+        "Friendship Village",
+        "Basak Pardo",
+        "USJ Recoletos Basak",
+        "Pardo",
+        "Tri-J Marketing",
+        "Shopwise",
+        "Carlock Cockpit Arena",
+        "Cebu City Sports Institute",
+        "Cebu Eastern College",
+        "BDO Manalili",
+        "Plaridel",
+        "Plaza Sugbo",
+        "MCWD"
+      ],
+      "overlap": {
+        "osm_on_weebly": 1.0,
+        "weebly_on_osm": 1.0,
+        "threshold_m": 80
+      },
+      "osm_relations": [
+        21251285,
+        21251286
+      ],
+      "weebly_pages": [
+        "https://cebujeepneys.weebly.com/10g.html"
+      ],
+      "sources": [
+        "osm:relation/21251285",
+        "osm:relation/21251286",
+        "https://cebujeepneys.weebly.com/10g.html",
+        "© OpenStreetMap contributors (ODbL)",
+        "cross-check: Cebu Jeepney Maps by John Mercado Lee, CC BY-NC 3.0 (https://creativecommons.org/licenses/by-nc/3.0/). Source: https://cebujeepneys.weebly.com/"
+      ],
+      "note": null
+    },
+    {
+      "code": "10H",
+      "name": "Bulacao-Pardo-North Reclamation",
+      "from": "North Reclamation",
+      "to": "Bulacao",
+      "family": "10",
+      "status": "unconfirmed",
+      "auto_status": "unconfirmed",
+      "method": "osm_crosscheck",
+      "geometry_source": "osm",
+      "license": "ODbL",
+      "length_km": 10.89,
+      "directions": [
+        {
+          "id": "10H-osm-21267097",
+          "name": "Bulacao-Pardo-North Reclamation",
+          "from": "North Reclamation",
+          "to": "Bulacao",
+          "length_km": 10.89
+        },
+        {
+          "id": "10H-osm-21267098",
+          "name": "Bulacao-Pardo-North Reclamation",
+          "from": "Bulacao",
+          "to": "North Reclamation",
+          "length_km": 10.71
+        }
+      ],
+      "stops": [
+        "SM City Cebu PUJ Terminal",
+        "G Mall of Cebu",
+        "Carreta Elementary School",
+        "Carreta",
+        "Lorega",
+        "Museo Sugbo",
+        "T. Padilla",
+        "Tejero Elementary School",
+        "Commission on Audit",
+        "CTU",
+        "Cebu Metropolitan Cathedral",
+        "Jakosalem",
+        "Legaspi",
+        "Hotel Fortuna",
+        "Gaisano Capital South",
+        "Borromeo",
+        "Cebu City Medical Center",
+        "V. Rama",
+        "Salazar Colleges",
+        "CIT",
+        "Mambaling Elementary School",
+        "Grand Orchard South",
+        "Friendship Village",
+        "Basak Pardo",
+        "USJ Recoletos Basak",
+        "Caltex Kinasang-an Pardo",
+        "Kinasang-an",
+        "Pardo",
+        "Newtown Subdivision",
+        "Bulacao",
+        "Prince Warehouse Club",
+        "UC Pardo",
+        "Tri-J Marketing",
+        "Shopwise",
+        "Cebu South Bus Terminal",
+        "RCBC P. del Rosario",
+        "Gaisano Savemart",
+        "Tiburcio Padilla Public Market",
+        "M.J. Cuenco",
+        "M. Lhuillier Group Headquarters",
+        "Robinsons Galleria Cebu Benedicto Entrance",
+        "White Gold House",
+        "SM City Cebu",
+        "North Bus Terminal"
+      ],
+      "overlap": {
+        "osm_on_weebly": 0.94,
+        "weebly_on_osm": 0.967,
+        "threshold_m": 80
+      },
+      "osm_relations": [
+        21267097,
+        21267098
+      ],
+      "weebly_pages": [
+        "https://cebujeepneys.weebly.com/10h.html"
+      ],
+      "sources": [
+        "osm:relation/21267097",
+        "osm:relation/21267098",
+        "https://cebujeepneys.weebly.com/10h.html",
+        "© OpenStreetMap contributors (ODbL)",
+        "cross-check: Cebu Jeepney Maps by John Mercado Lee, CC BY-NC 3.0 (https://creativecommons.org/licenses/by-nc/3.0/). Source: https://cebujeepneys.weebly.com/"
+      ],
+      "note": null
+    },
+    {
+      "code": "10M",
+      "name": "Bulacao-Pardo-SM Cebu",
+      "from": "SM City Cebu",
+      "to": "Bulacao",
+      "family": "10",
+      "status": "unconfirmed",
+      "auto_status": "unconfirmed",
+      "method": "osm_crosscheck",
+      "geometry_source": "osm",
+      "license": "ODbL",
+      "length_km": 10.63,
+      "directions": [
+        {
+          "id": "10M-osm-21267095",
+          "name": "Bulacao-Pardo-SM Cebu",
+          "from": "SM City Cebu",
+          "to": "Bulacao",
+          "length_km": 10.63
+        },
+        {
+          "id": "10M-osm-21267096",
+          "name": "Bulacao-Pardo-SM Cebu",
+          "from": "Bulacao",
+          "to": "SM City Cebu",
+          "length_km": 10.19
+        }
+      ],
+      "stops": [
+        "SM City Cebu PUJ Terminal",
+        "G Mall of Cebu",
+        "White Gold House",
+        "Robinsons Galleria Cebu Benedicto Entrance",
+        "M. Lhuillier Group Headquarters",
+        "T. Padilla",
+        "M.J. Cuenco",
+        "Tejero Elementary School",
+        "Commission on Audit",
+        "CTU",
+        "Cebu Metropolitan Cathedral",
+        "Jakosalem",
+        "Legaspi",
+        "Hotel Fortuna",
+        "Gaisano Capital South",
+        "Borromeo",
+        "Cebu City Medical Center",
+        "V. Rama",
+        "Salazar Colleges",
+        "CIT",
+        "Mambaling Elementary School",
+        "Grand Orchard South",
+        "Friendship Village",
+        "Basak Pardo",
+        "USJ Recoletos Basak",
+        "Caltex Kinasang-an Pardo",
+        "Kinasang-an",
+        "Pardo",
+        "Newtown Subdivision",
+        "Bulacao",
+        "Prince Warehouse Club",
+        "UC Pardo",
+        "Tri-J Marketing",
+        "Shopwise",
+        "Cebu South Bus Terminal",
+        "Elizabeth Mall",
+        "Colonnade Mall",
+        "Gaisano Main",
+        "Colon Obelisk",
+        "Museo Pari-an",
+        "Robinsons Galleria Cebu Maxilom Entrance"
+      ],
+      "overlap": {
+        "osm_on_weebly": 1.0,
+        "weebly_on_osm": 1.0,
+        "threshold_m": 80
+      },
+      "osm_relations": [
+        21267095,
+        21267096
+      ],
+      "weebly_pages": [
+        "https://cebujeepneys.weebly.com/10m.html"
+      ],
+      "sources": [
+        "osm:relation/21267095",
+        "osm:relation/21267096",
+        "https://cebujeepneys.weebly.com/10m.html",
+        "© OpenStreetMap contributors (ODbL)",
+        "cross-check: Cebu Jeepney Maps by John Mercado Lee, CC BY-NC 3.0 (https://creativecommons.org/licenses/by-nc/3.0/). Source: https://cebujeepneys.weebly.com/"
+      ],
+      "note": null
+    },
+    {
+      "code": "11A",
+      "name": "Inayawan-Colon",
+      "from": "Colon",
+      "to": "Inayawan",
+      "family": "11",
+      "status": "unconfirmed",
+      "auto_status": "unconfirmed",
+      "method": "osm_crosscheck",
+      "geometry_source": "osm",
+      "license": "ODbL",
+      "length_km": 8.4,
+      "directions": [
+        {
+          "id": "11A-osm-21363724",
+          "name": "Inayawan-Colon",
+          "from": "Colon",
+          "to": "Inayawan",
+          "length_km": 7.82
+        },
+        {
+          "id": "11A-osm-21363725",
+          "name": "Inayawan-Colon",
+          "from": "Inayawan",
+          "to": "Colon",
+          "length_km": 8.4
+        }
+      ],
+      "stops": [
+        "Gaisano Main",
+        "Colonnade Mall",
+        "Gaisano Capital South",
+        "J. Climaco",
+        "Tres de Abril",
+        "Lakandula",
+        "Gothong High School",
+        "Carlock",
+        "R. Padilla",
+        "Jai Alai",
+        "Tabada",
+        "Saint Anthony Mother and Child Hospital",
+        "Mambaling",
+        "Panaghiusa",
+        "Fusion Gas Station",
+        "Richielda Taxi Garage",
+        "Shell L. Gabuya",
+        "A. Gabuya",
+        "Gaisano Savemart Inayawan",
+        "Flying V Inayawan",
+        "Inayawan Elementary School",
+        "Inayawan Public Market",
+        "Inayawan Church",
+        "CBD College",
+        "Lower Torre",
+        "Jetti Laray",
+        "Carlock Cockpit Arena",
+        "Cebu City Sports Institute",
+        "San Nicolas Parish",
+        "Panganiban",
+        "BDO Manalili",
+        "Plaridel",
+        "Plaza Sugbo",
+        "Osmeña",
+        "V. Gullas"
+      ],
+      "overlap": {
+        "osm_on_weebly": 0.849,
+        "weebly_on_osm": 1.0,
+        "threshold_m": 80
+      },
+      "osm_relations": [
+        21363724,
+        21363725
+      ],
+      "weebly_pages": [
+        "https://cebujeepneys.weebly.com/11a.html"
+      ],
+      "sources": [
+        "osm:relation/21363724",
+        "osm:relation/21363725",
+        "https://cebujeepneys.weebly.com/11a.html",
+        "© OpenStreetMap contributors (ODbL)",
+        "cross-check: Cebu Jeepney Maps by John Mercado Lee, CC BY-NC 3.0 (https://creativecommons.org/licenses/by-nc/3.0/). Source: https://cebujeepneys.weebly.com/"
+      ],
+      "note": null
+    },
+    {
+      "code": "12D",
+      "name": "Jeepney 12D: Downtown - Punta Princesa",
+      "from": "",
+      "to": "",
+      "family": "12",
+      "status": "unconfirmed",
+      "auto_status": "unconfirmed",
+      "method": "osm_crosscheck",
+      "geometry_source": "osm",
+      "license": "ODbL",
+      "length_km": 9.45,
+      "directions": [
+        {
+          "id": "12D-osm-3203006",
+          "name": "Jeepney 12D: Downtown - Punta Princesa",
+          "from": "",
+          "to": "",
+          "length_km": 9.45
+        }
+      ],
+      "stops": [],
+      "overlap": {
+        "osm_on_weebly": 1.0,
+        "weebly_on_osm": 1.0,
+        "threshold_m": 80
+      },
+      "osm_relations": [
+        3203006
+      ],
+      "weebly_pages": [
+        "https://cebujeepneys.weebly.com/12d.html"
+      ],
+      "sources": [
+        "osm:relation/3203006",
+        "https://cebujeepneys.weebly.com/12d.html",
+        "© OpenStreetMap contributors (ODbL)",
+        "cross-check: Cebu Jeepney Maps by John Mercado Lee, CC BY-NC 3.0 (https://creativecommons.org/licenses/by-nc/3.0/). Source: https://cebujeepneys.weebly.com/"
+      ],
+      "note": null
+    },
+    {
+      "code": "12G",
+      "name": "Jeepney 12G: Labangon - Colon - Pier - SM",
+      "from": "",
+      "to": "",
+      "family": "12",
+      "status": "unconfirmed",
+      "auto_status": "unconfirmed",
+      "method": "osm_crosscheck",
+      "geometry_source": "osm",
+      "license": "ODbL",
+      "length_km": 16.07,
+      "directions": [
+        {
+          "id": "12G-osm-3203041",
+          "name": "Jeepney 12G: Labangon - Colon - Pier - SM",
+          "from": "",
+          "to": "",
+          "length_km": 16.07
+        }
+      ],
+      "stops": [],
+      "overlap": {
+        "osm_on_weebly": 0.937,
+        "weebly_on_osm": 0.957,
+        "threshold_m": 80
+      },
+      "osm_relations": [
+        3203041
+      ],
+      "weebly_pages": [
+        "https://cebujeepneys.weebly.com/12g.html"
+      ],
+      "sources": [
+        "osm:relation/3203041",
+        "https://cebujeepneys.weebly.com/12g.html",
+        "© OpenStreetMap contributors (ODbL)",
+        "cross-check: Cebu Jeepney Maps by John Mercado Lee, CC BY-NC 3.0 (https://creativecommons.org/licenses/by-nc/3.0/). Source: https://cebujeepneys.weebly.com/"
+      ],
+      "note": null
+    },
+    {
+      "code": "12I",
+      "name": "Jeepney 12I: SM Cebu - Downtown - Punta Princesa",
+      "from": "",
+      "to": "",
+      "family": "12",
+      "status": "unconfirmed",
+      "auto_status": "unconfirmed",
+      "method": "osm_crosscheck",
+      "geometry_source": "osm",
+      "license": "ODbL",
+      "length_km": 15.6,
+      "directions": [
+        {
+          "id": "12I-osm-3203115",
+          "name": "Jeepney 12I: SM Cebu - Downtown - Punta Princesa",
+          "from": "",
+          "to": "",
+          "length_km": 15.6
+        }
+      ],
+      "stops": [],
+      "overlap": {
+        "osm_on_weebly": 0.979,
+        "weebly_on_osm": 0.957,
+        "threshold_m": 80
+      },
+      "osm_relations": [
+        3203115
+      ],
+      "weebly_pages": [
+        "https://cebujeepneys.weebly.com/12i.html"
+      ],
+      "sources": [
+        "osm:relation/3203115",
+        "https://cebujeepneys.weebly.com/12i.html",
+        "© OpenStreetMap contributors (ODbL)",
+        "cross-check: Cebu Jeepney Maps by John Mercado Lee, CC BY-NC 3.0 (https://creativecommons.org/licenses/by-nc/3.0/). Source: https://cebujeepneys.weebly.com/"
+      ],
+      "note": null
+    },
+    {
+      "code": "12L",
+      "name": "Jeepney 12L: Ayala - Escario- Labangon",
+      "from": "",
+      "to": "",
+      "family": "12",
+      "status": "unconfirmed",
+      "auto_status": "unconfirmed",
+      "method": "osm_crosscheck",
+      "geometry_source": "osm",
+      "license": "ODbL",
+      "length_km": 14.3,
+      "directions": [
+        {
+          "id": "12L-osm-3169782",
+          "name": "Jeepney 12L: Ayala - Escario- Labangon",
+          "from": "",
+          "to": "",
+          "length_km": 14.3
+        }
+      ],
+      "stops": [],
+      "overlap": {
+        "osm_on_weebly": 0.971,
+        "weebly_on_osm": 0.975,
+        "threshold_m": 80
+      },
+      "osm_relations": [
+        3169782
+      ],
+      "weebly_pages": [
+        "https://cebujeepneys.weebly.com/12l.html"
+      ],
+      "sources": [
+        "osm:relation/3169782",
+        "https://cebujeepneys.weebly.com/12l.html",
+        "© OpenStreetMap contributors (ODbL)",
+        "cross-check: Cebu Jeepney Maps by John Mercado Lee, CC BY-NC 3.0 (https://creativecommons.org/licenses/by-nc/3.0/). Source: https://cebujeepneys.weebly.com/"
+      ],
+      "note": null
+    },
+    {
+      "code": "13B",
+      "name": "Talamban-Ayala-Carbon",
+      "from": "Talamban",
+      "to": "Carbon Market",
+      "family": "13",
+      "status": "unconfirmed",
+      "auto_status": "unconfirmed",
+      "method": "osm_crosscheck",
+      "geometry_source": "osm",
+      "license": "ODbL",
+      "length_km": 13.06,
+      "directions": [
+        {
+          "id": "13B-osm-21251281",
+          "name": "Talamban-Ayala-Carbon",
+          "from": "Talamban",
+          "to": "Carbon Market",
+          "length_km": 13.06
+        },
+        {
+          "id": "13B-osm-21251282",
+          "name": "Talamban-Ayala-Carbon",
+          "from": "Carbon Market",
+          "to": "Talamban",
+          "length_km": 11.79
+        }
+      ],
+      "stops": [
+        "Tantay PUJ Terminal",
+        "Talamban National High School",
+        "Talamban",
+        "Gaisano Grand Mall Talamban",
+        "Silver Hills",
+        "Cabangcalan",
+        "Park Terrace",
+        "USC Talamban Campus",
+        "Rosedale",
+        "Banilad Elementary School",
+        "Gaisano Country Mall",
+        "Country Club Village",
+        "Cebu Country Club",
+        "Luz",
+        "Pag-IBIG",
+        "Samar Loop",
+        "Negros Road",
+        "Acacia",
+        "Asilo de la Milagrosa",
+        "Colegio de la Inmaculada Concepcion",
+        "Maxilom",
+        "San Miguel",
+        "Sikatuna",
+        "Rahmann",
+        "Echavez Extension",
+        "R. Landon",
+        "USC Main",
+        "Gaisano Main",
+        "Colon Obelisk",
+        "Mabini",
+        "Legaspi",
+        "BPI Manalili",
+        "Carbon Market Unit 3",
+        "Osmeña",
+        "V. Gullas",
+        "J.C. Zamora",
+        "Bonifacio",
+        "P. del Rosario",
+        "R.R. Landon",
+        "Seda Ayala Cebu",
+        "Cabantan",
+        "University of Cebu Banilad",
+        "Rosillos Road"
+      ],
+      "overlap": {
+        "osm_on_weebly": 1.0,
+        "weebly_on_osm": 1.0,
+        "threshold_m": 80
+      },
+      "osm_relations": [
+        21251281,
+        21251282
+      ],
+      "weebly_pages": [
+        "https://cebujeepneys.weebly.com/13b.html"
+      ],
+      "sources": [
+        "osm:relation/21251281",
+        "osm:relation/21251282",
+        "https://cebujeepneys.weebly.com/13b.html",
+        "© OpenStreetMap contributors (ODbL)",
+        "cross-check: Cebu Jeepney Maps by John Mercado Lee, CC BY-NC 3.0 (https://creativecommons.org/licenses/by-nc/3.0/). Source: https://cebujeepneys.weebly.com/"
+      ],
+      "note": null
+    },
+    {
+      "code": "13C",
+      "name": "Talamban-Ayala-Colon",
+      "from": "Colon",
+      "to": "Talamban",
+      "family": "13",
+      "status": "unconfirmed",
+      "auto_status": "unconfirmed",
+      "method": "osm_crosscheck",
+      "geometry_source": "osm",
+      "license": "ODbL",
+      "length_km": 11.62,
+      "directions": [
+        {
+          "id": "13C-osm-21251275",
+          "name": "Talamban-Ayala-Colon",
+          "from": "Colon",
+          "to": "Talamban",
+          "length_km": 10.58
+        },
+        {
+          "id": "13C-osm-21251276",
+          "name": "Talamban-Ayala-Colon",
+          "from": "Talamban",
+          "to": "Colon",
+          "length_km": 11.62
+        }
+      ],
+      "stops": [
+        "PSBank Colon",
+        "USC Main",
+        "RCBC P. del Rosario",
+        "Day-as Barangay Hall",
+        "Lorega",
+        "Carreta",
+        "Hipodromo",
+        "Mactan Road",
+        "Samar Loop",
+        "Pag-IBIG",
+        "Cabantan",
+        "Luz",
+        "Cebu Country Club",
+        "Country Club Village",
+        "University of Cebu Banilad",
+        "Banilad Elementary School",
+        "Rosedale",
+        "USC Talamban Campus",
+        "Rosillos Road",
+        "Park Terrace",
+        "Cabangcalan",
+        "Silver Hills",
+        "Gaisano Grand Mall Talamban",
+        "Talamban",
+        "Talamban National High School",
+        "Tantay PUJ Terminal",
+        "Gaisano Country Mall",
+        "Negros Road",
+        "Acacia",
+        "Asilo de la Milagrosa",
+        "Colegio de la Inmaculada Concepcion",
+        "Maxilom",
+        "San Miguel",
+        "Sikatuna",
+        "Zapatera National High School",
+        "Imus Avenue",
+        "Bonifacio",
+        "Museo Pari-an",
+        "Gaisano Main",
+        "Colonnade Mall"
+      ],
+      "overlap": {
+        "osm_on_weebly": 1.0,
+        "weebly_on_osm": 1.0,
+        "threshold_m": 80
+      },
+      "osm_relations": [
+        21251275,
+        21251276
+      ],
+      "weebly_pages": [
+        "https://cebujeepneys.weebly.com/13c.html"
+      ],
+      "sources": [
+        "osm:relation/21251275",
+        "osm:relation/21251276",
+        "https://cebujeepneys.weebly.com/13c.html",
+        "© OpenStreetMap contributors (ODbL)",
+        "cross-check: Cebu Jeepney Maps by John Mercado Lee, CC BY-NC 3.0 (https://creativecommons.org/licenses/by-nc/3.0/). Source: https://cebujeepneys.weebly.com/"
+      ],
+      "note": "OSM and weebly both draw Talamban-Ayala-Colon and the lines match. A 3D Universal page says SM/Ayala/IT Park instead. Ignore 3D Universal. Ride it before marking it verified."
+    },
+    {
+      "code": "13H",
+      "name": "Pit-os to Mandaue Public Market",
+      "from": "Pit-os",
+      "to": "Mandaue Public Market",
+      "family": "13",
+      "status": "unconfirmed",
+      "auto_status": "unconfirmed",
+      "method": "weebly_kml",
+      "geometry_source": "weebly",
+      "license": "CC BY-NC 3.0",
+      "length_km": 12.03,
+      "directions": [
+        {
+          "id": "13H-weebly-1",
+          "name": "Pit-os to Mandaue Public Market",
+          "from": "Pit-os",
+          "to": "Mandaue Public Market",
+          "length_km": 11.53
+        },
+        {
+          "id": "13H-weebly-2",
+          "name": "Mandaue Public Market to Pit-os",
+          "from": "Mandaue Public Market",
+          "to": "Pit-os",
+          "length_km": 12.03
+        }
+      ],
+      "stops": [],
+      "overlap": {
+        "osm_on_weebly": null,
+        "weebly_on_osm": null,
+        "threshold_m": 80
+      },
+      "osm_relations": [],
+      "weebly_pages": [
+        "https://cebujeepneys.weebly.com/13h.html"
+      ],
+      "sources": [
+        "https://cebujeepneys.weebly.com/13h.html",
+        "Cebu Jeepney Maps by John Mercado Lee, CC BY-NC 3.0 (https://creativecommons.org/licenses/by-nc/3.0/). Source: https://cebujeepneys.weebly.com/"
+      ],
+      "note": null
+    },
+    {
+      "code": "14D",
+      "name": "Ayala Terminal to Colon",
+      "from": "Ayala Terminal",
+      "to": "Colon",
+      "family": "14",
+      "status": "unconfirmed",
+      "auto_status": "unconfirmed",
+      "method": "weebly_kml",
+      "geometry_source": "weebly",
+      "license": "CC BY-NC 3.0",
+      "length_km": 7.68,
+      "directions": [
+        {
+          "id": "14D-weebly-1",
+          "name": "Ayala Terminal to Colon",
+          "from": "Ayala Terminal",
+          "to": "Colon",
+          "length_km": 7.68
+        },
+        {
+          "id": "14D-weebly-3",
+          "name": "Shape 2",
+          "from": "",
+          "to": "",
+          "length_km": 0.27
+        },
+        {
+          "id": "14D-weebly-6",
+          "name": "Shape 5",
+          "from": "",
+          "to": "",
+          "length_km": 0.27
+        },
+        {
+          "id": "14D-weebly-7",
+          "name": "Shape 6",
+          "from": "",
+          "to": "",
+          "length_km": 0.29
+        },
+        {
+          "id": "14D-weebly-8",
+          "name": "Colon to Ayala",
+          "from": "Colon",
+          "to": "Ayala",
+          "length_km": 4.29
+        }
+      ],
+      "stops": [],
+      "overlap": {
+        "osm_on_weebly": null,
+        "weebly_on_osm": null,
+        "threshold_m": 80
+      },
+      "osm_relations": [],
+      "weebly_pages": [
+        "https://cebujeepneys.weebly.com/14d.html"
+      ],
+      "sources": [
+        "https://cebujeepneys.weebly.com/14d.html",
+        "Cebu Jeepney Maps by John Mercado Lee, CC BY-NC 3.0 (https://creativecommons.org/licenses/by-nc/3.0/). Source: https://cebujeepneys.weebly.com/"
+      ],
+      "note": null
+    },
+    {
+      "code": "17B",
+      "name": "Apas to Carbon",
+      "from": "Apas",
+      "to": "Carbon",
+      "family": "17",
+      "status": "unconfirmed",
+      "auto_status": "unconfirmed",
+      "method": "weebly_kml",
+      "geometry_source": "weebly",
+      "license": "CC BY-NC 3.0",
+      "length_km": 9.48,
+      "directions": [
+        {
+          "id": "17B-weebly-1",
+          "name": "Apas to Carbon",
+          "from": "Apas",
+          "to": "Carbon",
+          "length_km": 8.64
+        },
+        {
+          "id": "17B-weebly-2",
+          "name": "Carbon To Apas",
+          "from": "Carbon",
+          "to": "Apas",
+          "length_km": 9.48
+        }
+      ],
+      "stops": [],
+      "overlap": {
+        "osm_on_weebly": null,
+        "weebly_on_osm": null,
+        "threshold_m": 80
+      },
+      "osm_relations": [],
+      "weebly_pages": [
+        "https://cebujeepneys.weebly.com/17b.html"
+      ],
+      "sources": [
+        "https://cebujeepneys.weebly.com/17b.html",
+        "Cebu Jeepney Maps by John Mercado Lee, CC BY-NC 3.0 (https://creativecommons.org/licenses/by-nc/3.0/). Source: https://cebujeepneys.weebly.com/"
+      ],
+      "note": null
+    },
+    {
+      "code": "17C",
+      "name": "Jeepney 17C: Apas - Lahug - Carbon via Ramos, San Nicolas",
+      "from": "",
+      "to": "",
+      "family": "17",
+      "status": "unconfirmed",
+      "auto_status": "unconfirmed",
+      "method": "osm_crosscheck",
+      "geometry_source": "osm",
+      "license": "ODbL",
+      "length_km": 13.18,
+      "directions": [
+        {
+          "id": "17C-osm-3203945",
+          "name": "Jeepney 17C: Apas - Lahug - Carbon via Ramos, San Nicolas",
+          "from": "",
+          "to": "",
+          "length_km": 13.18
+        }
+      ],
+      "stops": [],
+      "overlap": {
+        "osm_on_weebly": 1.0,
+        "weebly_on_osm": 1.0,
+        "threshold_m": 80
+      },
+      "osm_relations": [
+        3203945
+      ],
+      "weebly_pages": [
+        "https://cebujeepneys.weebly.com/17c.html"
+      ],
+      "sources": [
+        "osm:relation/3203945",
+        "https://cebujeepneys.weebly.com/17c.html",
+        "© OpenStreetMap contributors (ODbL)",
+        "cross-check: Cebu Jeepney Maps by John Mercado Lee, CC BY-NC 3.0 (https://creativecommons.org/licenses/by-nc/3.0/). Source: https://cebujeepneys.weebly.com/"
+      ],
+      "note": null
+    },
+    {
+      "code": "17D",
+      "name": "Jeepney 17D: Apas - Lahug - Carbon via Escario, Jones, San Nicolas",
+      "from": "",
+      "to": "",
+      "family": "17",
+      "status": "unconfirmed",
+      "auto_status": "unconfirmed",
+      "method": "osm_crosscheck",
+      "geometry_source": "osm",
+      "license": "ODbL",
+      "length_km": 14.91,
+      "directions": [
+        {
+          "id": "17D-osm-3204007",
+          "name": "Jeepney 17D: Apas - Lahug - Carbon via Escario, Jones, San Nicolas",
+          "from": "",
+          "to": "",
+          "length_km": 14.91
+        }
+      ],
+      "stops": [],
+      "overlap": {
+        "osm_on_weebly": 1.0,
+        "weebly_on_osm": 0.982,
+        "threshold_m": 80
+      },
+      "osm_relations": [
+        3204007
+      ],
+      "weebly_pages": [
+        "https://cebujeepneys.weebly.com/17d.html"
+      ],
+      "sources": [
+        "osm:relation/3204007",
+        "https://cebujeepneys.weebly.com/17d.html",
+        "© OpenStreetMap contributors (ODbL)",
+        "cross-check: Cebu Jeepney Maps by John Mercado Lee, CC BY-NC 3.0 (https://creativecommons.org/licenses/by-nc/3.0/). Source: https://cebujeepneys.weebly.com/"
+      ],
+      "note": null
+    },
+    {
+      "code": "20A",
+      "name": "Ayala Center-Pacific Mall",
+      "from": "Ayala Center",
+      "to": "Pacific Mall",
+      "family": "20",
+      "status": "unconfirmed",
+      "auto_status": "unconfirmed",
+      "method": "osm_crosscheck",
+      "geometry_source": "osm",
+      "license": "ODbL",
+      "length_km": 11.7,
+      "directions": [
+        {
+          "id": "20A-osm-3207109",
+          "name": "Ayala Center-Pacific Mall",
+          "from": "Ayala Center",
+          "to": "Pacific Mall",
+          "length_km": 7.63
+        },
+        {
+          "id": "20A-osm-3207166",
+          "name": "Ayala Center-Pacific Mall",
+          "from": "Pacific Mall",
+          "to": "Ayala Center",
+          "length_km": 11.7
+        }
+      ],
+      "stops": [
+        "Ayala Center Terminal",
+        "Mactan Road",
+        "Gil Tudtud",
+        "Crossing Mabolo",
+        "Metrobank Mabolo",
+        "Ginebra San Miguel",
+        "Crossing Subangdaku South",
+        "Crossing Subangdaku North",
+        "Arcada 5",
+        "Tipolo National High School",
+        "New Mandaue City Government Center",
+        "Guizo",
+        "A. S. Fortuna Extension",
+        "Mantuyong Barangay Hall",
+        "Gaisano Grand Mall Mandaue",
+        "Cortes General Hospital",
+        "A.C. Cortes",
+        "R. Colina",
+        "Pacific Mall Terminal",
+        "P. Burgos",
+        "Plaridel 1 Crossing",
+        "Bridge Town",
+        "Don G. LL. Ouano Street",
+        "S.B. Cabahug",
+        "Dohera Hotel",
+        "Maguikay Flyover",
+        "V. Albano",
+        "Bakilid-Maguikay Road",
+        "L. Jayme",
+        "E. V. Espina",
+        "PLDT",
+        "SM City JMall",
+        "Mandaue City Crossing",
+        "Coca-Cola Bottling Plant",
+        "Carmelite Monastery",
+        "Cardinal Rosales",
+        "East Gate",
+        "Barrio Luz",
+        "Samar Loop",
+        "Negros Road"
+      ],
+      "overlap": {
+        "osm_on_weebly": 0.933,
+        "weebly_on_osm": 0.891,
+        "threshold_m": 80
+      },
+      "osm_relations": [
+        3207109,
+        3207166
+      ],
+      "weebly_pages": [
+        "https://cebujeepneys.weebly.com/20a.html"
+      ],
+      "sources": [
+        "osm:relation/3207109",
+        "osm:relation/3207166",
+        "https://cebujeepneys.weebly.com/20a.html",
+        "© OpenStreetMap contributors (ODbL)",
+        "cross-check: Cebu Jeepney Maps by John Mercado Lee, CC BY-NC 3.0 (https://creativecommons.org/licenses/by-nc/3.0/). Source: https://cebujeepneys.weebly.com/"
+      ],
+      "note": null
+    },
+    {
+      "code": "20B",
+      "name": "Ayala terminal to Ibabao - Estancia",
+      "from": "Ayala terminal",
+      "to": "Ibabao - Estancia",
+      "family": "20",
+      "status": "unconfirmed",
+      "auto_status": "unconfirmed",
+      "method": "weebly_kml",
+      "geometry_source": "weebly",
+      "license": "CC BY-NC 3.0",
+      "length_km": 10.1,
+      "directions": [
+        {
+          "id": "20B-weebly-1",
+          "name": "Ayala terminal to Ibabao - Estancia",
+          "from": "Ayala terminal",
+          "to": "Ibabao - Estancia",
+          "length_km": 7.4
+        },
+        {
+          "id": "20B-weebly-2",
+          "name": "ibabao (estancia) to ayala terminal",
+          "from": "ibabao (estancia)",
+          "to": "ayala terminal",
+          "length_km": 7.56
+        },
+        {
+          "id": "20B-weebly-3",
+          "name": "Ayala to Super Metro Mandaue via Mercado and Parkmall",
+          "from": "Ayala",
+          "to": "Super Metro Mandaue via Mercado and Parkmall",
+          "length_km": 9.9
+        },
+        {
+          "id": "20B-weebly-4",
+          "name": "Super Metro Mandaue(pacific Mall)",
+          "from": "",
+          "to": "",
+          "length_km": 10.1
+        }
+      ],
+      "stops": [],
+      "overlap": {
+        "osm_on_weebly": null,
+        "weebly_on_osm": null,
+        "threshold_m": 80
+      },
+      "osm_relations": [],
+      "weebly_pages": [
+        "https://cebujeepneys.weebly.com/20b.html"
+      ],
+      "sources": [
+        "https://cebujeepneys.weebly.com/20b.html",
+        "Cebu Jeepney Maps by John Mercado Lee, CC BY-NC 3.0 (https://creativecommons.org/licenses/by-nc/3.0/). Source: https://cebujeepneys.weebly.com/"
+      ],
+      "note": null
+    },
+    {
+      "code": "21A",
+      "name": "Cathedral-Pacific Mall",
+      "from": "Cathedral",
+      "to": "Pacific Mall",
+      "family": "21",
+      "status": "unconfirmed",
+      "auto_status": "unconfirmed",
+      "method": "osm_crosscheck",
+      "geometry_source": "osm",
+      "license": "ODbL",
+      "length_km": 12.36,
+      "directions": [
+        {
+          "id": "21A-osm-21241575",
+          "name": "Cathedral-Pacific Mall",
+          "from": "Cathedral",
+          "to": "Pacific Mall",
+          "length_km": 8.6
+        },
+        {
+          "id": "21A-osm-21241576",
+          "name": "Cathedral-Pacific Mall",
+          "from": "Pacific Mall",
+          "to": "Cathedral",
+          "length_km": 12.36
+        }
+      ],
+      "stops": [
+        "Cebu Metropolitan Cathedral",
+        "CTU",
+        "Commission on Audit",
+        "Tejero Elementary School",
+        "T. Padilla",
+        "Museo Sugbo",
+        "Lorega",
+        "Carreta",
+        "Hipodromo",
+        "Gil Tudtud",
+        "Crossing Mabolo",
+        "Metrobank Mabolo",
+        "Ginebra San Miguel",
+        "Crossing Subangdaku South",
+        "Crossing Subangdaku North",
+        "Arcada 5",
+        "Tipolo National High School",
+        "Mandaue City Hall of Justice",
+        "New Mandaue City Government Center",
+        "Guizo",
+        "A. S. Fortuna Extension",
+        "Mantuyong Barangay Hall",
+        "Gaisano Grand Mall Mandaue",
+        "Cortes General Hospital",
+        "A.C. Cortes",
+        "Don G. LL. Ouano",
+        "Pacific Mall Terminal",
+        "P. Burgos",
+        "Plaridel 1 Crossing",
+        "Bridge Town",
+        "Don G. LL. Ouano Street",
+        "S.B. Cabahug",
+        "Dohera Hotel",
+        "Maguikay Flyover",
+        "V. Albano",
+        "Bakilid-Maguikay Road",
+        "L. Jayme",
+        "E. V. Espina",
+        "PLDT",
+        "SM City JMall",
+        "Mandaue City Crossing",
+        "Coca-Cola Bottling Plant",
+        "S. O. Albaño",
+        "Gatewalk",
+        "F. Cabahug",
+        "APM Mall",
+        "SM City Cebu",
+        "G Mall of Cebu",
+        "White Gold House",
+        "Robinsons Galleria Cebu Benedicto Entrance",
+        "M. Lhuillier Group Headquarters",
+        "Sotto"
+      ],
+      "overlap": {
+        "osm_on_weebly": 0.921,
+        "weebly_on_osm": 0.877,
+        "threshold_m": 80
+      },
+      "osm_relations": [
+        21241575,
+        21241576
+      ],
+      "weebly_pages": [
+        "https://cebujeepneys.weebly.com/21a.html"
+      ],
+      "sources": [
+        "osm:relation/21241575",
+        "osm:relation/21241576",
+        "https://cebujeepneys.weebly.com/21a.html",
+        "© OpenStreetMap contributors (ODbL)",
+        "cross-check: Cebu Jeepney Maps by John Mercado Lee, CC BY-NC 3.0 (https://creativecommons.org/licenses/by-nc/3.0/). Source: https://cebujeepneys.weebly.com/"
+      ],
+      "note": null
+    },
+    {
+      "code": "21D",
+      "name": "P. Burgos–Pacific Mall (odd)",
+      "from": "",
+      "to": "",
+      "family": "21",
+      "status": "unconfirmed",
+      "auto_status": "unconfirmed",
+      "method": "osm_crosscheck",
+      "geometry_source": "osm",
+      "license": "ODbL",
+      "length_km": 21.99,
+      "directions": [
+        {
+          "id": "21D-osm-3210109",
+          "name": "P. Burgos–Pacific Mall (odd)",
+          "from": "",
+          "to": "",
+          "length_km": 16.97
+        },
+        {
+          "id": "21D-osm-3211723",
+          "name": "P. Burgos–Pacific Mall (even)",
+          "from": "",
+          "to": "",
+          "length_km": 21.99
+        }
+      ],
+      "stops": [],
+      "overlap": {
+        "osm_on_weebly": 0.958,
+        "weebly_on_osm": 0.997,
+        "threshold_m": 80
+      },
+      "osm_relations": [
+        3210109,
+        3211723
+      ],
+      "weebly_pages": [
+        "https://cebujeepneys.weebly.com/21d.html"
+      ],
+      "sources": [
+        "osm:relation/3210109",
+        "osm:relation/3211723",
+        "https://cebujeepneys.weebly.com/21d.html",
+        "© OpenStreetMap contributors (ODbL)",
+        "cross-check: Cebu Jeepney Maps by John Mercado Lee, CC BY-NC 3.0 (https://creativecommons.org/licenses/by-nc/3.0/). Source: https://cebujeepneys.weebly.com/"
+      ],
+      "note": null
+    },
+    {
+      "code": "22A",
+      "name": "Ouano (Mandaue City)-Cebu City",
+      "from": "Ouano",
+      "to": "Cathedral",
+      "family": "22",
+      "status": "unconfirmed",
+      "auto_status": "unconfirmed",
+      "method": "osm_crosscheck",
+      "geometry_source": "osm",
+      "license": "ODbL",
+      "length_km": 8.99,
+      "directions": [
+        {
+          "id": "22A-osm-21241366",
+          "name": "Ouano (Mandaue City)-Cebu City",
+          "from": "Ouano",
+          "to": "Cathedral",
+          "length_km": 8.99
+        },
+        {
+          "id": "22A-osm-21241367",
+          "name": "Ouano (Mandaue City)-Cebu City",
+          "from": "Cebu City",
+          "to": "Ouano",
+          "length_km": 8.68
+        }
+      ],
+      "stops": [
+        "C. M. Cabahug",
+        "De La Paz Chapel",
+        "Mandaue City Central School",
+        "Mandaue City Government Complex",
+        "Cortes General Hospital",
+        "Suson",
+        "F. S. Rosal",
+        "F.B. Cabahug",
+        "L. Espina Street",
+        "Colegio de la Inmaculada Concepcion - Mandaue",
+        "Arcada 5",
+        "Crossing Subangdaku North",
+        "S. O. Albaño",
+        "Gatewalk",
+        "F. Cabahug",
+        "APM Mall",
+        "SM City Cebu",
+        "G Mall of Cebu",
+        "Robinsons Galleria Cebu Benedicto Entrance",
+        "M. Lhuillier Group Headquarters",
+        "T. Padilla",
+        "Sotto",
+        "Commission on Audit",
+        "CTU",
+        "Cebu Metropolitan Cathedral",
+        "Tejero Elementary School",
+        "Museo Sugbo",
+        "Lorega",
+        "Carreta",
+        "Hipodromo",
+        "Gil Tudtud",
+        "Crossing Mabolo",
+        "Metrobank Mabolo",
+        "Ginebra San Miguel",
+        "Crossing Subangdaku South",
+        "Tipolo National High School",
+        "Mandaue City Hall of Justice",
+        "New Mandaue City Government Center",
+        "Guizo",
+        "A. S. Fortuna Extension",
+        "Gaisano Grand Mall Mandaue",
+        "P. Gomez Street",
+        "Mandaue City Police Office",
+        "Mandaue City Comprehensive National High School"
+      ],
+      "overlap": {
+        "osm_on_weebly": 0.92,
+        "weebly_on_osm": 0.896,
+        "threshold_m": 80
+      },
+      "osm_relations": [
+        21241366,
+        21241367
+      ],
+      "weebly_pages": [
+        "https://cebujeepneys.weebly.com/22a.html"
+      ],
+      "sources": [
+        "osm:relation/21241366",
+        "osm:relation/21241367",
+        "https://cebujeepneys.weebly.com/22a.html",
+        "© OpenStreetMap contributors (ODbL)",
+        "cross-check: Cebu Jeepney Maps by John Mercado Lee, CC BY-NC 3.0 (https://creativecommons.org/licenses/by-nc/3.0/). Source: https://cebujeepneys.weebly.com/"
+      ],
+      "note": null
+    },
+    {
+      "code": "22D",
+      "name": "Ibabaw (Mandaue City)-Manalili-Cebu City",
+      "from": "Cebu City",
+      "to": "Ibabao",
+      "family": "22",
+      "status": "unconfirmed",
+      "auto_status": "unconfirmed",
+      "method": "osm_crosscheck",
+      "geometry_source": "osm",
+      "license": "ODbL",
+      "length_km": 9.4,
+      "directions": [
+        {
+          "id": "22D-osm-3208008",
+          "name": "Ibabaw (Mandaue City)-Manalili-Cebu City",
+          "from": "Cebu City",
+          "to": "Ibabao",
+          "length_km": 9.4
+        },
+        {
+          "id": "22D-osm-3208066",
+          "name": "Ibabao (Mandaue City)-Manalili-Cebu City",
+          "from": "Ibabao",
+          "to": "Cebu City",
+          "length_km": 8.29
+        }
+      ],
+      "stops": [
+        "Cebu Metropolitan Cathedral",
+        "CTU",
+        "Commission on Audit",
+        "Tejero Elementary School",
+        "T. Padilla",
+        "Carreta – M. Cuenco",
+        "Carreta Elementary School",
+        "White Gold House",
+        "G Mall of Cebu",
+        "SM City Cebu",
+        "APM Mall",
+        "F. Cabahug",
+        "Gatewalk",
+        "S. O. Albaño",
+        "Crossing Subangdaku North",
+        "Arcada 5",
+        "Tipolo National High School",
+        "Mandaue City Hall of Justice",
+        "New Mandaue City Government Center",
+        "Guizo",
+        "A. S. Fortuna Extension",
+        "Gaisano Grand Mall Mandaue",
+        "Mandaue City Government Complex",
+        "P. Gomez Street",
+        "Mandaue City Police Office",
+        "Mandaue City Comprehensive National High School",
+        "Cortes - Ouano",
+        "De La Paz Chapel",
+        "C. M. Cabahug",
+        "Mandaue City Central School",
+        "Cortes General Hospital",
+        "Suson",
+        "F.B. Cabahug",
+        "L. Espina Street",
+        "Colegio de la Inmaculada Concepcion - Mandaue",
+        "Crossing Subangdaku South",
+        "Ginebra San Miguel",
+        "Metrobank Mabolo",
+        "Crossing Mabolo",
+        "Gil Tudtud",
+        "Hipodromo",
+        "Carreta",
+        "Lorega",
+        "Museo Sugbo"
+      ],
+      "overlap": {
+        "osm_on_weebly": 0.94,
+        "weebly_on_osm": 0.929,
+        "threshold_m": 80
+      },
+      "osm_relations": [
+        3208008,
+        3208066
+      ],
+      "weebly_pages": [
+        "https://cebujeepneys.weebly.com/22d.html"
+      ],
+      "sources": [
+        "osm:relation/3208008",
+        "osm:relation/3208066",
+        "https://cebujeepneys.weebly.com/22d.html",
+        "© OpenStreetMap contributors (ODbL)",
+        "cross-check: Cebu Jeepney Maps by John Mercado Lee, CC BY-NC 3.0 (https://creativecommons.org/licenses/by-nc/3.0/). Source: https://cebujeepneys.weebly.com/"
+      ],
+      "note": null
+    },
+    {
+      "code": "22G",
+      "name": "Cathedral to Mandaue (Ouano)",
+      "from": "Cathedral",
+      "to": "Mandaue (Ouano)",
+      "family": "22",
+      "status": "unconfirmed",
+      "auto_status": "unconfirmed",
+      "method": "weebly_kml",
+      "geometry_source": "weebly",
+      "license": "CC BY-NC 3.0",
+      "length_km": 10.41,
+      "directions": [
+        {
+          "id": "22G-weebly-1",
+          "name": "Cathedral to Mandaue (Ouano)",
+          "from": "Cathedral",
+          "to": "Mandaue (Ouano)",
+          "length_km": 10.41
+        },
+        {
+          "id": "22G-weebly-2",
+          "name": "Mandaue(Ouano) to Cathedral",
+          "from": "Mandaue(Ouano)",
+          "to": "Cathedral",
+          "length_km": 8.1
+        }
+      ],
+      "stops": [],
+      "overlap": {
+        "osm_on_weebly": null,
+        "weebly_on_osm": null,
+        "threshold_m": 80
+      },
+      "osm_relations": [],
+      "weebly_pages": [
+        "https://cebujeepneys.weebly.com/22g.html"
+      ],
+      "sources": [
+        "https://cebujeepneys.weebly.com/22g.html",
+        "Cebu Jeepney Maps by John Mercado Lee, CC BY-NC 3.0 (https://creativecommons.org/licenses/by-nc/3.0/). Source: https://cebujeepneys.weebly.com/"
+      ],
+      "note": null
+    },
+    {
+      "code": "22I",
+      "name": "Country Mall to Mandaue Public Market",
+      "from": "Country Mall",
+      "to": "Mandaue Public Market",
+      "family": "22",
+      "status": "unconfirmed",
+      "auto_status": "unconfirmed",
+      "method": "weebly_kml",
+      "geometry_source": "weebly",
+      "license": "CC BY-NC 3.0",
+      "length_km": 5.86,
+      "directions": [
+        {
+          "id": "22I-weebly-1",
+          "name": "Country Mall to Mandaue Public Market",
+          "from": "Country Mall",
+          "to": "Mandaue Public Market",
+          "length_km": 5.86
+        },
+        {
+          "id": "22I-weebly-2",
+          "name": "Mandaue Public Market to Country Mall",
+          "from": "Mandaue Public Market",
+          "to": "Country Mall",
+          "length_km": 5.7
+        },
+        {
+          "id": "22I-weebly-3",
+          "name": "Paradise Village Route",
+          "from": "",
+          "to": "",
+          "length_km": 1.25
+        }
+      ],
+      "stops": [],
+      "overlap": {
+        "osm_on_weebly": null,
+        "weebly_on_osm": null,
+        "threshold_m": 80
+      },
+      "osm_relations": [],
+      "weebly_pages": [
+        "https://cebujeepneys.weebly.com/22i.html"
+      ],
+      "sources": [
+        "https://cebujeepneys.weebly.com/22i.html",
+        "Cebu Jeepney Maps by John Mercado Lee, CC BY-NC 3.0 (https://creativecommons.org/licenses/by-nc/3.0/). Source: https://cebujeepneys.weebly.com/"
+      ],
+      "note": null
+    },
+    {
+      "code": "23",
+      "name": "Parkmall to Punta Engano",
+      "from": "Parkmall",
+      "to": "Punta Engano",
+      "family": "23",
+      "status": "unconfirmed",
+      "auto_status": "unconfirmed",
+      "method": "weebly_kml",
+      "geometry_source": "weebly",
+      "license": "CC BY-NC 3.0",
+      "length_km": 18.66,
+      "directions": [
+        {
+          "id": "23-weebly-1",
+          "name": "Parkmall to Punta Engano",
+          "from": "Parkmall",
+          "to": "Punta Engano",
+          "length_km": 18.66
+        },
+        {
+          "id": "23-weebly-2",
+          "name": "Punta Engano to Parkmall",
+          "from": "Punta Engano",
+          "to": "Parkmall",
+          "length_km": 17.15
+        }
+      ],
+      "stops": [],
+      "overlap": {
+        "osm_on_weebly": null,
+        "weebly_on_osm": null,
+        "threshold_m": 80
+      },
+      "osm_relations": [],
+      "weebly_pages": [
+        "https://cebujeepneys.weebly.com/23.html"
+      ],
+      "sources": [
+        "https://cebujeepneys.weebly.com/23.html",
+        "Cebu Jeepney Maps by John Mercado Lee, CC BY-NC 3.0 (https://creativecommons.org/licenses/by-nc/3.0/). Source: https://cebujeepneys.weebly.com/"
+      ],
+      "note": null
+    },
+    {
+      "code": "23D",
+      "name": "Opon to Mandaue",
+      "from": "Opon",
+      "to": "Mandaue",
+      "family": "23",
+      "status": "unconfirmed",
+      "auto_status": "unconfirmed",
+      "method": "weebly_kml",
+      "geometry_source": "weebly",
+      "license": "CC BY-NC 3.0",
+      "length_km": 8.12,
+      "directions": [
+        {
+          "id": "23D-weebly-1",
+          "name": "Opon to Mandaue",
+          "from": "Opon",
+          "to": "Mandaue",
+          "length_km": 5.19
+        },
+        {
+          "id": "23D-weebly-2",
+          "name": "Mandaue to Opon",
+          "from": "Mandaue",
+          "to": "Opon",
+          "length_km": 8.12
+        }
+      ],
+      "stops": [],
+      "overlap": {
+        "osm_on_weebly": null,
+        "weebly_on_osm": null,
+        "threshold_m": 80
+      },
+      "osm_relations": [],
+      "weebly_pages": [
+        "https://cebujeepneys.weebly.com/23d.html"
+      ],
+      "sources": [
+        "https://cebujeepneys.weebly.com/23d.html",
+        "Cebu Jeepney Maps by John Mercado Lee, CC BY-NC 3.0 (https://creativecommons.org/licenses/by-nc/3.0/). Source: https://cebujeepneys.weebly.com/"
+      ],
+      "note": null
+    },
+    {
+      "code": "24",
+      "name": "Consolacion to White Gold via Sm and Mabolo",
+      "from": "Consolacion",
+      "to": "White Gold via Sm and Mabolo",
+      "family": "24",
+      "status": "unconfirmed",
+      "auto_status": "unconfirmed",
+      "method": "weebly_kml",
+      "geometry_source": "weebly",
+      "license": "CC BY-NC 3.0",
+      "length_km": 12.72,
+      "directions": [
+        {
+          "id": "24-weebly-1",
+          "name": "Consolacion to White Gold via Sm and Mabolo",
+          "from": "Consolacion",
+          "to": "White Gold via Sm and Mabolo",
+          "length_km": 12.52
+        },
+        {
+          "id": "24-weebly-2",
+          "name": "White Gold to Consolacion",
+          "from": "White Gold",
+          "to": "Consolacion",
+          "length_km": 12.72
+        }
+      ],
+      "stops": [],
+      "overlap": {
+        "osm_on_weebly": null,
+        "weebly_on_osm": null,
+        "threshold_m": 80
+      },
+      "osm_relations": [],
+      "weebly_pages": [
+        "https://cebujeepneys.weebly.com/24.html"
+      ],
+      "sources": [
+        "https://cebujeepneys.weebly.com/24.html",
+        "Cebu Jeepney Maps by John Mercado Lee, CC BY-NC 3.0 (https://creativecommons.org/licenses/by-nc/3.0/). Source: https://cebujeepneys.weebly.com/"
+      ],
+      "note": null
+    },
+    {
+      "code": "25",
+      "name": "Mandaue–Lilo-an via Makro",
+      "from": "",
+      "to": "",
+      "family": "25",
+      "status": "unconfirmed",
+      "auto_status": "unconfirmed",
+      "method": "osm_crosscheck",
+      "geometry_source": "osm",
+      "license": "ODbL",
+      "length_km": 15.4,
+      "directions": [
+        {
+          "id": "25-osm-3279746",
+          "name": "Mandaue–Lilo-an via Makro",
+          "from": "",
+          "to": "",
+          "length_km": 15.4
+        }
+      ],
+      "stops": [],
+      "overlap": {
+        "osm_on_weebly": 0.866,
+        "weebly_on_osm": 0.736,
+        "threshold_m": 80
+      },
+      "osm_relations": [
+        3279746
+      ],
+      "weebly_pages": [
+        "https://cebujeepneys.weebly.com/25.html"
+      ],
+      "sources": [
+        "osm:relation/3279746",
+        "https://cebujeepneys.weebly.com/25.html",
+        "© OpenStreetMap contributors (ODbL)",
+        "cross-check: Cebu Jeepney Maps by John Mercado Lee, CC BY-NC 3.0 (https://creativecommons.org/licenses/by-nc/3.0/). Source: https://cebujeepneys.weebly.com/"
+      ],
+      "note": null
+    },
+    {
+      "code": "44",
+      "name": "Jeepney 44: Naga - Basak - Punta Princesa",
+      "from": "",
+      "to": "",
+      "family": "44",
+      "status": "unconfirmed",
+      "auto_status": "unconfirmed",
+      "method": "osm_crosscheck",
+      "geometry_source": "osm",
+      "license": "ODbL",
+      "length_km": 23.31,
+      "directions": [
+        {
+          "id": "44-osm-3183060",
+          "name": "Jeepney 44: Naga - Basak - Punta Princesa",
+          "from": "",
+          "to": "",
+          "length_km": 23.31
+        }
+      ],
+      "stops": [
+        "St. Francis of Assisi",
+        "Pasilong sa Naga",
+        "South General Hospital"
+      ],
+      "overlap": {
+        "osm_on_weebly": null,
+        "weebly_on_osm": null,
+        "threshold_m": 80
+      },
+      "osm_relations": [
+        3183060
+      ],
+      "weebly_pages": [],
+      "sources": [
+        "osm:relation/3183060",
+        "© OpenStreetMap contributors (ODbL)"
+      ],
+      "note": null
+    },
+    {
+      "code": "52",
+      "name": "Guba-Fuente",
+      "from": "Guba",
+      "to": "Fuente",
+      "family": "52",
+      "status": "unconfirmed",
+      "auto_status": "unconfirmed",
+      "method": "osm_crosscheck",
+      "geometry_source": "osm",
+      "license": "ODbL",
+      "length_km": 24.06,
+      "directions": [
+        {
+          "id": "52-osm-3171936",
+          "name": "Guba-Fuente",
+          "from": "Guba",
+          "to": "Fuente",
+          "length_km": 23.94
+        },
+        {
+          "id": "52-osm-14140743",
+          "name": "Guba-Fuente",
+          "from": "Fuente",
+          "to": "Guba",
+          "length_km": 24.06
+        }
+      ],
+      "stops": [],
+      "overlap": {
+        "osm_on_weebly": null,
+        "weebly_on_osm": null,
+        "threshold_m": 80
+      },
+      "osm_relations": [
+        3171936,
+        14140743
+      ],
+      "weebly_pages": [],
+      "sources": [
+        "osm:relation/3171936",
+        "osm:relation/14140743",
+        "© OpenStreetMap contributors (ODbL)"
+      ],
+      "note": null
+    },
+    {
+      "code": "60",
+      "name": "Jeepney 60: Bonbon - Lahug - Carbon",
+      "from": "",
+      "to": "",
+      "family": "60",
+      "status": "unconfirmed",
+      "auto_status": "unconfirmed",
+      "method": "osm_crosscheck",
+      "geometry_source": "osm",
+      "license": "ODbL",
+      "length_km": 40.64,
+      "directions": [
+        {
+          "id": "60-osm-3171907",
+          "name": "Jeepney 60: Bonbon - Lahug - Carbon",
+          "from": "",
+          "to": "",
+          "length_km": 40.64
+        }
+      ],
+      "stops": [],
+      "overlap": {
+        "osm_on_weebly": null,
+        "weebly_on_osm": null,
+        "threshold_m": 80
+      },
+      "osm_relations": [
+        3171907
+      ],
+      "weebly_pages": [],
+      "sources": [
+        "osm:relation/3171907",
+        "© OpenStreetMap contributors (ODbL)"
+      ],
+      "note": null
+    },
+    {
+      "code": "62B",
+      "name": "Pit-os to Carbon",
+      "from": "Pit-os",
+      "to": "Carbon",
+      "family": "62",
+      "status": "unconfirmed",
+      "auto_status": "unconfirmed",
+      "method": "weebly_kml",
+      "geometry_source": "weebly",
+      "license": "CC BY-NC 3.0",
+      "length_km": 14.03,
+      "directions": [
+        {
+          "id": "62B-weebly-1",
+          "name": "Pit-os to Carbon",
+          "from": "Pit-os",
+          "to": "Carbon",
+          "length_km": 14.03
+        },
+        {
+          "id": "62B-weebly-2",
+          "name": "Carbon to Pit-os",
+          "from": "Carbon",
+          "to": "Pit-os",
+          "length_km": 13.4
+        }
+      ],
+      "stops": [],
+      "overlap": {
+        "osm_on_weebly": null,
+        "weebly_on_osm": null,
+        "threshold_m": 80
+      },
+      "osm_relations": [],
+      "weebly_pages": [
+        "https://cebujeepneys.weebly.com/62b.html"
+      ],
+      "sources": [
+        "https://cebujeepneys.weebly.com/62b.html",
+        "Cebu Jeepney Maps by John Mercado Lee, CC BY-NC 3.0 (https://creativecommons.org/licenses/by-nc/3.0/). Source: https://cebujeepneys.weebly.com/"
+      ],
+      "note": null
+    },
+    {
+      "code": "62C",
+      "name": "Pit-os to Carbon",
+      "from": "Pit-os",
+      "to": "Carbon",
+      "family": "62",
+      "status": "unconfirmed",
+      "auto_status": "unconfirmed",
+      "method": "weebly_kml",
+      "geometry_source": "weebly",
+      "license": "CC BY-NC 3.0",
+      "length_km": 14.9,
+      "directions": [
+        {
+          "id": "62C-weebly-1",
+          "name": "Pit-os to Carbon",
+          "from": "Pit-os",
+          "to": "Carbon",
+          "length_km": 14.9
+        },
+        {
+          "id": "62C-weebly-2",
+          "name": "Carbon To Pit-os",
+          "from": "Carbon",
+          "to": "Pit-os",
+          "length_km": 13.17
+        }
+      ],
+      "stops": [],
+      "overlap": {
+        "osm_on_weebly": null,
+        "weebly_on_osm": null,
+        "threshold_m": 80
+      },
+      "osm_relations": [],
+      "weebly_pages": [
+        "https://cebujeepneys.weebly.com/62c.html"
+      ],
+      "sources": [
+        "https://cebujeepneys.weebly.com/62c.html",
+        "Cebu Jeepney Maps by John Mercado Lee, CC BY-NC 3.0 (https://creativecommons.org/licenses/by-nc/3.0/). Source: https://cebujeepneys.weebly.com/"
+      ],
+      "note": null
+    },
+    {
+      "code": "MI-01A",
+      "name": "Punta Engano to Opon Public Market",
+      "from": "Punta Engano",
+      "to": "Opon Public Market",
+      "family": "MI",
+      "status": "unconfirmed",
+      "auto_status": "unconfirmed",
+      "method": "weebly_kml",
+      "geometry_source": "weebly",
+      "license": "CC BY-NC 3.0",
+      "length_km": 13.1,
+      "directions": [
+        {
+          "id": "MI-01A-weebly-1",
+          "name": "Punta Engano to Opon Public Market",
+          "from": "Punta Engano",
+          "to": "Opon Public Market",
+          "length_km": 13.05
+        },
+        {
+          "id": "MI-01A-weebly-2",
+          "name": "Opon Public Market to Punta Engano",
+          "from": "Opon Public Market",
+          "to": "Punta Engano",
+          "length_km": 13.1
+        }
+      ],
+      "stops": [],
+      "overlap": {
+        "osm_on_weebly": null,
+        "weebly_on_osm": null,
+        "threshold_m": 80
+      },
+      "osm_relations": [],
+      "weebly_pages": [
+        "https://cebujeepneys.weebly.com/mi-01a.html"
+      ],
+      "sources": [
+        "https://cebujeepneys.weebly.com/mi-01a.html",
+        "Cebu Jeepney Maps by John Mercado Lee, CC BY-NC 3.0 (https://creativecommons.org/licenses/by-nc/3.0/). Source: https://cebujeepneys.weebly.com/"
+      ],
+      "note": null
+    },
+    {
+      "code": "MI-02B",
+      "name": "Mandaue to Maribago",
+      "from": "Mandaue",
+      "to": "Maribago",
+      "family": "MI",
+      "status": "unconfirmed",
+      "auto_status": "unconfirmed",
+      "method": "weebly_kml",
+      "geometry_source": "weebly",
+      "license": "CC BY-NC 3.0",
+      "length_km": 18.16,
+      "directions": [
+        {
+          "id": "MI-02B-weebly-1",
+          "name": "Mandaue to Maribago",
+          "from": "Mandaue",
+          "to": "Maribago",
+          "length_km": 18.16
+        },
+        {
+          "id": "MI-02B-weebly-2",
+          "name": "To Agus",
+          "from": "",
+          "to": "",
+          "length_km": 1.48
+        },
+        {
+          "id": "MI-02B-weebly-3",
+          "name": "From Agus",
+          "from": "",
+          "to": "",
+          "length_km": 1.48
+        },
+        {
+          "id": "MI-02B-weebly-4",
+          "name": "Maribago to Mandaue",
+          "from": "Maribago",
+          "to": "Mandaue",
+          "length_km": 16.53
+        }
+      ],
+      "stops": [],
+      "overlap": {
+        "osm_on_weebly": null,
+        "weebly_on_osm": null,
+        "threshold_m": 80
+      },
+      "osm_relations": [],
+      "weebly_pages": [
+        "https://cebujeepneys.weebly.com/mi-02b.html"
+      ],
+      "sources": [
+        "https://cebujeepneys.weebly.com/mi-02b.html",
+        "Cebu Jeepney Maps by John Mercado Lee, CC BY-NC 3.0 (https://creativecommons.org/licenses/by-nc/3.0/). Source: https://cebujeepneys.weebly.com/"
+      ],
+      "note": null
+    },
+    {
+      "code": "MI-03A",
+      "name": "Cordova to Opon Public Market",
+      "from": "Cordova",
+      "to": "Opon Public Market",
+      "family": "MI",
+      "status": "unconfirmed",
+      "auto_status": "unconfirmed",
+      "method": "weebly_kml",
+      "geometry_source": "weebly",
+      "license": "CC BY-NC 3.0",
+      "length_km": 7.61,
+      "directions": [
+        {
+          "id": "MI-03A-weebly-1",
+          "name": "Cordova to Opon Public Market",
+          "from": "Cordova",
+          "to": "Opon Public Market",
+          "length_km": 7.61
+        },
+        {
+          "id": "MI-03A-weebly-2",
+          "name": "Opon Public Market to Cordova",
+          "from": "Opon Public Market",
+          "to": "Cordova",
+          "length_km": 7.07
+        }
+      ],
+      "stops": [],
+      "overlap": {
+        "osm_on_weebly": null,
+        "weebly_on_osm": null,
+        "threshold_m": 80
+      },
+      "osm_relations": [],
+      "weebly_pages": [
+        "https://cebujeepneys.weebly.com/mi-03a.html"
+      ],
+      "sources": [
+        "https://cebujeepneys.weebly.com/mi-03a.html",
+        "Cebu Jeepney Maps by John Mercado Lee, CC BY-NC 3.0 (https://creativecommons.org/licenses/by-nc/3.0/). Source: https://cebujeepneys.weebly.com/"
+      ],
+      "note": null
+    },
+    {
+      "code": "MI-03B",
+      "name": "Cordova to Mepz1 via Opon Public Market",
+      "from": "Cordova",
+      "to": "Mepz1 via Opon Public Market",
+      "family": "MI",
+      "status": "unconfirmed",
+      "auto_status": "unconfirmed",
+      "method": "weebly_kml",
+      "geometry_source": "weebly",
+      "license": "CC BY-NC 3.0",
+      "length_km": 13.34,
+      "directions": [
+        {
+          "id": "MI-03B-weebly-1",
+          "name": "Cordova to Mepz1 via Opon Public Market",
+          "from": "Cordova",
+          "to": "Mepz1 via Opon Public Market",
+          "length_km": 12.51
+        },
+        {
+          "id": "MI-03B-weebly-2",
+          "name": "MEPZ1 to Cordova via Opon Public Market",
+          "from": "MEPZ1",
+          "to": "Cordova via Opon Public Market",
+          "length_km": 12.53
+        },
+        {
+          "id": "MI-03B-weebly-3",
+          "name": "Cordova to Mepz 1 via Hoopsdome",
+          "from": "Cordova",
+          "to": "Mepz 1 via Hoopsdome",
+          "length_km": 13.34
+        },
+        {
+          "id": "MI-03B-weebly-4",
+          "name": "Mepz 1 to Cordova via Hoops Dome",
+          "from": "Mepz 1",
+          "to": "Cordova via Hoops Dome",
+          "length_km": 12.72
+        }
+      ],
+      "stops": [],
+      "overlap": {
+        "osm_on_weebly": null,
+        "weebly_on_osm": null,
+        "threshold_m": 80
+      },
+      "osm_relations": [],
+      "weebly_pages": [
+        "https://cebujeepneys.weebly.com/mi-03b.html"
+      ],
+      "sources": [
+        "https://cebujeepneys.weebly.com/mi-03b.html",
+        "Cebu Jeepney Maps by John Mercado Lee, CC BY-NC 3.0 (https://creativecommons.org/licenses/by-nc/3.0/). Source: https://cebujeepneys.weebly.com/"
+      ],
+      "note": null
+    },
+    {
+      "code": "MI-04A",
+      "name": "Tamiya-SM City JMall",
+      "from": "SM J Mall",
+      "to": "Tamiya",
+      "family": "MI",
+      "status": "unconfirmed",
+      "auto_status": "unconfirmed",
+      "method": "osm_crosscheck",
+      "geometry_source": "osm",
+      "license": "ODbL",
+      "length_km": 8.16,
+      "directions": [
+        {
+          "id": "MI-04A-osm-20605538",
+          "name": "Tamiya-SM City JMall",
+          "from": "SM J Mall",
+          "to": "Tamiya",
+          "length_km": 6.23
+        },
+        {
+          "id": "MI-04A-osm-20605539",
+          "name": "Tamiya-SM City JMall",
+          "from": "Tamiya",
+          "to": "SM J Mall",
+          "length_km": 8.16
+        },
+        {
+          "id": "MI-04A-osm-20605540",
+          "name": "Tamiya-Parkmall",
+          "from": "Parkmall",
+          "to": "Tamiya",
+          "length_km": 7.89
+        },
+        {
+          "id": "MI-04A-osm-20605541",
+          "name": "Tamiya-Parkmall",
+          "from": "Tamiya",
+          "to": "Mandaue City",
+          "length_km": 7.62
+        }
+      ],
+      "stops": [
+        "SM City JMall",
+        "DPWH Cebu 6th Engineering Office",
+        "C. M. Cabahug Street",
+        "Pajo Junction",
+        "Sangi Road",
+        "Humay Humay Road",
+        "Tamiya Terminal",
+        "S. Osmeña Street",
+        "P. Burgos",
+        "S.B. Cabahug",
+        "Dohera Hotel",
+        "Maguikay Flyover",
+        "V. Albano",
+        "L. Jayme",
+        "E. V. Espina",
+        "PLDT",
+        "Parkmall",
+        "S&R Mandaue",
+        "Dr. F. Zuellig",
+        "Bai Hotel",
+        "Mandaue City Police Office",
+        "B. B. Cabahug",
+        "F.B. Cabahug",
+        "L. Espina Street",
+        "Colegio de la Inmaculada Concepcion - Mandaue"
+      ],
+      "overlap": {
+        "osm_on_weebly": 0.87,
+        "weebly_on_osm": 0.935,
+        "threshold_m": 80
+      },
+      "osm_relations": [
+        20605538,
+        20605539,
+        20605540,
+        20605541
+      ],
+      "weebly_pages": [
+        "https://cebujeepneys.weebly.com/mi-04a.html"
+      ],
+      "sources": [
+        "osm:relation/20605538",
+        "osm:relation/20605539",
+        "osm:relation/20605540",
+        "osm:relation/20605541",
+        "https://cebujeepneys.weebly.com/mi-04a.html",
+        "© OpenStreetMap contributors (ODbL)",
+        "cross-check: Cebu Jeepney Maps by John Mercado Lee, CC BY-NC 3.0 (https://creativecommons.org/licenses/by-nc/3.0/). Source: https://cebujeepneys.weebly.com/"
+      ],
+      "note": null
+    },
+    {
+      "code": "MI-04B",
+      "name": "Tamiya-MEPZ1 (inbound)",
+      "from": "MEPZ1",
+      "to": "Tamiya",
+      "family": "MI",
+      "status": "unconfirmed",
+      "auto_status": "unconfirmed",
+      "method": "osm_crosscheck",
+      "geometry_source": "osm",
+      "license": "ODbL",
+      "length_km": 5.91,
+      "directions": [
+        {
+          "id": "MI-04B-osm-20605536",
+          "name": "Tamiya-MEPZ1 (inbound)",
+          "from": "MEPZ1",
+          "to": "Tamiya",
+          "length_km": 5.88
+        },
+        {
+          "id": "MI-04B-osm-20605537",
+          "name": "Tamiya-MEPZ1 (outbound)",
+          "from": "Tamiya",
+          "to": "MEPZ1",
+          "length_km": 5.91
+        }
+      ],
+      "stops": [
+        "MEPZ1 2nd Avenue Road",
+        "Marina Mall",
+        "Pusok Elementary School",
+        "Marcelo Fernan Bridge",
+        "Pusok Road",
+        "Lapu-Lapu City Hall",
+        "Gaisano Island Mall Mactan",
+        "Sangi Road",
+        "Humay Humay Road",
+        "Tamiya Terminal",
+        "S. Osmeña Street",
+        "Pajo Junction",
+        "Gate 3 - MEZ 1"
+      ],
+      "overlap": {
+        "osm_on_weebly": 0.99,
+        "weebly_on_osm": 1.0,
+        "threshold_m": 80
+      },
+      "osm_relations": [
+        20605536,
+        20605537
+      ],
+      "weebly_pages": [
+        "https://cebujeepneys.weebly.com/mi-04b.html"
+      ],
+      "sources": [
+        "osm:relation/20605536",
+        "osm:relation/20605537",
+        "https://cebujeepneys.weebly.com/mi-04b.html",
+        "© OpenStreetMap contributors (ODbL)",
+        "cross-check: Cebu Jeepney Maps by John Mercado Lee, CC BY-NC 3.0 (https://creativecommons.org/licenses/by-nc/3.0/). Source: https://cebujeepneys.weebly.com/"
+      ],
+      "note": null
+    },
+    {
+      "code": "MI-05A",
+      "name": "Mactan Airport to Opon Church (Ferry Boat Terminal)",
+      "from": "Mactan Airport",
+      "to": "Opon Church (Ferry Boat Terminal)",
+      "family": "MI",
+      "status": "unconfirmed",
+      "auto_status": "unconfirmed",
+      "method": "weebly_kml",
+      "geometry_source": "weebly",
+      "license": "CC BY-NC 3.0",
+      "length_km": 6.1,
+      "directions": [
+        {
+          "id": "MI-05A-weebly-1",
+          "name": "Mactan Airport to Opon Church (Ferry Boat Terminal)",
+          "from": "Mactan Airport",
+          "to": "Opon Church (Ferry Boat Terminal)",
+          "length_km": 5.03
+        },
+        {
+          "id": "MI-05A-weebly-2",
+          "name": "Opon to Mactan Airport",
+          "from": "Opon",
+          "to": "Mactan Airport",
+          "length_km": 6.1
+        }
+      ],
+      "stops": [],
+      "overlap": {
+        "osm_on_weebly": null,
+        "weebly_on_osm": null,
+        "threshold_m": 80
+      },
+      "osm_relations": [],
+      "weebly_pages": [
+        "https://cebujeepneys.weebly.com/mi-05a.html"
+      ],
+      "sources": [
+        "https://cebujeepneys.weebly.com/mi-05a.html",
+        "Cebu Jeepney Maps by John Mercado Lee, CC BY-NC 3.0 (https://creativecommons.org/licenses/by-nc/3.0/). Source: https://cebujeepneys.weebly.com/"
+      ],
+      "note": null
+    },
+    {
+      "code": "MY01",
+      "name": "MyBus 01: SRP-SM Cebu",
+      "from": "",
+      "to": "",
+      "family": "MY01",
+      "status": "unconfirmed",
+      "auto_status": "unconfirmed",
+      "method": "osm_crosscheck",
+      "geometry_source": "osm",
+      "license": "ODbL",
+      "length_km": 18.89,
+      "directions": [
+        {
+          "id": "MY01-osm-6197178",
+          "name": "MyBus 01: SRP-SM Cebu",
+          "from": "",
+          "to": "",
+          "length_km": 18.89
+        }
+      ],
+      "stops": [
+        "SM Seaside City Cebu"
+      ],
+      "overlap": {
+        "osm_on_weebly": null,
+        "weebly_on_osm": null,
+        "threshold_m": 80
+      },
+      "osm_relations": [
+        6197178
+      ],
+      "weebly_pages": [],
+      "sources": [
+        "osm:relation/6197178",
+        "© OpenStreetMap contributors (ODbL)"
+      ],
+      "note": null
+    },
+    {
+      "code": "MY02",
+      "name": "MyBus 02: SM Seaside-Talisay Anjo World",
+      "from": "",
+      "to": "",
+      "family": "MY02",
+      "status": "unconfirmed",
+      "auto_status": "unconfirmed",
+      "method": "osm_crosscheck",
+      "geometry_source": "osm",
+      "license": "ODbL",
+      "length_km": 21.31,
+      "directions": [
+        {
+          "id": "MY02-osm-6260176",
+          "name": "MyBus 02: SM Seaside-Talisay Anjo World",
+          "from": "",
+          "to": "",
+          "length_km": 21.31
+        }
+      ],
+      "stops": [
+        "SM Seaside City Cebu"
+      ],
+      "overlap": {
+        "osm_on_weebly": null,
+        "weebly_on_osm": null,
+        "threshold_m": 80
+      },
+      "osm_relations": [
+        6260176
+      ],
+      "weebly_pages": [],
+      "sources": [
+        "osm:relation/6260176",
+        "© OpenStreetMap contributors (ODbL)"
+      ],
+      "note": null
+    },
+    {
+      "code": "MY05",
+      "name": "MyBus 05: Fuente-SM Seaside",
+      "from": "",
+      "to": "",
+      "family": "MY05",
+      "status": "unconfirmed",
+      "auto_status": "unconfirmed",
+      "method": "osm_crosscheck",
+      "geometry_source": "osm",
+      "license": "ODbL",
+      "length_km": 4.81,
+      "directions": [
+        {
+          "id": "MY05-osm-6257505",
+          "name": "MyBus 05: Fuente-SM Seaside",
+          "from": "",
+          "to": "",
+          "length_km": 4.81
+        }
+      ],
+      "stops": [
+        "SM Seaside City Cebu"
+      ],
+      "overlap": {
+        "osm_on_weebly": null,
+        "weebly_on_osm": null,
+        "threshold_m": 80
+      },
+      "osm_relations": [
+        6257505
+      ],
+      "weebly_pages": [],
+      "sources": [
+        "osm:relation/6257505",
+        "© OpenStreetMap contributors (ODbL)"
+      ],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "fetched": "2026-11-03",
+  "endpoint": "https://overpass-api.de/api/interpreter",
+  "query": "[out:json][timeout:180];\n(\n  relation[\"network\"=\"LTFRB Region VII\"][\"route\"=\"bus\"](10.05,123.55,10.60,124.15);\n  relation[\"network\"=\"PH:PUJ:Metro Cebu\"];\n)->.routes;\n.routes out geom;\n(\n  node(r.routes:\"stop\");\n  node(r.routes:\"platform\");\n  node(r.routes:\"stop_entry_only\");\n  node(r.routes:\"stop_exit_only\");\n  node(r.routes:\"platform_entry_only\");\n  node(r.routes:\"platform_exit_only\");\n);\nout;",
+  "relation_count": 96,
+  "osm_timestamp": "2026-11-03T05:54:36Z",
+  "license": "ODbL",
+  "attribution": "© OpenStreetMap contributors"
+}

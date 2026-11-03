@@ -1,0 +1,1388 @@
+{
+  "fetched": "2026-11-03",
+  "license": "CC BY-NC 3.0",
+  "attribution": "Cebu Jeepney Maps by John Mercado Lee",
+  "source": "https://cebujeepneys.weebly.com/",
+  "pages": [
+    {
+      "page": "https://cebujeepneys.weebly.com/10g.html",
+      "slug": "10g",
+      "code": "10G",
+      "maps": [
+        {
+          "id": "215407014567766299817.0004d0455f58bfdad6772",
+          "url": "https://maps.google.com/maps/ms?msa=0&output=kml&msid=215407014567766299817.0004d0455f58bfdad6772",
+          "file": "kmz\\10g.kmz",
+          "bytes": 2632
+        }
+      ],
+      "error": null,
+      "license_badge": true
+    },
+    {
+      "page": "https://cebujeepneys.weebly.com/mi-03a.html",
+      "slug": "mi-03a",
+      "code": "MI-03A",
+      "maps": [
+        {
+          "id": "215407014567766299817.0004de04be9e57b62bb39",
+          "url": "https://maps.google.com/maps/ms?msa=0&output=kml&msid=215407014567766299817.0004de04be9e57b62bb39",
+          "file": "kmz\\mi-03a.kmz",
+          "bytes": 2342
+        }
+      ],
+      "error": null,
+      "license_badge": true
+    },
+    {
+      "page": "https://cebujeepneys.weebly.com/mybus.html",
+      "slug": "mybus",
+      "code": null,
+      "maps": [
+        {
+          "id": "14JXHLldr88q387TbRj1bMrpYTOFg-Aom",
+          "url": "https://www.google.com/maps/d/kml?mid=14JXHLldr88q387TbRj1bMrpYTOFg-Aom&forcekml=1",
+          "file": "kmz\\mybus.kmz",
+          "error": "response was HTML, not a map"
+        }
+      ],
+      "error": null,
+      "license_badge": true
+    },
+    {
+      "page": "https://cebujeepneys.weebly.com/10c.html",
+      "slug": "10c",
+      "code": "10C",
+      "maps": [],
+      "error": "no map id",
+      "license_badge": true
+    },
+    {
+      "page": "https://cebujeepneys.weebly.com/23.html",
+      "slug": "23",
+      "code": "23",
+      "maps": [
+        {
+          "id": "215407014567766299817.0004dd3ab795f149002e7",
+          "url": "https://maps.google.com/maps/ms?msa=0&output=kml&msid=215407014567766299817.0004dd3ab795f149002e7",
+          "file": "kmz\\23.kmz",
+          "bytes": 4060
+        }
+      ],
+      "error": null,
+      "license_badge": true
+    },
+    {
+      "page": "https://cebujeepneys.weebly.com/jeepney-routes.html",
+      "slug": "jeepney-routes",
+      "code": null,
+      "maps": [],
+      "error": null,
+      "skipped": "index page"
+    },
+    {
+      "page": "https://cebujeepneys.weebly.com/15.html",
+      "slug": "15",
+      "code": "15",
+      "maps": [
+        {
+          "id": "1c1XxjqIlfIsN_TfutgGgAiBJK2g",
+          "url": "https://www.google.com/maps/d/kml?mid=1c1XxjqIlfIsN_TfutgGgAiBJK2g&forcekml=1",
+          "file": "kmz\\15.kmz",
+          "error": "response was HTML, not a map"
+        }
+      ],
+      "error": null,
+      "license_badge": true
+    },
+    {
+      "page": "https://cebujeepneys.weebly.com/mi-01b.html",
+      "slug": "mi-01b",
+      "code": "MI-01B",
+      "maps": [],
+      "error": "no map id",
+      "license_badge": true
+    },
+    {
+      "page": "https://cebujeepneys.weebly.com/mi-05a.html",
+      "slug": "mi-05a",
+      "code": "MI-05A",
+      "maps": [
+        {
+          "id": "215407014567766299817.0004dbdeeaa24123b5d84",
+          "url": "https://maps.google.com/maps/ms?msa=0&output=kml&msid=215407014567766299817.0004dbdeeaa24123b5d84",
+          "file": "kmz\\mi-05a.kmz",
+          "bytes": 2044
+        }
+      ],
+      "error": null,
+      "license_badge": true
+    },
+    {
+      "page": "https://cebujeepneys.weebly.com/03l.html",
+      "slug": "03l",
+      "code": "03L",
+      "maps": [
+        {
+          "id": "215407014567766299817.0004d54afa64a3e1dc07b",
+          "url": "https://maps.google.com/maps/ms?msa=0&output=kml&msid=215407014567766299817.0004d54afa64a3e1dc07b",
+          "file": "kmz\\03l.kmz",
+          "bytes": 1967
+        }
+      ],
+      "error": null,
+      "license_badge": true
+    },
+    {
+      "page": "https://cebujeepneys.weebly.com/17c.html",
+      "slug": "17c",
+      "code": "17C",
+      "maps": [
+        {
+          "id": "215407014567766299817.0004dcb00636ef1d93e47",
+          "url": "https://maps.google.com/maps/ms?msa=0&output=kml&msid=215407014567766299817.0004dcb00636ef1d93e47",
+          "file": "kmz\\17c.kmz",
+          "bytes": 3019
+        }
+      ],
+      "error": null,
+      "license_badge": true
+    },
+    {
+      "page": "https://cebujeepneys.weebly.com/20.html",
+      "slug": "20",
+      "code": "20",
+      "maps": [],
+      "error": "no map id",
+      "license_badge": true
+    },
+    {
+      "page": "https://cebujeepneys.weebly.com/11d.html",
+      "slug": "11d",
+      "code": "11D",
+      "maps": [],
+      "error": "no map id",
+      "license_badge": true
+    },
+    {
+      "page": "https://cebujeepneys.weebly.com/03q.html",
+      "slug": "03q",
+      "code": "03Q",
+      "maps": [
+        {
+          "id": "215407014567766299817.0004c1a607ef476b277b5",
+          "url": "https://maps.google.com/maps/ms?msa=0&output=kml&msid=215407014567766299817.0004c1a607ef476b277b5",
+          "file": "kmz\\03q.kmz",
+          "bytes": 1914
+        }
+      ],
+      "error": null,
+      "license_badge": true
+    },
+    {
+      "page": "https://cebujeepneys.weebly.com/21g.html",
+      "slug": "21g",
+      "code": "21G",
+      "maps": [],
+      "error": "no map id",
+      "license_badge": true
+    },
+    {
+      "page": "https://cebujeepneys.weebly.com/12l.html",
+      "slug": "12l",
+      "code": "12L",
+      "maps": [
+        {
+          "id": "215407014567766299817.0004cf7cb8add0f912a01",
+          "url": "https://maps.google.com/maps/ms?msa=0&output=kml&msid=215407014567766299817.0004cf7cb8add0f912a01",
+          "file": "kmz\\12l.kmz",
+          "bytes": 3294
+        }
+      ],
+      "error": null,
+      "license_badge": true
+    },
+    {
+      "page": "https://cebujeepneys.weebly.com/04l.html",
+      "slug": "04l",
+      "code": "04L",
+      "maps": [
+        {
+          "id": "215407014567766299817.0004c19d51ac4e9f9b9ac",
+          "url": "https://maps.google.com/maps/ms?msa=0&output=kml&msid=215407014567766299817.0004c19d51ac4e9f9b9ac",
+          "file": "kmz\\04l.kmz",
+          "bytes": 1879
+        }
+      ],
+      "error": null,
+      "license_badge": true
+    },
+    {
+      "page": "https://cebujeepneys.weebly.com/01b.html",
+      "slug": "01b",
+      "code": "01B",
+      "maps": [
+        {
+          "id": "215407014567766299817.0004e3ea245809fe83c71",
+          "url": "https://maps.google.com/maps/ms?msa=0&output=kml&msid=215407014567766299817.0004e3ea245809fe83c71",
+          "file": "kmz\\01b.kmz",
+          "bytes": 2205
+        }
+      ],
+      "error": null,
+      "license_badge": true
+    },
+    {
+      "page": "https://cebujeepneys.weebly.com/06d.html",
+      "slug": "06d",
+      "code": "06D",
+      "maps": [],
+      "error": "no map id",
+      "license_badge": true
+    },
+    {
+      "page": "https://cebujeepneys.weebly.com/12c.html",
+      "slug": "12c",
+      "code": "12C",
+      "maps": [],
+      "error": "no map id",
+      "license_badge": true
+    },
+    {
+      "page": "https://cebujeepneys.weebly.com/04i.html",
+      "slug": "04i",
+      "code": "04I",
+      "maps": [
+        {
+          "id": "215407014567766299817.0004d7586c5c4813a4677",
+          "url": "https://maps.google.com/maps/ms?msa=0&output=kml&msid=215407014567766299817.0004d7586c5c4813a4677",
+          "file": "kmz\\04i.kmz",
+          "bytes": 5565
+        }
+      ],
+      "error": null,
+      "license_badge": true
+    },
+    {
+      "page": "https://cebujeepneys.weebly.com/13b.html",
+      "slug": "13b",
+      "code": "13B",
+      "maps": [
+        {
+          "id": "215407014567766299817.0004ddf0e9898a0a4e176",
+          "url": "https://maps.google.com/maps/ms?msa=0&output=kml&msid=215407014567766299817.0004ddf0e9898a0a4e176",
+          "file": "kmz\\13b.kmz",
+          "bytes": 3818
+        }
+      ],
+      "error": null,
+      "license_badge": true
+    },
+    {
+      "page": "https://cebujeepneys.weebly.com/sinulog-re-routing.html",
+      "slug": "sinulog-re-routing",
+      "code": null,
+      "maps": [
+        {
+          "id": "215407014567766299817.0004f0177049940fffe38",
+          "url": "https://maps.google.com/maps/ms?msa=0&output=kml&msid=215407014567766299817.0004f0177049940fffe38",
+          "file": "kmz\\sinulog-re-routing.kmz",
+          "bytes": 12025
+        }
+      ],
+      "error": null,
+      "license_badge": true
+    },
+    {
+      "page": "https://cebujeepneys.weebly.com/22g.html",
+      "slug": "22g",
+      "code": "22G",
+      "maps": [
+        {
+          "id": "215407014567766299817.0004d91f2b1bfeed01141",
+          "url": "https://maps.google.com/maps/ms?msa=0&output=kml&msid=215407014567766299817.0004d91f2b1bfeed01141",
+          "file": "kmz\\22g.kmz",
+          "bytes": 3130
+        }
+      ],
+      "error": null,
+      "license_badge": true
+    },
+    {
+      "page": "https://cebujeepneys.weebly.com/06a.html",
+      "slug": "06a",
+      "code": "06A",
+      "maps": [],
+      "error": "no map id",
+      "license_badge": true
+    },
+    {
+      "page": "https://cebujeepneys.weebly.com/20b.html",
+      "slug": "20b",
+      "code": "20B",
+      "maps": [
+        {
+          "id": "215407014567766299817.0004d0c9b594682c060eb",
+          "url": "https://maps.google.com/maps/ms?msa=0&output=kml&msid=215407014567766299817.0004d0c9b594682c060eb",
+          "file": "kmz\\20b.kmz",
+          "bytes": 1614
+        },
+        {
+          "id": "215407014567766299817.0004d06c929192a3e121f",
+          "url": "https://maps.google.com/maps/ms?msa=0&output=kml&msid=215407014567766299817.0004d06c929192a3e121f",
+          "file": "kmz\\20b-2.kmz",
+          "bytes": 1913
+        }
+      ],
+      "error": null,
+      "license_badge": true
+    },
+    {
+      "page": "https://cebujeepneys.weebly.com/21o.html",
+      "slug": "21o",
+      "code": "21O",
+      "maps": [],
+      "error": "no map id",
+      "license_badge": true
+    },
+    {
+      "page": "https://cebujeepneys.weebly.com/23d.html",
+      "slug": "23d",
+      "code": "23D",
+      "maps": [
+        {
+          "id": "215407014567766299817.0004e152db59e42b60e3e",
+          "url": "https://maps.google.com/maps/ms?msa=0&output=kml&msid=215407014567766299817.0004e152db59e42b60e3e",
+          "file": "kmz\\23d.kmz",
+          "bytes": 2387
+        }
+      ],
+      "error": null,
+      "license_badge": true
+    },
+    {
+      "page": "https://cebujeepneys.weebly.com/02b.html",
+      "slug": "02b",
+      "code": "02B",
+      "maps": [
+        {
+          "id": "215407014567766299817.0004dd8d1fe5849d1a0bd",
+          "url": "https://maps.google.com/maps/ms?msa=0&output=kml&msid=215407014567766299817.0004dd8d1fe5849d1a0bd",
+          "file": "kmz\\02b.kmz",
+          "bytes": 2143
+        }
+      ],
+      "error": null,
+      "license_badge": true
+    },
+    {
+      "page": "https://cebujeepneys.weebly.com/04b.html",
+      "slug": "04b",
+      "code": "04B",
+      "maps": [
+        {
+          "id": "215407014567766299817.0004dcd72d4d93ccc938e",
+          "url": "https://maps.google.com/maps/ms?msa=0&output=kml&msid=215407014567766299817.0004dcd72d4d93ccc938e",
+          "file": "kmz\\04b.kmz",
+          "bytes": 3181
+        }
+      ],
+      "error": null,
+      "license_badge": true
+    },
+    {
+      "page": "https://cebujeepneys.weebly.com/13c.html",
+      "slug": "13c",
+      "code": "13C",
+      "maps": [
+        {
+          "id": "215407014567766299817.0004d6c922d93a55dab44",
+          "url": "https://maps.google.com/maps/ms?msa=0&output=kml&msid=215407014567766299817.0004d6c922d93a55dab44",
+          "file": "kmz\\13c.kmz",
+          "bytes": 3089
+        }
+      ],
+      "error": null,
+      "license_badge": true
+    },
+    {
+      "page": "https://cebujeepneys.weebly.com/62c.html",
+      "slug": "62c",
+      "code": "62C",
+      "maps": [
+        {
+          "id": "215407014567766299817.0004da5f62e251b6b5e57",
+          "url": "https://maps.google.com/maps/ms?msa=0&output=kml&msid=215407014567766299817.0004da5f62e251b6b5e57",
+          "file": "kmz\\62c.kmz",
+          "bytes": 5445
+        }
+      ],
+      "error": null,
+      "license_badge": true
+    },
+    {
+      "page": "https://cebujeepneys.weebly.com/25.html",
+      "slug": "25",
+      "code": "25",
+      "maps": [
+        {
+          "id": "215407014567766299817.0004e0d9d0665498f3e8f",
+          "url": "https://maps.google.com/maps/ms?msa=0&output=kml&msid=215407014567766299817.0004e0d9d0665498f3e8f",
+          "file": "kmz\\25.kmz",
+          "bytes": 2029
+        }
+      ],
+      "error": null,
+      "license_badge": true
+    },
+    {
+      "page": "https://cebujeepneys.weebly.com/22i.html",
+      "slug": "22i",
+      "code": "22I",
+      "maps": [
+        {
+          "id": "215407014567766299817.0004d4aa5fabb392a8c15",
+          "url": "https://maps.google.com/maps/ms?msa=0&output=kml&msid=215407014567766299817.0004d4aa5fabb392a8c15",
+          "file": "kmz\\22i.kmz",
+          "bytes": 2900
+        }
+      ],
+      "error": null,
+      "license_badge": true
+    },
+    {
+      "page": "https://cebujeepneys.weebly.com/mi-02a.html",
+      "slug": "mi-02a",
+      "code": "MI-02A",
+      "maps": [],
+      "error": "no map id",
+      "license_badge": true
+    },
+    {
+      "page": "https://cebujeepneys.weebly.com/mybus-talisay-to-sm-city-cebu-and-vv.html",
+      "slug": "mybus-talisay-to-sm-city-cebu-and-vv",
+      "code": null,
+      "maps": [
+        {
+          "id": "1fDxg64Tf9eVDYfXIsCJFN1Gj-aUh04YT",
+          "url": "https://www.google.com/maps/d/kml?mid=1fDxg64Tf9eVDYfXIsCJFN1Gj-aUh04YT&forcekml=1",
+          "file": "kmz\\mybus-talisay-to-sm-city-cebu-and-vv.kmz",
+          "error": "response was HTML, not a map"
+        }
+      ],
+      "error": null,
+      "license_badge": true
+    },
+    {
+      "page": "https://cebujeepneys.weebly.com/12b.html",
+      "slug": "12b",
+      "code": "12B",
+      "maps": [],
+      "error": "no map id",
+      "license_badge": true
+    },
+    {
+      "page": "https://cebujeepneys.weebly.com/20a.html",
+      "slug": "20a",
+      "code": "20A",
+      "maps": [
+        {
+          "id": "215407014567766299817.0004d050e1c4a5426a529",
+          "url": "https://maps.google.com/maps/ms?msa=0&output=kml&msid=215407014567766299817.0004d050e1c4a5426a529",
+          "file": "kmz\\20a.kmz",
+          "bytes": 2780
+        },
+        {
+          "id": "215407014567766299817.0004d06d12dcc9b9de806",
+          "url": "https://maps.google.com/maps/ms?msa=0&output=kml&msid=215407014567766299817.0004d06d12dcc9b9de806",
+          "file": "kmz\\20a-2.kmz",
+          "bytes": 1658
+        }
+      ],
+      "error": null,
+      "license_badge": true
+    },
+    {
+      "page": "https://cebujeepneys.weebly.com/01c.html",
+      "slug": "01c",
+      "code": "01C",
+      "maps": [
+        {
+          "id": "215407014567766299817.0004d5c33a1d6249e8872",
+          "url": "https://maps.google.com/maps/ms?msa=0&output=kml&msid=215407014567766299817.0004d5c33a1d6249e8872",
+          "file": "kmz\\01c.kmz",
+          "bytes": 1516
+        }
+      ],
+      "error": null,
+      "license_badge": true
+    },
+    {
+      "page": "https://cebujeepneys.weebly.com/10f.html",
+      "slug": "10f",
+      "code": "10F",
+      "maps": [
+        {
+          "id": "215407014567766299817.0004cfc67ba654ee7d447",
+          "url": "https://maps.google.com/maps/ms?msa=0&output=kml&msid=215407014567766299817.0004cfc67ba654ee7d447",
+          "file": "kmz\\10f.kmz",
+          "bytes": 2513
+        }
+      ],
+      "error": null,
+      "license_badge": true
+    },
+    {
+      "page": "https://cebujeepneys.weebly.com/gaisano-savers-mart-to-sm.html",
+      "slug": "gaisano-savers-mart-to-sm",
+      "code": null,
+      "maps": [
+        {
+          "id": "215407014567766299817.0004f51ef443b5d3df43d",
+          "url": "https://maps.google.com/maps/ms?msa=0&output=kml&msid=215407014567766299817.0004f51ef443b5d3df43d",
+          "file": "kmz\\gaisano-savers-mart-to-sm.kmz",
+          "bytes": 2618
+        }
+      ],
+      "error": null,
+      "license_badge": true
+    },
+    {
+      "page": "https://cebujeepneys.weebly.com/my-bus---sm-city-cebu-to-mactan-airport.html",
+      "slug": "my-bus---sm-city-cebu-to-mactan-airport",
+      "code": null,
+      "maps": [
+        {
+          "id": "1hRyoKgeIFRctuT1Aj7BGRja_AGAcvMaF",
+          "url": "https://www.google.com/maps/d/kml?mid=1hRyoKgeIFRctuT1Aj7BGRja_AGAcvMaF&forcekml=1",
+          "file": "kmz\\my-bus---sm-city-cebu-to-mactan-airport.kmz",
+          "error": "response was HTML, not a map"
+        }
+      ],
+      "error": null,
+      "license_badge": true
+    },
+    {
+      "page": "https://cebujeepneys.weebly.com/09c.html",
+      "slug": "09c",
+      "code": "09C",
+      "maps": [
+        {
+          "id": "215407014567766299817.0004cfaf62596f2e7add1",
+          "url": "https://maps.google.com/maps/ms?msa=0&output=kml&msid=215407014567766299817.0004cfaf62596f2e7add1",
+          "file": "kmz\\09c.kmz",
+          "bytes": 3045
+        }
+      ],
+      "error": null,
+      "license_badge": true
+    },
+    {
+      "page": "https://cebujeepneys.weebly.com/06f.html",
+      "slug": "06f",
+      "code": "06F",
+      "maps": [],
+      "error": "no map id",
+      "license_badge": true
+    },
+    {
+      "page": "https://cebujeepneys.weebly.com/09j.html",
+      "slug": "09j",
+      "code": "09J",
+      "maps": [],
+      "error": "no map id",
+      "license_badge": true
+    },
+    {
+      "page": "https://cebujeepneys.weebly.com/62b.html",
+      "slug": "62b",
+      "code": "62B",
+      "maps": [
+        {
+          "id": "215407014567766299817.0004dceaca1845eaa3b9f",
+          "url": "https://maps.google.com/maps/ms?msa=0&output=kml&msid=215407014567766299817.0004dceaca1845eaa3b9f",
+          "file": "kmz\\62b.kmz",
+          "bytes": 4385
+        }
+      ],
+      "error": null,
+      "license_badge": true
+    },
+    {
+      "page": "https://cebujeepneys.weebly.com/17b.html",
+      "slug": "17b",
+      "code": "17B",
+      "maps": [
+        {
+          "id": "215407014567766299817.0004d5eb0026d2f101f0e",
+          "url": "https://maps.google.com/maps/ms?msa=0&output=kml&msid=215407014567766299817.0004d5eb0026d2f101f0e",
+          "file": "kmz\\17b.kmz",
+          "bytes": 2371
+        }
+      ],
+      "error": null,
+      "license_badge": true
+    },
+    {
+      "page": "https://cebujeepneys.weebly.com/21m.html",
+      "slug": "21m",
+      "code": "21M",
+      "maps": [],
+      "error": "no map id",
+      "license_badge": true
+    },
+    {
+      "page": "https://cebujeepneys.weebly.com/07d.html",
+      "slug": "07d",
+      "code": "07D",
+      "maps": [],
+      "error": "no map id",
+      "license_badge": true
+    },
+    {
+      "page": "https://cebujeepneys.weebly.com/22d.html",
+      "slug": "22d",
+      "code": "22D",
+      "maps": [
+        {
+          "id": "215407014567766299817.0004d80c97c12a1482429",
+          "url": "https://maps.google.com/maps/ms?msa=0&output=kml&msid=215407014567766299817.0004d80c97c12a1482429",
+          "file": "kmz\\22d.kmz",
+          "bytes": 2166
+        }
+      ],
+      "error": null,
+      "license_badge": true
+    },
+    {
+      "page": "https://cebujeepneys.weebly.com/mi-01a.html",
+      "slug": "mi-01a",
+      "code": "MI-01A",
+      "maps": [
+        {
+          "id": "215407014567766299817.0004e7224b8c392c88585",
+          "url": "https://maps.google.com/maps/ms?msa=0&output=kml&msid=215407014567766299817.0004e7224b8c392c88585",
+          "file": "kmz\\mi-01a.kmz",
+          "bytes": 2245
+        }
+      ],
+      "error": null,
+      "license_badge": true
+    },
+    {
+      "page": "https://cebujeepneys.weebly.com/v-hire.html",
+      "slug": "v-hire",
+      "code": null,
+      "maps": [],
+      "error": "no map id",
+      "license_badge": true
+    },
+    {
+      "page": "https://cebujeepneys.weebly.com/12d.html",
+      "slug": "12d",
+      "code": "12D",
+      "maps": [
+        {
+          "id": "215407014567766299817.0004dc84bbc70ad86d5f5",
+          "url": "https://maps.google.com/maps/ms?msa=0&output=kml&msid=215407014567766299817.0004dc84bbc70ad86d5f5",
+          "file": "kmz\\12d.kmz",
+          "bytes": 2635
+        }
+      ],
+      "error": null,
+      "license_badge": true
+    },
+    {
+      "page": "https://cebujeepneys.weebly.com/mi-02b.html",
+      "slug": "mi-02b",
+      "code": "MI-02B",
+      "maps": [
+        {
+          "id": "215407014567766299817.0004e02376988b6c3d062",
+          "url": "https://maps.google.com/maps/ms?msa=0&output=kml&msid=215407014567766299817.0004e02376988b6c3d062",
+          "file": "kmz\\mi-02b.kmz",
+          "bytes": 5213
+        }
+      ],
+      "error": null,
+      "license_badge": true
+    },
+    {
+      "page": "https://cebujeepneys.weebly.com/06c.html",
+      "slug": "06c",
+      "code": "06C",
+      "maps": [
+        {
+          "id": "215407014567766299817.0004d044f843e4f5f3cb9",
+          "url": "https://maps.google.com/maps/ms?msa=0&output=kml&msid=215407014567766299817.0004d044f843e4f5f3cb9",
+          "file": "kmz\\06c.kmz",
+          "bytes": 1839
+        }
+      ],
+      "error": null,
+      "license_badge": true
+    },
+    {
+      "page": "https://cebujeepneys.weebly.com/21a.html",
+      "slug": "21a",
+      "code": "21A",
+      "maps": [
+        {
+          "id": "215407014567766299817.0004d2786e4c9035a12f7",
+          "url": "https://maps.google.com/maps/ms?msa=0&output=kml&msid=215407014567766299817.0004d2786e4c9035a12f7",
+          "file": "kmz\\21a.kmz",
+          "bytes": 2571
+        },
+        {
+          "id": "215407014567766299817.0004d2c87b52adbf78cea",
+          "url": "https://maps.google.com/maps/ms?msa=0&output=kml&msid=215407014567766299817.0004d2c87b52adbf78cea",
+          "file": "kmz\\21a-2.kmz",
+          "bytes": 3554
+        }
+      ],
+      "error": null,
+      "license_badge": true
+    },
+    {
+      "page": "https://cebujeepneys.weebly.com/kmk-bus.html",
+      "slug": "kmk-bus",
+      "code": null,
+      "maps": [
+        {
+          "id": "215407014567766299817.0004f05fe51eab084d972",
+          "url": "https://maps.google.com/maps/ms?msa=0&output=kml&msid=215407014567766299817.0004f05fe51eab084d972",
+          "file": "kmz\\kmk-bus.kmz",
+          "bytes": 2754
+        }
+      ],
+      "error": null,
+      "license_badge": true
+    },
+    {
+      "page": "https://cebujeepneys.weebly.com/06g.html",
+      "slug": "06g",
+      "code": "06G",
+      "maps": [
+        {
+          "id": "215407014567766299817.0004d32d1330df27de213",
+          "url": "https://maps.google.com/maps/ms?msa=0&output=kml&msid=215407014567766299817.0004d32d1330df27de213",
+          "file": "kmz\\06g.kmz",
+          "bytes": 1947
+        }
+      ],
+      "error": null,
+      "license_badge": true
+    },
+    {
+      "page": "https://cebujeepneys.weebly.com/06b.html",
+      "slug": "06b",
+      "code": "06B",
+      "maps": [
+        {
+          "id": "215407014567766299817.0004d02fe3dc14a6133fe",
+          "url": "https://maps.google.com/maps/ms?msa=0&output=kml&msid=215407014567766299817.0004d02fe3dc14a6133fe",
+          "file": "kmz\\06b.kmz",
+          "bytes": 2681
+        }
+      ],
+      "error": null,
+      "license_badge": true
+    },
+    {
+      "page": "https://cebujeepneys.weebly.com/04m.html",
+      "slug": "04m",
+      "code": "04M",
+      "maps": [
+        {
+          "id": "215407014567766299817.0004d03214987076752f8",
+          "url": "https://maps.google.com/maps/ms?msa=0&output=kml&msid=215407014567766299817.0004d03214987076752f8",
+          "file": "kmz\\04m.kmz",
+          "bytes": 1627
+        }
+      ],
+      "error": null,
+      "license_badge": true
+    },
+    {
+      "page": "https://cebujeepneys.weebly.com/03g.html",
+      "slug": "03g",
+      "code": "03G",
+      "maps": [],
+      "error": "no map id",
+      "license_badge": true
+    },
+    {
+      "page": "https://cebujeepneys.weebly.com/13i.html",
+      "slug": "13i",
+      "code": "13I",
+      "maps": [],
+      "error": "no map id",
+      "license_badge": true
+    },
+    {
+      "page": "https://cebujeepneys.weebly.com/04d.html",
+      "slug": "04d",
+      "code": "04D",
+      "maps": [
+        {
+          "id": "215407014567766299817.0004dcadee2380f8acd61",
+          "url": "https://maps.google.com/maps/ms?msa=0&output=kml&msid=215407014567766299817.0004dcadee2380f8acd61",
+          "file": "kmz\\04d.kmz",
+          "bytes": 5694
+        }
+      ],
+      "error": null,
+      "license_badge": true
+    },
+    {
+      "page": "https://cebujeepneys.weebly.com/14b.html",
+      "slug": "14b",
+      "code": "14B",
+      "maps": [],
+      "error": "no map id",
+      "license_badge": true
+    },
+    {
+      "page": "https://cebujeepneys.weebly.com/06h.html",
+      "slug": "06h",
+      "code": "06H",
+      "maps": [
+        {
+          "id": "215407014567766299817.0004cf518e0e6f26efc87",
+          "url": "https://maps.google.com/maps/ms?msa=0&output=kml&msid=215407014567766299817.0004cf518e0e6f26efc87",
+          "file": "kmz\\06h.kmz",
+          "bytes": 2028
+        }
+      ],
+      "error": null,
+      "license_badge": true
+    },
+    {
+      "page": "https://cebujeepneys.weebly.com/12j.html",
+      "slug": "12j",
+      "code": "12J",
+      "maps": [],
+      "error": "no map id",
+      "license_badge": true
+    },
+    {
+      "page": "https://cebujeepneys.weebly.com/12g.html",
+      "slug": "12g",
+      "code": "12G",
+      "maps": [
+        {
+          "id": "215407014567766299817.0004dd8c891c130c5f5d3",
+          "url": "https://maps.google.com/maps/ms?msa=0&output=kml&msid=215407014567766299817.0004dd8c891c130c5f5d3",
+          "file": "kmz\\12g.kmz",
+          "bytes": 3320
+        }
+      ],
+      "error": null,
+      "license_badge": true
+    },
+    {
+      "page": "https://cebujeepneys.weebly.com/13h.html",
+      "slug": "13h",
+      "code": "13H",
+      "maps": [
+        {
+          "id": "215407014567766299817.0004df1d5a857a41f7d47",
+          "url": "https://maps.google.com/maps/ms?msa=0&output=kml&msid=215407014567766299817.0004df1d5a857a41f7d47",
+          "file": "kmz\\13h.kmz",
+          "bytes": 3213
+        }
+      ],
+      "error": null,
+      "license_badge": true
+    },
+    {
+      "page": "https://cebujeepneys.weebly.com/mi-04b.html",
+      "slug": "mi-04b",
+      "code": "MI-04B",
+      "maps": [
+        {
+          "id": "215407014567766299817.0004dfbec7d6b314f3ea8",
+          "url": "https://maps.google.com/maps/ms?msa=0&output=kml&msid=215407014567766299817.0004dfbec7d6b314f3ea8",
+          "file": "kmz\\mi-04b.kmz",
+          "bytes": 2263
+        }
+      ],
+      "error": null,
+      "license_badge": true
+    },
+    {
+      "page": "https://cebujeepneys.weebly.com/21i.html",
+      "slug": "21i",
+      "code": "21I",
+      "maps": [],
+      "error": "no map id",
+      "license_badge": true
+    },
+    {
+      "page": "https://cebujeepneys.weebly.com/22a.html",
+      "slug": "22a",
+      "code": "22A",
+      "maps": [
+        {
+          "id": "215407014567766299817.0004d76b03ff3fffdd4c3",
+          "url": "https://maps.google.com/maps/ms?msa=0&output=kml&msid=215407014567766299817.0004d76b03ff3fffdd4c3",
+          "file": "kmz\\22a.kmz",
+          "bytes": 3332
+        }
+      ],
+      "error": null,
+      "license_badge": true
+    },
+    {
+      "page": "https://cebujeepneys.weebly.com/09h.html",
+      "slug": "09h",
+      "code": "09H",
+      "maps": [],
+      "error": "no map id",
+      "license_badge": true
+    },
+    {
+      "page": "https://cebujeepneys.weebly.com/24.html",
+      "slug": "24",
+      "code": "24",
+      "maps": [
+        {
+          "id": "215407014567766299817.0004e06dae0e1266312c5",
+          "url": "https://maps.google.com/maps/ms?msa=0&output=kml&msid=215407014567766299817.0004e06dae0e1266312c5",
+          "file": "kmz\\24.kmz",
+          "bytes": 2124
+        }
+      ],
+      "error": null,
+      "license_badge": true
+    },
+    {
+      "page": "https://cebujeepneys.weebly.com/04h.html",
+      "slug": "04h",
+      "code": "04H",
+      "maps": [
+        {
+          "id": "215407014567766299817.0004e521dd934357eb78c",
+          "url": "https://maps.google.com/maps/ms?msa=0&output=kml&msid=215407014567766299817.0004e521dd934357eb78c",
+          "file": "kmz\\04h.kmz",
+          "bytes": 6089
+        }
+      ],
+      "error": null,
+      "license_badge": true
+    },
+    {
+      "page": "https://cebujeepneys.weebly.com/08g.html",
+      "slug": "08g",
+      "code": "08G",
+      "maps": [
+        {
+          "id": "215407014567766299817.0004d045e724097bf361c",
+          "url": "https://maps.google.com/maps/ms?msa=0&output=kml&msid=215407014567766299817.0004d045e724097bf361c",
+          "file": "kmz\\08g.kmz",
+          "bytes": 2111
+        }
+      ],
+      "error": null,
+      "license_badge": true
+    },
+    {
+      "page": "https://cebujeepneys.weebly.com/mi-04a.html",
+      "slug": "mi-04a",
+      "code": "MI-04A",
+      "maps": [
+        {
+          "id": "215407014567766299817.0004d3e1e20492e700c55",
+          "url": "https://maps.google.com/maps/ms?msa=0&output=kml&msid=215407014567766299817.0004d3e1e20492e700c55",
+          "file": "kmz\\mi-04a.kmz",
+          "bytes": 2981
+        },
+        {
+          "id": "215407014567766299817.0004ed6d710b3efc4d82a",
+          "url": "https://maps.google.com/maps/ms?msa=0&output=kml&msid=215407014567766299817.0004ed6d710b3efc4d82a",
+          "file": "kmz\\mi-04a-2.kmz",
+          "bytes": 2491
+        }
+      ],
+      "error": null,
+      "license_badge": true
+    },
+    {
+      "page": "https://cebujeepneys.weebly.com/12i.html",
+      "slug": "12i",
+      "code": "12I",
+      "maps": [
+        {
+          "id": "215407014567766299817.0004dd4f8b754d676b184",
+          "url": "https://maps.google.com/maps/ms?msa=0&output=kml&msid=215407014567766299817.0004dd4f8b754d676b184",
+          "file": "kmz\\12i.kmz",
+          "bytes": 3159
+        }
+      ],
+      "error": null,
+      "license_badge": true
+    },
+    {
+      "page": "https://cebujeepneys.weebly.com/10m.html",
+      "slug": "10m",
+      "code": "10M",
+      "maps": [
+        {
+          "id": "215407014567766299817.0004d31883bbae7cce2cd",
+          "url": "https://maps.google.com/maps/ms?msa=0&output=kml&msid=215407014567766299817.0004d31883bbae7cce2cd",
+          "file": "kmz\\10m.kmz",
+          "bytes": 2281
+        }
+      ],
+      "error": null,
+      "license_badge": true
+    },
+    {
+      "page": "https://cebujeepneys.weebly.com/01k.html",
+      "slug": "01k",
+      "code": "01K",
+      "maps": [
+        {
+          "id": "215407014567766299817.0004cf7c04500f5238849",
+          "url": "https://maps.google.com/maps/ms?msa=0&output=kml&msid=215407014567766299817.0004cf7c04500f5238849",
+          "file": "kmz\\01k.kmz",
+          "bytes": 2442
+        }
+      ],
+      "error": null,
+      "license_badge": true
+    },
+    {
+      "page": "https://cebujeepneys.weebly.com/10k.html",
+      "slug": "10k",
+      "code": "10K",
+      "maps": [],
+      "error": "no map id",
+      "license_badge": true
+    },
+    {
+      "page": "https://cebujeepneys.weebly.com/09g.html",
+      "slug": "09g",
+      "code": "09G",
+      "maps": [
+        {
+          "id": "215407014567766299817.0004d03140aa81e92f6fe",
+          "url": "https://maps.google.com/maps/ms?msa=0&output=kml&msid=215407014567766299817.0004d03140aa81e92f6fe",
+          "file": "kmz\\09g.kmz",
+          "bytes": 2602
+        }
+      ],
+      "error": null,
+      "license_badge": true
+    },
+    {
+      "page": "https://cebujeepneys.weebly.com/10e.html",
+      "slug": "10e",
+      "code": "10E",
+      "maps": [],
+      "error": "no map id",
+      "license_badge": true
+    },
+    {
+      "page": "https://cebujeepneys.weebly.com/08f.html",
+      "slug": "08f",
+      "code": "08F",
+      "maps": [],
+      "error": "no map id",
+      "license_badge": true
+    },
+    {
+      "page": "https://cebujeepneys.weebly.com/21n.html",
+      "slug": "21n",
+      "code": "21N",
+      "maps": [],
+      "error": "no map id",
+      "license_badge": true
+    },
+    {
+      "page": "https://cebujeepneys.weebly.com/03a.html",
+      "slug": "03a",
+      "code": "03A",
+      "maps": [
+        {
+          "id": "215407014567766299817.0004dea608d88cd715c27",
+          "url": "https://maps.google.com/maps/ms?msa=0&output=kml&msid=215407014567766299817.0004dea608d88cd715c27",
+          "file": "kmz\\03a.kmz",
+          "bytes": 2851
+        }
+      ],
+      "error": null,
+      "license_badge": true
+    },
+    {
+      "page": "https://cebujeepneys.weebly.com/gaisano-island-mall-to-sm-city-cebu.html",
+      "slug": "gaisano-island-mall-to-sm-city-cebu",
+      "code": null,
+      "maps": [
+        {
+          "id": "215407014567766299817.0004f237936523dbb9e5e",
+          "url": "https://maps.google.com/maps/ms?msa=0&output=kml&msid=215407014567766299817.0004f237936523dbb9e5e",
+          "file": "kmz\\gaisano-island-mall-to-sm-city-cebu.kmz",
+          "bytes": 2501
+        }
+      ],
+      "error": null,
+      "license_badge": true
+    },
+    {
+      "page": "https://cebujeepneys.weebly.com/mi-03b.html",
+      "slug": "mi-03b",
+      "code": "MI-03B",
+      "maps": [
+        {
+          "id": "215407014567766299817.0004de3fbf52df552bee9",
+          "url": "https://maps.google.com/maps/ms?msa=0&output=kml&msid=215407014567766299817.0004de3fbf52df552bee9",
+          "file": "kmz\\mi-03b.kmz",
+          "bytes": 3943
+        },
+        {
+          "id": "215407014567766299817.0004df46f2265f6dc699d",
+          "url": "https://maps.google.com/maps/ms?msa=0&output=kml&msid=215407014567766299817.0004df46f2265f6dc699d",
+          "file": "kmz\\mi-03b-2.kmz",
+          "bytes": 2931
+        }
+      ],
+      "error": null,
+      "license_badge": true
+    },
+    {
+      "page": "https://cebujeepneys.weebly.com/17d.html",
+      "slug": "17d",
+      "code": "17D",
+      "maps": [
+        {
+          "id": "215407014567766299817.0004dfab49c46a95d553f",
+          "url": "https://maps.google.com/maps/ms?msa=0&output=kml&msid=215407014567766299817.0004dfab49c46a95d553f",
+          "file": "kmz\\17d.kmz",
+          "bytes": 3011
+        }
+      ],
+      "error": null,
+      "license_badge": true
+    },
+    {
+      "page": "https://cebujeepneys.weebly.com/07b.html",
+      "slug": "07b",
+      "code": "07B",
+      "maps": [
+        {
+          "id": "215407014567766299817.0004d55f0964b092aa233",
+          "url": "https://maps.google.com/maps/ms?msa=0&output=kml&msid=215407014567766299817.0004d55f0964b092aa233",
+          "file": "kmz\\07b.kmz",
+          "bytes": 1849
+        }
+      ],
+      "error": null,
+      "license_badge": true
+    },
+    {
+      "page": "https://cebujeepneys.weebly.com/12e.html",
+      "slug": "12e",
+      "code": "12E",
+      "maps": [],
+      "error": "no map id",
+      "license_badge": true
+    },
+    {
+      "page": "https://cebujeepneys.weebly.com/21d.html",
+      "slug": "21d",
+      "code": "21D",
+      "maps": [
+        {
+          "id": "215407014567766299817.0004d1499b2f4d4e24959",
+          "url": "https://maps.google.com/maps/ms?msa=0&output=kml&msid=215407014567766299817.0004d1499b2f4d4e24959",
+          "file": "kmz\\21d.kmz",
+          "bytes": 3061
+        },
+        {
+          "id": "215407014567766299817.0004d211e134e1334b017",
+          "url": "https://maps.google.com/maps/ms?msa=0&output=kml&msid=215407014567766299817.0004d211e134e1334b017",
+          "file": "kmz\\21d-2.kmz",
+          "bytes": 2865
+        }
+      ],
+      "error": null,
+      "license_badge": true
+    },
+    {
+      "page": "https://cebujeepneys.weebly.com/09f.html",
+      "slug": "09f",
+      "code": "09F",
+      "maps": [
+        {
+          "id": "215407014567766299817.0004cfa282d2e743b5c5b",
+          "url": "https://maps.google.com/maps/ms?msa=0&output=kml&msid=215407014567766299817.0004cfa282d2e743b5c5b",
+          "file": "kmz\\09f.kmz",
+          "bytes": 3008
+        }
+      ],
+      "error": null,
+      "license_badge": true
+    },
+    {
+      "page": "https://cebujeepneys.weebly.com/14d.html",
+      "slug": "14d",
+      "code": "14D",
+      "maps": [
+        {
+          "id": "215407014567766299817.0004c1a653ec8224a1a55",
+          "url": "https://maps.google.com/maps/ms?msa=0&output=kml&msid=215407014567766299817.0004c1a653ec8224a1a55",
+          "file": "kmz\\14d.kmz",
+          "bytes": 2252
+        }
+      ],
+      "error": null,
+      "license_badge": true
+    },
+    {
+      "page": "https://cebujeepneys.weebly.com/03b.html",
+      "slug": "03b",
+      "code": "03B",
+      "maps": [
+        {
+          "id": "215407014567766299817.0004d2132845e26b12f5e",
+          "url": "https://maps.google.com/maps/ms?msa=0&output=kml&msid=215407014567766299817.0004d2132845e26b12f5e",
+          "file": "kmz\\03b.kmz",
+          "bytes": 1967
+        }
+      ],
+      "error": null,
+      "license_badge": true
+    },
+    {
+      "page": "https://cebujeepneys.weebly.com/02a.html",
+      "slug": "02a",
+      "code": "02A",
+      "maps": [],
+      "error": "no map id",
+      "license_badge": true
+    },
+    {
+      "page": "https://cebujeepneys.weebly.com/10h.html",
+      "slug": "10h",
+      "code": "10H",
+      "maps": [
+        {
+          "id": "215407014567766299817.0004cf7a35ee19ae8dae3",
+          "url": "https://maps.google.com/maps/ms?msa=0&output=kml&msid=215407014567766299817.0004cf7a35ee19ae8dae3",
+          "file": "kmz\\10h.kmz",
+          "bytes": 2738
+        }
+      ],
+      "error": null,
+      "license_badge": true
+    },
+    {
+      "page": "https://cebujeepneys.weebly.com/12f.html",
+      "slug": "12f",
+      "code": "12F",
+      "maps": [],
+      "error": "no map id",
+      "license_badge": true
+    },
+    {
+      "page": "https://cebujeepneys.weebly.com/mybus---parkmall-to-sm-seaside.html",
+      "slug": "mybus---parkmall-to-sm-seaside",
+      "code": null,
+      "maps": [
+        {
+          "id": "1QLZObC1KGVNeUmpJnDfkq0IS0WBdwyLK",
+          "url": "https://www.google.com/maps/d/kml?mid=1QLZObC1KGVNeUmpJnDfkq0IS0WBdwyLK&forcekml=1",
+          "file": "kmz\\mybus---parkmall-to-sm-seaside.kmz",
+          "error": "response was HTML, not a map"
+        }
+      ],
+      "error": null,
+      "license_badge": true
+    },
+    {
+      "page": "https://cebujeepneys.weebly.com/apec-summit-rerouting.html",
+      "slug": "apec-summit-rerouting",
+      "code": null,
+      "maps": [
+        {
+          "id": "zcMaI1ZOeyrg",
+          "url": "https://www.google.com/maps/d/kml?mid=zcMaI1ZOeyrg&forcekml=1",
+          "file": "kmz\\apec-summit-rerouting.kmz",
+          "error": "HTTP Error 404: Not Found"
+        }
+      ],
+      "error": null,
+      "license_badge": true
+    },
+    {
+      "page": "https://cebujeepneys.weebly.com/index.html",
+      "slug": "index",
+      "code": null,
+      "maps": [],
+      "error": null,
+      "skipped": "index page"
+    },
+    {
+      "page": "https://cebujeepneys.weebly.com/08e.html",
+      "slug": "08e",
+      "code": "08E",
+      "maps": [],
+      "error": "no map id",
+      "license_badge": true
+    },
+    {
+      "page": "https://cebujeepneys.weebly.com/04c.html",
+      "slug": "04c",
+      "code": "04C",
+      "maps": [
+        {
+          "id": "215407014567766299817.0004d213e774421ccfc6d",
+          "url": "https://maps.google.com/maps/ms?msa=0&output=kml&msid=215407014567766299817.0004d213e774421ccfc6d",
+          "file": "kmz\\04c.kmz",
+          "bytes": 2503
+        }
+      ],
+      "error": null,
+      "license_badge": true
+    },
+    {
+      "page": "https://cebujeepneys.weebly.com/cebu-mactan-ferry.html",
+      "slug": "cebu-mactan-ferry",
+      "code": null,
+      "maps": [
+        {
+          "id": "215407014567766299817.0004d54c0c5f62b71abd4",
+          "url": "https://maps.google.com/maps/ms?msa=0&output=kml&msid=215407014567766299817.0004d54c0c5f62b71abd4",
+          "file": "kmz\\cebu-mactan-ferry.kmz",
+          "bytes": 912
+        }
+      ],
+      "error": null,
+      "license_badge": true
+    },
+    {
+      "page": "https://cebujeepneys.weebly.com/11a.html",
+      "slug": "11a",
+      "code": "11A",
+      "maps": [
+        {
+          "id": "215407014567766299817.0004d3199169dbb7e5084",
+          "url": "https://maps.google.com/maps/ms?msa=0&output=kml&msid=215407014567766299817.0004d3199169dbb7e5084",
+          "file": "kmz\\11a.kmz",
+          "bytes": 1711
+        }
+      ],
+      "error": null,
+      "license_badge": true
+    },
+    {
+      "page": "https://cebujeepneys.weebly.com/12a.html",
+      "slug": "12a",
+      "code": "12A",
+      "maps": [],
+      "error": "no map id",
+      "license_badge": true
+    }
+  ]
+}

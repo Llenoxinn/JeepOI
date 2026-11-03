@@ -1,0 +1,12 @@
+[
+  {
+    "effective_from": "2026-09-28",
+    "effective_to": "2026-12-31",
+    "label": "Temporary LTFRB guide",
+    "traditional": { "base": 14, "base_km": 4, "per_km": 2.0 },
+    "modern": { "base": 17, "base_km": 4, "per_km": 2.4 },
+    "discount": 0.20,
+    "source": "https://suroy.ph/cebu-city-jeepney-guide-2026/",
+    "verified": false
+  }
+]

@@ -1,0 +1,23 @@
+# The only route file you edit by hand.
+# Rebuild after a change:  python pipeline/build_routes.py
+#
+# status: verified | reported | disputed | unconfirmed | discontinued | planned
+# geometry: osm | weebly     (which downloaded line to draw; omit to prefer OSM)
+# note: one line, no '#' character
+
+routes:
+  13C:
+    note: "OSM and weebly both draw Talamban-Ayala-Colon and the lines match. A 3D Universal page says SM/Ayala/IT Park instead. Ignore 3D Universal. Ride it before marking it verified."
+  01KX:
+    note: "OSM tags this 01Kx: SM Seaside-Parkmall via Urgello. Plain 01K is Urgello-Parkmall. Check the windshield before treating 01Kx as its own code."
+  04I:
+    status: disputed
+    note: "One guide says Plaza Housing-Carbon, another says Busay-Carbon. Ride it before picking an endpoint."
+  04B:
+    note: "suroy.ph lists it in 2026. The team has not seen it on the road. Field-check before treating it as active."
+  03Q:
+    note: "Listed in guides. The team has not seen it on the road. Field-check."
+  04M:
+    note: "The team has not seen it on the road. Field-check."
+  04A:
+    note: "The team has not seen it on the road. Field-check."
