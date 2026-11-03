@@ -22,29 +22,7 @@
           "11A"
         ],
         "osm_ids": [
-          14158689232
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.860089,
-          10.274749
-        ]
-      },
-      "properties": {
-        "name": "A. Gabuya",
-        "type": "stop",
-        "routes": [
-          "11A"
-        ],
-        "osm_ids": [
+          14158689232,
           14158689231
         ],
         "source": "osm",
@@ -94,36 +72,11 @@
           "06B",
           "06C",
           "06F",
-          "06H"
-        ],
-        "osm_ids": [
-          14048307472
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.88131,
-          10.328422
-        ]
-      },
-      "properties": {
-        "name": "A. Theresa",
-        "type": "stop",
-        "routes": [
-          "06B",
-          "06C",
-          "06F",
           "06G",
           "06H"
         ],
         "osm_ids": [
+          14048307472,
           14048307473
         ],
         "source": "osm",
@@ -216,35 +169,12 @@
         "routes": [
           "01K",
           "01KX",
+          "21A",
+          "22A",
           "22D"
         ],
         "osm_ids": [
-          10251749646
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.918037,
-          10.313965
-        ]
-      },
-      "properties": {
-        "name": "APM Mall",
-        "type": "stop",
-        "routes": [
-          "01K",
-          "01KX",
-          "21A",
-          "22A"
-        ],
-        "osm_ids": [
+          10251749646,
           6301937981
         ],
         "source": "osm",
@@ -270,29 +200,7 @@
           "13C"
         ],
         "osm_ids": [
-          13761710181
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.902181,
-          10.316669
-        ]
-      },
-      "properties": {
-        "name": "Acacia",
-        "type": "stop",
-        "routes": [
-          "13B"
-        ],
-        "osm_ids": [
+          13761710181,
           14104740286
         ],
         "source": "osm",
@@ -411,32 +319,7 @@
           "22D"
         ],
         "osm_ids": [
-          13769775043
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.928948,
-          10.32719
-        ]
-      },
-      "properties": {
-        "name": "Arcada 5",
-        "type": "stop",
-        "routes": [
-          "20A",
-          "21A",
-          "22A",
-          "22D"
-        ],
-        "osm_ids": [
+          13769775043,
           13769775047
         ],
         "source": "osm",
@@ -482,36 +365,12 @@
         "type": "stop",
         "routes": [
           "01B",
-          "01K",
-          "01KX"
-        ],
-        "osm_ids": [
-          10250495184
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.894213,
-          10.299083
-        ]
-      },
-      "properties": {
-        "name": "Asian College of Technology",
-        "type": "stop",
-        "routes": [
-          "01B",
           "01C",
           "01K",
           "01KX"
         ],
         "osm_ids": [
+          10250495184,
           10250495206
         ],
         "source": "osm",
@@ -534,35 +393,12 @@
         "routes": [
           "04C",
           "04D",
-          "13B"
-        ],
-        "osm_ids": [
-          13761710178
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.902058,
-          10.314289
-        ]
-      },
-      "properties": {
-        "name": "Asilo de la Milagrosa",
-        "type": "stop",
-        "routes": [
-          "04C",
           "04I",
           "13B",
           "13C"
         ],
         "osm_ids": [
+          13761710178,
           13761710180
         ],
         "source": "osm",
@@ -584,32 +420,11 @@
         "type": "stop",
         "routes": [
           "03Q",
+          "04M",
           "20A"
         ],
         "osm_ids": [
-          14102504003
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.903448,
-          10.319077
-        ]
-      },
-      "properties": {
-        "name": "Ayala Center Terminal",
-        "type": "stop",
-        "routes": [
-          "04M"
-        ],
-        "osm_ids": [
+          14102504003,
           13760438079
         ],
         "source": "osm",
@@ -680,29 +495,7 @@
           "06G"
         ],
         "osm_ids": [
-          14048307482
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.886615,
-          10.307152
-        ]
-      },
-      "properties": {
-        "name": "B. Rodriguez",
-        "type": "stop",
-        "routes": [
-          "06G"
-        ],
-        "osm_ids": [
+          14048307482,
           14048307483
         ],
         "source": "osm",
@@ -727,29 +520,7 @@
           "06H"
         ],
         "osm_ids": [
-          14113797209
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.889529,
-          10.308093
-        ]
-      },
-      "properties": {
-        "name": "B. Rodriguez Extension",
-        "type": "stop",
-        "routes": [
-          "06C"
-        ],
-        "osm_ids": [
+          14113797209,
           14113797210
         ],
         "source": "osm",
@@ -772,36 +543,15 @@
         "routes": [
           "04D",
           "07B",
+          "08G",
+          "09C",
+          "09F",
           "09G",
           "10G",
           "11A"
         ],
         "osm_ids": [
-          14106868758
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.898556,
-          10.294076
-        ]
-      },
-      "properties": {
-        "name": "BDO Manalili",
-        "type": "stop",
-        "routes": [
-          "08G",
-          "09C",
-          "09F"
-        ],
-        "osm_ids": [
+          14106868758,
           10250495115
         ],
         "source": "osm",
@@ -902,32 +652,7 @@
           "06H"
         ],
         "osm_ids": [
-          13761760739
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.885258,
-          10.316761
-        ]
-      },
-      "properties": {
-        "name": "Banawa",
-        "type": "stop",
-        "routes": [
-          "06C",
-          "06F",
-          "06G",
-          "06H"
-        ],
-        "osm_ids": [
+          13761760739,
           13761760738
         ],
         "source": "osm",
@@ -952,30 +677,7 @@
           "13C"
         ],
         "osm_ids": [
-          13769915553
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.912629,
-          10.346038
-        ]
-      },
-      "properties": {
-        "name": "Banilad Elementary School",
-        "type": "stop",
-        "routes": [
-          "13B",
-          "13C"
-        ],
-        "osm_ids": [
+          13769915553,
           13769915547
         ],
         "source": "osm",
@@ -997,35 +699,12 @@
         "type": "stop",
         "routes": [
           "03Q",
+          "04L",
           "06H",
           "20A"
         ],
         "osm_ids": [
-          10251749639
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.908543,
-          10.318884
-        ]
-      },
-      "properties": {
-        "name": "Barrio Luz",
-        "type": "stop",
-        "routes": [
-          "03Q",
-          "04L",
-          "06H"
-        ],
-        "osm_ids": [
+          10251749639,
           14104740225
         ],
         "source": "osm",
@@ -1055,35 +734,7 @@
           "10M"
         ],
         "osm_ids": [
-          14049926622
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.866999,
-          10.288844
-        ]
-      },
-      "properties": {
-        "name": "Basak Pardo",
-        "type": "stop",
-        "routes": [
-          "09C",
-          "09F",
-          "09G",
-          "10F",
-          "10G",
-          "10H",
-          "10M"
-        ],
-        "osm_ids": [
+          14049926622,
           14049926624
         ],
         "source": "osm",
@@ -1105,36 +756,14 @@
         "type": "stop",
         "routes": [
           "01B",
+          "04C",
+          "04D",
           "09C",
+          "13B",
           "13C"
         ],
         "osm_ids": [
-          10250495185
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.901419,
-          10.300581
-        ]
-      },
-      "properties": {
-        "name": "Bonifacio",
-        "type": "stop",
-        "routes": [
-          "01B",
-          "04C",
-          "04D",
-          "13B"
-        ],
-        "osm_ids": [
+          10250495185,
           10250495169
         ],
         "source": "osm",
@@ -1158,29 +787,7 @@
           "03A"
         ],
         "osm_ids": [
-          14104740259
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.91776,
-          10.325907
-        ]
-      },
-      "properties": {
-        "name": "Bonifacio District",
-        "type": "stop",
-        "routes": [
-          "03A"
-        ],
-        "osm_ids": [
+          14104740259,
           14104740260
         ],
         "source": "osm",
@@ -1260,31 +867,7 @@
           "10M"
         ],
         "osm_ids": [
-          14114354083
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.852094,
-          10.276206
-        ]
-      },
-      "properties": {
-        "name": "Bulacao",
-        "type": "stop",
-        "routes": [
-          "10F",
-          "10H",
-          "10M"
-        ],
-        "osm_ids": [
+          14114354083,
           14114354084
         ],
         "source": "osm",
@@ -1305,34 +888,12 @@
         "name": "Busay Multipurpose Hall",
         "type": "stop",
         "routes": [
-          "04D"
-        ],
-        "osm_ids": [
-          14106868778
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.893572,
-          10.346316
-        ]
-      },
-      "properties": {
-        "name": "Busay Multipurpose Hall",
-        "type": "stop",
-        "routes": [
           "04D",
           "04H",
           "04I"
         ],
         "osm_ids": [
+          14106868778,
           14106868779
         ],
         "source": "osm",
@@ -1353,33 +914,11 @@
         "name": "C. M. Cabahug",
         "type": "stop",
         "routes": [
-          "22D"
-        ],
-        "osm_ids": [
-          14102354689
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.950223,
-          10.324373
-        ]
-      },
-      "properties": {
-        "name": "C. M. Cabahug",
-        "type": "stop",
-        "routes": [
           "22A",
           "22D"
         ],
         "osm_ids": [
+          14102354689,
           14102354688
         ],
         "source": "osm",
@@ -1403,29 +942,7 @@
           "MI-04A"
         ],
         "osm_ids": [
-          13769775054
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.9519,
-          10.327106
-        ]
-      },
-      "properties": {
-        "name": "C. M. Cabahug Street",
-        "type": "stop",
-        "routes": [
-          "MI-04A"
-        ],
-        "osm_ids": [
+          13769775054,
           5458442323
         ],
         "source": "osm",
@@ -1498,29 +1015,7 @@
           "11A"
         ],
         "osm_ids": [
-          14158689218
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.856266,
-          10.267072
-        ]
-      },
-      "properties": {
-        "name": "CBD College",
-        "type": "stop",
-        "routes": [
-          "11A"
-        ],
-        "osm_ids": [
+          14158689218,
           14158689217
         ],
         "source": "osm",
@@ -1541,33 +1036,6 @@
         "name": "CIT",
         "type": "stop",
         "routes": [
-          "09C",
-          "09F",
-          "10F",
-          "10H",
-          "10M"
-        ],
-        "osm_ids": [
-          10250495128
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.881875,
-          10.294277
-        ]
-      },
-      "properties": {
-        "name": "CIT",
-        "type": "stop",
-        "routes": [
           "01KX",
           "09C",
           "09F",
@@ -1576,6 +1044,7 @@
           "10M"
         ],
         "osm_ids": [
+          10250495128,
           10250473100
         ],
         "source": "osm",
@@ -1596,34 +1065,6 @@
         "name": "CNU",
         "type": "stop",
         "routes": [
-          "04B",
-          "04D",
-          "06B",
-          "06C",
-          "06F",
-          "07B"
-        ],
-        "osm_ids": [
-          10250495165
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.896063,
-          10.301172
-        ]
-      },
-      "properties": {
-        "name": "CNU",
-        "type": "stop",
-        "routes": [
           "03B",
           "04B",
           "04D",
@@ -1634,6 +1075,7 @@
           "07B"
         ],
         "osm_ids": [
+          10250495165,
           10250495157
         ],
         "source": "osm",
@@ -1654,34 +1096,10 @@
         "name": "CTU",
         "type": "stop",
         "routes": [
+          "01K",
           "03A",
           "03B",
           "03L",
-          "21A",
-          "22A",
-          "22D"
-        ],
-        "osm_ids": [
-          14102354695
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.905551,
-          10.296205
-        ]
-      },
-      "properties": {
-        "name": "CTU",
-        "type": "stop",
-        "routes": [
           "08G",
           "09F",
           "10H",
@@ -1691,31 +1109,8 @@
           "22D"
         ],
         "osm_ids": [
-          10250495212
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.905342,
-          10.296668
-        ]
-      },
-      "properties": {
-        "name": "CTU",
-        "type": "stop",
-        "routes": [
-          "01K",
-          "03A",
-          "03L"
-        ],
-        "osm_ids": [
+          14102354695,
+          10250495212,
           14104747713
         ],
         "source": "osm",
@@ -1740,30 +1135,7 @@
           "13C"
         ],
         "osm_ids": [
-          14104740284
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.915516,
-          10.359574
-        ]
-      },
-      "properties": {
-        "name": "Cabangcalan",
-        "type": "stop",
-        "routes": [
-          "13B",
-          "13C"
-        ],
-        "osm_ids": [
+          14104740284,
           14030758711
         ],
         "source": "osm",
@@ -1811,29 +1183,7 @@
           "06G"
         ],
         "osm_ids": [
-          13761760737
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.886669,
-          10.303192
-        ]
-      },
-      "properties": {
-        "name": "Calamba Cemetery",
-        "type": "stop",
-        "routes": [
-          "06G"
-        ],
-        "osm_ids": [
+          13761760737,
           13761760744
         ],
         "source": "osm",
@@ -1859,31 +1209,7 @@
           "10M"
         ],
         "osm_ids": [
-          14114354079
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.859221,
-          10.283775
-        ]
-      },
-      "properties": {
-        "name": "Caltex Kinasang-an Pardo",
-        "type": "stop",
-        "routes": [
-          "10F",
-          "10H",
-          "10M"
-        ],
-        "osm_ids": [
+          14114354079,
           14114354080
         ],
         "source": "osm",
@@ -1908,30 +1234,7 @@
           "04C"
         ],
         "osm_ids": [
-          14104740234
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.901411,
-          10.333808
-        ]
-      },
-      "properties": {
-        "name": "Camp Lapu-Lapu",
-        "type": "stop",
-        "routes": [
-          "04B",
-          "04C"
-        ],
-        "osm_ids": [
+          14104740234,
           14104740241
         ],
         "source": "osm",
@@ -1954,40 +1257,14 @@
         "routes": [
           "04B",
           "04D",
+          "04H",
           "06B",
           "06F",
           "06H",
           "07B"
         ],
         "osm_ids": [
-          14104740236
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.890942,
-          10.315704
-        ]
-      },
-      "properties": {
-        "name": "Capitol BRT Station",
-        "type": "stop",
-        "routes": [
-          "04B",
-          "04D",
-          "04H",
-          "06B",
-          "06F",
-          "07B"
-        ],
-        "osm_ids": [
+          14104740236,
           10250495161
         ],
         "source": "osm",
@@ -2044,39 +1321,14 @@
         "type": "stop",
         "routes": [
           "03A",
+          "03L",
           "03Q",
           "04L",
           "06H",
           "20A"
         ],
         "osm_ids": [
-          10251749638
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.911009,
-          10.32012
-        ]
-      },
-      "properties": {
-        "name": "Cardinal Rosales",
-        "type": "stop",
-        "routes": [
-          "03A",
-          "03L",
-          "03Q",
-          "04L",
-          "06H"
-        ],
-        "osm_ids": [
+          10251749638,
           10251749640
         ],
         "source": "osm",
@@ -2106,32 +1358,7 @@
           "11A"
         ],
         "osm_ids": [
-          10250495140
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.886834,
-          10.293107
-        ]
-      },
-      "properties": {
-        "name": "Carlock",
-        "type": "stop",
-        "routes": [
-          "08G",
-          "09G",
-          "10G",
-          "11A"
-        ],
-        "osm_ids": [
+          10250495140,
           10250495176
         ],
         "source": "osm",
@@ -2179,39 +1406,14 @@
         "type": "stop",
         "routes": [
           "03A",
+          "03L",
           "03Q",
           "04L",
           "06H",
           "20A"
         ],
         "osm_ids": [
-          10251749642
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.91195,
-          10.318637
-        ]
-      },
-      "properties": {
-        "name": "Carmelite Monastery",
-        "type": "stop",
-        "routes": [
-          "03A",
-          "03L",
-          "03Q",
-          "04L",
-          "06H"
-        ],
-        "osm_ids": [
+          10251749642,
           10251749641
         ],
         "source": "osm",
@@ -2234,62 +1436,17 @@
         "routes": [
           "02B",
           "03A",
+          "03B",
           "03L",
           "10H",
+          "13C",
+          "21A",
+          "22A",
           "22D"
         ],
         "osm_ids": [
-          10250473101
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.907644,
-          10.30921
-        ]
-      },
-      "properties": {
-        "name": "Carreta",
-        "type": "stop",
-        "routes": [
-          "03A",
-          "03B",
-          "03L",
-          "13C",
-          "21A",
-          "22A"
-        ],
-        "osm_ids": [
-          13185519445
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.906731,
-          10.309101
-        ]
-      },
-      "properties": {
-        "name": "Carreta",
-        "type": "stop",
-        "routes": [
-          "03B"
-        ],
-        "osm_ids": [
+          10250473101,
+          13185519445,
           13761710183
         ],
         "source": "osm",
@@ -2312,33 +1469,12 @@
         "routes": [
           "01K",
           "01KX",
+          "02B",
+          "10H",
           "22D"
         ],
         "osm_ids": [
-          13185519438
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.908955,
-          10.307748
-        ]
-      },
-      "properties": {
-        "name": "Carreta Elementary School",
-        "type": "stop",
-        "routes": [
-          "02B",
-          "10H"
-        ],
-        "osm_ids": [
+          13185519438,
           13185519439
         ],
         "source": "osm",
@@ -2387,29 +1523,7 @@
           "03A"
         ],
         "osm_ids": [
-          14104740261
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.913488,
-          10.322618
-        ]
-      },
-      "properties": {
-        "name": "Castle Peak Hotel",
-        "type": "stop",
-        "routes": [
-          "03A"
-        ],
-        "osm_ids": [
+          14104740261,
           14104740262
         ],
         "source": "osm",
@@ -2431,56 +1545,6 @@
         "type": "stop",
         "routes": [
           "02B",
-          "10F",
-          "10H",
-          "10M"
-        ],
-        "osm_ids": [
-          14104747709
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.890489,
-          10.297663
-        ]
-      },
-      "properties": {
-        "name": "Cebu City Medical Center",
-        "type": "stop",
-        "routes": [
-          "10F",
-          "10H",
-          "10M"
-        ],
-        "osm_ids": [
-          10250495174
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.891096,
-          10.297683
-        ]
-      },
-      "properties": {
-        "name": "Cebu City Medical Center",
-        "type": "stop",
-        "routes": [
           "09C",
           "09F",
           "10F",
@@ -2488,6 +1552,8 @@
           "10M"
         ],
         "osm_ids": [
+          14104747709,
+          10250495174,
           10250495195
         ],
         "source": "osm",
@@ -2538,30 +1604,7 @@
           "13C"
         ],
         "osm_ids": [
-          13769915542
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.90999,
-          10.331414
-        ]
-      },
-      "properties": {
-        "name": "Cebu Country Club",
-        "type": "stop",
-        "routes": [
-          "13B",
-          "13C"
-        ],
-        "osm_ids": [
+          13769915542,
           6049988785
         ],
         "source": "osm",
@@ -2584,39 +1627,13 @@
         "routes": [
           "04B",
           "04D",
-          "06B",
-          "06F",
-          "07B"
-        ],
-        "osm_ids": [
-          10250495142
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.891565,
-          10.314012
-        ]
-      },
-      "properties": {
-        "name": "Cebu Doctors Hospital",
-        "type": "stop",
-        "routes": [
-          "04B",
-          "04D",
           "04H",
           "06B",
           "06F",
           "07B"
         ],
         "osm_ids": [
+          10250495142,
           10149201813
         ],
         "source": "osm",
@@ -2708,64 +1725,22 @@
         "type": "stop",
         "routes": [
           "02B",
+          "04C",
+          "04D",
+          "08G",
+          "09C",
+          "09F",
+          "09G",
+          "10G",
+          "10H",
+          "10M",
           "21A",
           "22A",
           "22D"
         ],
         "osm_ids": [
-          10250495123
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.903537,
-          10.29487
-        ]
-      },
-      "properties": {
-        "name": "Cebu Metropolitan Cathedral",
-        "type": "stop",
-        "routes": [
-          "04C",
-          "04D",
-          "08G",
-          "09F",
-          "09G",
-          "10G",
-          "10H",
-          "10M"
-        ],
-        "osm_ids": [
-          10250495120
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.903382,
-          10.295353
-        ]
-      },
-      "properties": {
-        "name": "Cebu Metropolitan Cathedral",
-        "type": "stop",
-        "routes": [
-          "09C"
-        ],
-        "osm_ids": [
+          10250495123,
+          10250495120,
           10250495153
         ],
         "source": "osm",
@@ -2788,35 +1763,11 @@
         "routes": [
           "06B",
           "06F",
-          "07B"
-        ],
-        "osm_ids": [
-          14048307464
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.89001,
-          10.316294
-        ]
-      },
-      "properties": {
-        "name": "Cebu Provincial Capitol",
-        "type": "stop",
-        "routes": [
-          "06B",
-          "06F",
           "06H",
           "07B"
         ],
         "osm_ids": [
+          14048307464,
           14048307465
         ],
         "source": "osm",
@@ -2865,34 +1816,12 @@
         "name": "Chrysler Cebu",
         "type": "stop",
         "routes": [
-          "04D"
-        ],
-        "osm_ids": [
-          14106868768
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.896937,
-          10.337087
-        ]
-      },
-      "properties": {
-        "name": "Chrysler Cebu",
-        "type": "stop",
-        "routes": [
           "04D",
           "04H",
           "04I"
         ],
         "osm_ids": [
+          14106868768,
           14106868767
         ],
         "source": "osm",
@@ -2939,35 +1868,12 @@
         "routes": [
           "04C",
           "04D",
-          "13B"
-        ],
-        "osm_ids": [
-          14104740289
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.903356,
-          10.311797
-        ]
-      },
-      "properties": {
-        "name": "Colegio de la Inmaculada Concepcion",
-        "type": "stop",
-        "routes": [
-          "04C",
           "04I",
           "13B",
           "13C"
         ],
         "osm_ids": [
+          14104740289,
           13185519440
         ],
         "source": "osm",
@@ -3049,62 +1955,18 @@
           "01K",
           "01KX",
           "02B",
-          "08G",
-          "10M"
-        ],
-        "osm_ids": [
-          10250495171
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.899705,
-          10.296496
-        ]
-      },
-      "properties": {
-        "name": "Colonnade Mall",
-        "type": "stop",
-        "routes": [
-          "01K",
           "04D",
-          "09G"
-        ],
-        "osm_ids": [
-          10250495217
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.899593,
-          10.297136
-        ]
-      },
-      "properties": {
-        "name": "Colonnade Mall",
-        "type": "stop",
-        "routes": [
-          "01KX",
+          "08G",
+          "09G",
           "10F",
           "10G",
+          "10M",
           "11A",
           "13C"
         ],
         "osm_ids": [
+          10250495171,
+          10250495217,
           5804071255
         ],
         "source": "osm",
@@ -3125,36 +1987,10 @@
         "name": "Commission on Audit",
         "type": "stop",
         "routes": [
-          "03A",
-          "03B",
-          "03L",
-          "21A",
-          "22A",
-          "22D"
-        ],
-        "osm_ids": [
-          10250495167
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.905927,
-          10.297959
-        ]
-      },
-      "properties": {
-        "name": "Commission on Audit",
-        "type": "stop",
-        "routes": [
+          "01B",
           "01K",
           "03A",
+          "03B",
           "03L",
           "08G",
           "10H",
@@ -3164,52 +2000,9 @@
           "22D"
         ],
         "osm_ids": [
-          10250495138
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.906559,
-          10.298431
-        ]
-      },
-      "properties": {
-        "name": "Commission on Audit",
-        "type": "stop",
-        "routes": [
-          "01B"
-        ],
-        "osm_ids": [
-          14104740227
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.906526,
-          10.29829
-        ]
-      },
-      "properties": {
-        "name": "Commission on Audit",
-        "type": "stop",
-        "routes": [
-          "01B"
-        ],
-        "osm_ids": [
+          10250495167,
+          10250495138,
+          14104740227,
           14104740226
         ],
         "source": "osm",
@@ -3279,34 +2072,12 @@
         "name": "Cosmopolitan Funeral Home",
         "type": "stop",
         "routes": [
-          "04D"
-        ],
-        "osm_ids": [
-          14106868765
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.897725,
-          10.33272
-        ]
-      },
-      "properties": {
-        "name": "Cosmopolitan Funeral Home",
-        "type": "stop",
-        "routes": [
           "04D",
           "04H",
           "04I"
         ],
         "osm_ids": [
+          14106868765,
           14106868764
         ],
         "source": "osm",
@@ -3331,30 +2102,7 @@
           "13C"
         ],
         "osm_ids": [
-          13769915556
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.910663,
-          10.334383
-        ]
-      },
-      "properties": {
-        "name": "Country Club Village",
-        "type": "stop",
-        "routes": [
-          "13B",
-          "13C"
-        ],
-        "osm_ids": [
+          13769915556,
           13769915549
         ],
         "source": "osm",
@@ -3375,39 +2123,17 @@
         "name": "Crossing Mabolo",
         "type": "stop",
         "routes": [
+          "03A",
           "03B",
+          "03Q",
+          "04L",
+          "06H",
           "20A",
           "21A",
           "22A"
         ],
         "osm_ids": [
-          10251749643
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.914215,
-          10.315191
-        ]
-      },
-      "properties": {
-        "name": "Crossing Mabolo",
-        "type": "stop",
-        "routes": [
-          "03A",
-          "03Q",
-          "04L",
-          "06H",
-          "20A"
-        ],
-        "osm_ids": [
+          10251749643,
           5992425488
         ],
         "source": "osm",
@@ -3460,32 +2186,7 @@
           "22D"
         ],
         "osm_ids": [
-          13769775029
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.924915,
-          10.323567
-        ]
-      },
-      "properties": {
-        "name": "Crossing Subangdaku North",
-        "type": "stop",
-        "routes": [
-          "20A",
-          "21A",
-          "22A",
-          "22D"
-        ],
-        "osm_ids": [
+          13769775029,
           13769775021
         ],
         "source": "osm",
@@ -3508,33 +2209,11 @@
         "routes": [
           "20A",
           "21A",
-          "22A"
-        ],
-        "osm_ids": [
-          4741655748
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.924021,
-          10.322765
-        ]
-      },
-      "properties": {
-        "name": "Crossing Subangdaku South",
-        "type": "stop",
-        "routes": [
-          "20A",
+          "22A",
           "22D"
         ],
         "osm_ids": [
+          4741655748,
           13769775016
         ],
         "source": "osm",
@@ -3578,34 +2257,6 @@
         "name": "DOH Regional Office VII",
         "type": "stop",
         "routes": [
-          "04B",
-          "04D",
-          "06B",
-          "06C",
-          "06F",
-          "07B"
-        ],
-        "osm_ids": [
-          10250495208
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.893519,
-          10.308224
-        ]
-      },
-      "properties": {
-        "name": "DOH Regional Office VII",
-        "type": "stop",
-        "routes": [
           "03B",
           "04B",
           "04D",
@@ -3616,6 +2267,7 @@
           "07B"
         ],
         "osm_ids": [
+          10250495208,
           10250495179
         ],
         "source": "osm",
@@ -3639,29 +2291,7 @@
           "MI-04A"
         ],
         "osm_ids": [
-          13769775063
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.949204,
-          10.32973
-        ]
-      },
-      "properties": {
-        "name": "DPWH Cebu 6th Engineering Office",
-        "type": "stop",
-        "routes": [
-          "MI-04A"
-        ],
-        "osm_ids": [
+          13769775063,
           13769775038
         ],
         "source": "osm",
@@ -3705,33 +2335,11 @@
         "name": "De La Paz Chapel",
         "type": "stop",
         "routes": [
-          "22D"
-        ],
-        "osm_ids": [
-          14102354690
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.947386,
-          10.32546
-        ]
-      },
-      "properties": {
-        "name": "De La Paz Chapel",
-        "type": "stop",
-        "routes": [
           "22A",
           "22D"
         ],
         "osm_ids": [
+          14102354690,
           14102354686
         ],
         "source": "osm",
@@ -3901,29 +2509,7 @@
           "01KX"
         ],
         "osm_ids": [
-          8562609887
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.929736,
-          10.319659
-        ]
-      },
-      "properties": {
-        "name": "E.O. Perez-F. F. Cruz",
-        "type": "stop",
-        "routes": [
-          "01K"
-        ],
-        "osm_ids": [
+          8562609887,
           14104747720
         ],
         "source": "osm",
@@ -3944,37 +2530,14 @@
         "name": "East Gate",
         "type": "stop",
         "routes": [
+          "03L",
           "03Q",
+          "04L",
           "06H",
           "20A"
         ],
         "osm_ids": [
-          14104740224
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.909615,
-          10.319755
-        ]
-      },
-      "properties": {
-        "name": "East Gate",
-        "type": "stop",
-        "routes": [
-          "03L",
-          "03Q",
-          "04L",
-          "06H"
-        ],
-        "osm_ids": [
+          14104740224,
           14104740242
         ],
         "source": "osm",
@@ -4001,30 +2564,7 @@
           "07B"
         ],
         "osm_ids": [
-          14048307470
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.886132,
-          10.316073
-        ]
-      },
-      "properties": {
-        "name": "EastWest Unibank M. Velez",
-        "type": "stop",
-        "routes": [
-          "06F",
-          "07B"
-        ],
-        "osm_ids": [
+          14048307470,
           14048307469
         ],
         "source": "osm",
@@ -4046,55 +2586,12 @@
         "type": "stop",
         "routes": [
           "04C",
-          "04D"
-        ],
-        "osm_ids": [
-          14104740232
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.899835,
-          10.305483
-        ]
-      },
-      "properties": {
-        "name": "Echavez Extension",
-        "type": "stop",
-        "routes": [
+          "04D",
           "13B"
         ],
         "osm_ids": [
-          14104740274
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.89988,
-          10.3056
-        ]
-      },
-      "properties": {
-        "name": "Echavez Extension",
-        "type": "stop",
-        "routes": [
-          "13B"
-        ],
-        "osm_ids": [
+          14104740232,
+          14104740274,
           14104740291
         ],
         "source": "osm",
@@ -4116,31 +2613,6 @@
         "type": "stop",
         "routes": [
           "01B",
-          "01K",
-          "01KX"
-        ],
-        "osm_ids": [
-          10250495127
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.895707,
-          10.297984
-        ]
-      },
-      "properties": {
-        "name": "Elizabeth Mall",
-        "type": "stop",
-        "routes": [
-          "01B",
           "01C",
           "01K",
           "01KX",
@@ -4148,6 +2620,7 @@
           "10M"
         ],
         "osm_ids": [
+          10250495127,
           10250495117
         ],
         "source": "osm",
@@ -4170,35 +2643,12 @@
         "routes": [
           "01K",
           "01KX",
+          "21A",
+          "22A",
           "22D"
         ],
         "osm_ids": [
-          14102354671
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.921711,
-          10.313113
-        ]
-      },
-      "properties": {
-        "name": "F. Cabahug",
-        "type": "stop",
-        "routes": [
-          "01K",
-          "01KX",
-          "21A",
-          "22A"
-        ],
-        "osm_ids": [
+          14102354671,
           14102354681
         ],
         "source": "osm",
@@ -4221,34 +2671,11 @@
         "routes": [
           "04B",
           "04D",
+          "04H",
           "06H"
         ],
         "osm_ids": [
-          10250495110
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.892113,
-          10.316741
-        ]
-      },
-      "properties": {
-        "name": "F. Ramos",
-        "type": "stop",
-        "routes": [
-          "04B",
-          "04D",
-          "04H"
-        ],
-        "osm_ids": [
+          10250495110,
           10892078468
         ],
         "source": "osm",
@@ -4343,29 +2770,7 @@
           "11A"
         ],
         "osm_ids": [
-          14158689212
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.856962,
-          10.274277
-        ]
-      },
-      "properties": {
-        "name": "Flying V Inayawan",
-        "type": "stop",
-        "routes": [
-          "11A"
-        ],
-        "osm_ids": [
+          14158689212,
           14158689211
         ],
         "source": "osm",
@@ -4446,29 +2851,7 @@
           "11A"
         ],
         "osm_ids": [
-          14158689229
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.867423,
-          10.283854
-        ]
-      },
-      "properties": {
-        "name": "Fusion Gas Station",
-        "type": "stop",
-        "routes": [
-          "11A"
-        ],
-        "osm_ids": [
+          14158689229,
           14158689230
         ],
         "source": "osm",
@@ -4492,37 +2875,13 @@
           "01K",
           "01KX",
           "10H",
+          "10M",
+          "21A",
+          "22A",
           "22D"
         ],
         "osm_ids": [
-          14102354674
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.912948,
-          10.309788
-        ]
-      },
-      "properties": {
-        "name": "G Mall of Cebu",
-        "type": "stop",
-        "routes": [
-          "01K",
-          "01KX",
-          "10H",
-          "10M",
-          "21A",
-          "22A"
-        ],
-        "osm_ids": [
+          14102354674,
           14102354680
         ],
         "source": "osm",
@@ -4566,36 +2925,14 @@
         "name": "GP Sy Building",
         "type": "stop",
         "routes": [
+          "04B",
           "04C",
+          "04D",
           "04I",
           "04L"
         ],
         "osm_ids": [
-          14104740238
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.899598,
-          10.319396
-        ]
-      },
-      "properties": {
-        "name": "GP Sy Building",
-        "type": "stop",
-        "routes": [
-          "04B",
-          "04C",
-          "04D"
-        ],
-        "osm_ids": [
+          14104740238,
           13148912637
         ],
         "source": "osm",
@@ -4622,111 +2959,18 @@
           "01KX",
           "02B",
           "08G",
-          "10M"
-        ],
-        "osm_ids": [
-          10250495164
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.89717,
-          10.295827
-        ]
-      },
-      "properties": {
-        "name": "Gaisano Capital South",
-        "type": "stop",
-        "routes": [
-          "01K",
-          "01KX",
           "09G",
           "10F",
           "10G",
+          "10H",
+          "10M",
           "11A"
         ],
         "osm_ids": [
-          10250495133
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.896245,
-          10.296259
-        ]
-      },
-      "properties": {
-        "name": "Gaisano Capital South",
-        "type": "stop",
-        "routes": [
-          "01C",
-          "02B",
-          "10M"
-        ],
-        "osm_ids": [
-          14104747722
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.896336,
-          10.296328
-        ]
-      },
-      "properties": {
-        "name": "Gaisano Capital South",
-        "type": "stop",
-        "routes": [
-          "01K",
-          "01KX"
-        ],
-        "osm_ids": [
-          14104747710
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.896103,
-          10.295745
-        ]
-      },
-      "properties": {
-        "name": "Gaisano Capital South",
-        "type": "stop",
-        "routes": [
-          "10F",
-          "10H",
-          "10M"
-        ],
-        "osm_ids": [
+          10250495164,
+          10250495133,
+          14104747722,
+          14104747710,
           11254050342
         ],
         "source": "osm",
@@ -4801,30 +3045,7 @@
           "13C"
         ],
         "osm_ids": [
-          13769915540
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.913783,
-          10.366101
-        ]
-      },
-      "properties": {
-        "name": "Gaisano Grand Mall Talamban",
-        "type": "stop",
-        "routes": [
-          "13B",
-          "13C"
-        ],
-        "osm_ids": [
+          13769915540,
           13769915541
         ],
         "source": "osm",
@@ -4848,29 +3069,7 @@
           "MI-04B"
         ],
         "osm_ids": [
-          13779441620
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.962667,
-          10.317387
-        ]
-      },
-      "properties": {
-        "name": "Gaisano Island Mall Mactan",
-        "type": "stop",
-        "routes": [
-          "MI-04B"
-        ],
-        "osm_ids": [
+          13779441620,
           13779441621
         ],
         "source": "osm",
@@ -4896,64 +3095,19 @@
           "01K",
           "01KX",
           "02B",
-          "08G",
-          "09F",
-          "10M",
-          "13B"
-        ],
-        "osm_ids": [
-          10250495175
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.901554,
-          10.296936
-        ]
-      },
-      "properties": {
-        "name": "Gaisano Main",
-        "type": "stop",
-        "routes": [
-          "01K",
           "03A",
           "03L",
-          "13B"
-        ],
-        "osm_ids": [
-          14104747711
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.901227,
-          10.297806
-        ]
-      },
-      "properties": {
-        "name": "Gaisano Main",
-        "type": "stop",
-        "routes": [
-          "01KX",
+          "08G",
+          "09F",
           "10G",
+          "10M",
           "11A",
+          "13B",
           "13C"
         ],
         "osm_ids": [
+          10250495175,
+          14104747711,
           10250473108
         ],
         "source": "osm",
@@ -4974,33 +3128,11 @@
         "name": "Gaisano Savemart",
         "type": "stop",
         "routes": [
-          "01B"
-        ],
-        "osm_ids": [
-          10250495134
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.903083,
-          10.301673
-        ]
-      },
-      "properties": {
-        "name": "Gaisano Savemart",
-        "type": "stop",
-        "routes": [
           "01B",
           "10H"
         ],
         "osm_ids": [
+          10250495134,
           10250495112
         ],
         "source": "osm",
@@ -5024,29 +3156,7 @@
           "11A"
         ],
         "osm_ids": [
-          14158689223
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.857311,
-          10.276438
-        ]
-      },
-      "properties": {
-        "name": "Gaisano Savemart Inayawan",
-        "type": "stop",
-        "routes": [
-          "11A"
-        ],
-        "osm_ids": [
+          14158689223,
           14158689224
         ],
         "source": "osm",
@@ -5092,35 +3202,12 @@
         "routes": [
           "01K",
           "01KX",
+          "21A",
+          "22A",
           "22D"
         ],
         "osm_ids": [
-          14102354670
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.92424,
-          10.315993
-        ]
-      },
-      "properties": {
-        "name": "Gatewalk",
-        "type": "stop",
-        "routes": [
-          "01K",
-          "01KX",
-          "21A",
-          "22A"
-        ],
-        "osm_ids": [
+          14102354670,
           14102354682
         ],
         "source": "osm",
@@ -5146,35 +3233,11 @@
           "03L",
           "20A",
           "21A",
-          "22A"
-        ],
-        "osm_ids": [
-          13761865123
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.911141,
-          10.31262
-        ]
-      },
-      "properties": {
-        "name": "Gil Tudtud",
-        "type": "stop",
-        "routes": [
-          "03A",
-          "03B",
-          "03L",
+          "22A",
           "22D"
         ],
         "osm_ids": [
+          13761865123,
           13761865125
         ],
         "source": "osm",
@@ -5197,33 +3260,11 @@
         "routes": [
           "20A",
           "21A",
-          "22A"
-        ],
-        "osm_ids": [
-          10149230453
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.919827,
-          10.319242
-        ]
-      },
-      "properties": {
-        "name": "Ginebra San Miguel",
-        "type": "stop",
-        "routes": [
-          "20A",
+          "22A",
           "22D"
         ],
         "osm_ids": [
+          10149230453,
           13769775031
         ],
         "source": "osm",
@@ -5246,34 +3287,11 @@
         "routes": [
           "04B",
           "04D",
+          "04H",
           "06H"
         ],
         "osm_ids": [
-          10783372754
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.89867,
-          10.318321
-        ]
-      },
-      "properties": {
-        "name": "Gonzales Compound",
-        "type": "stop",
-        "routes": [
-          "04B",
-          "04D",
-          "04H"
-        ],
-        "osm_ids": [
+          10783372754,
           10892010437
         ],
         "source": "osm",
@@ -5297,29 +3315,7 @@
           "07B"
         ],
         "osm_ids": [
-          14049861711
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.877951,
-          10.312367
-        ]
-      },
-      "properties": {
-        "name": "Good Shepherd",
-        "type": "stop",
-        "routes": [
-          "07B"
-        ],
-        "osm_ids": [
+          14049861711,
           14049861709
         ],
         "source": "osm",
@@ -5372,29 +3368,7 @@
           "11A"
         ],
         "osm_ids": [
-          10250495224
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.889962,
-          10.294739
-        ]
-      },
-      "properties": {
-        "name": "Gothong High School",
-        "type": "stop",
-        "routes": [
-          "06G"
-        ],
-        "osm_ids": [
+          10250495224,
           14048307488
         ],
         "source": "osm",
@@ -5472,36 +3446,11 @@
           "06B",
           "06C",
           "06F",
-          "06H"
-        ],
-        "osm_ids": [
-          14048307474
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.882464,
-          10.326041
-        ]
-      },
-      "properties": {
-        "name": "Guadalajara",
-        "type": "stop",
-        "routes": [
-          "06B",
-          "06C",
-          "06F",
           "06G",
           "06H"
         ],
         "osm_ids": [
+          14048307474,
           14048307475
         ],
         "source": "osm",
@@ -5578,37 +3527,13 @@
           "03A",
           "03B",
           "03L",
+          "13C",
+          "21A",
+          "22A",
           "22D"
         ],
         "osm_ids": [
-          13761865119
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.909454,
-          10.311453
-        ]
-      },
-      "properties": {
-        "name": "Hipodromo",
-        "type": "stop",
-        "routes": [
-          "03A",
-          "03B",
-          "03L",
-          "13C",
-          "21A",
-          "22A"
-        ],
-        "osm_ids": [
+          13761865119,
           13761865121
         ],
         "source": "osm",
@@ -5677,36 +3602,14 @@
         "name": "Horizons 101",
         "type": "stop",
         "routes": [
-          "04C",
-          "04D"
-        ],
-        "osm_ids": [
-          10250495207
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.89726,
-          10.310983
-        ]
-      },
-      "properties": {
-        "name": "Horizons 101",
-        "type": "stop",
-        "routes": [
           "03B",
           "04C",
+          "04D",
           "04I",
           "06H"
         ],
         "osm_ids": [
+          10250495207,
           10250495172
         ],
         "source": "osm",
@@ -5781,30 +3684,7 @@
           "MI-04B"
         ],
         "osm_ids": [
-          13762031067
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.961125,
-          10.307613
-        ]
-      },
-      "properties": {
-        "name": "Humay Humay Road",
-        "type": "stop",
-        "routes": [
-          "MI-04A",
-          "MI-04B"
-        ],
-        "osm_ids": [
+          13762031067,
           13762031061
         ],
         "source": "osm",
@@ -5851,29 +3731,7 @@
           "11A"
         ],
         "osm_ids": [
-          14158689220
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.856236,
-          10.269215
-        ]
-      },
-      "properties": {
-        "name": "Inayawan Church",
-        "type": "stop",
-        "routes": [
-          "11A"
-        ],
-        "osm_ids": [
+          14158689220,
           14158689219
         ],
         "source": "osm",
@@ -5897,29 +3755,7 @@
           "11A"
         ],
         "osm_ids": [
-          14158689214
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.856708,
-          10.272536
-        ]
-      },
-      "properties": {
-        "name": "Inayawan Elementary School",
-        "type": "stop",
-        "routes": [
-          "11A"
-        ],
-        "osm_ids": [
+          14158689214,
           14158689213
         ],
         "source": "osm",
@@ -5943,29 +3779,7 @@
           "11A"
         ],
         "osm_ids": [
-          14158689222
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.856449,
-          10.270734
-        ]
-      },
-      "properties": {
-        "name": "Inayawan Public Market",
-        "type": "stop",
-        "routes": [
-          "11A"
-        ],
-        "osm_ids": [
+          14158689222,
           14158689221
         ],
         "source": "osm",
@@ -5989,29 +3803,7 @@
           "06G"
         ],
         "osm_ids": [
-          14048307481
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.887483,
-          10.298602
-        ]
-      },
-      "properties": {
-        "name": "J. Alcantara",
-        "type": "stop",
-        "routes": [
-          "06G"
-        ],
-        "osm_ids": [
+          14048307481,
           14048307479
         ],
         "source": "osm",
@@ -6032,36 +3824,13 @@
         "name": "J. Climaco",
         "type": "stop",
         "routes": [
+          "08G",
           "09G",
           "10G",
           "11A"
         ],
         "osm_ids": [
-          13185519450
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.895184,
-          10.294834
-        ]
-      },
-      "properties": {
-        "name": "J. Climaco",
-        "type": "stop",
-        "routes": [
-          "08G",
-          "09G",
-          "10G"
-        ],
-        "osm_ids": [
+          13185519450,
           14102393306
         ],
         "source": "osm",
@@ -6112,34 +3881,11 @@
           "04D",
           "04H",
           "04I",
-          "04L"
-        ],
-        "osm_ids": [
-          10251749651
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.898285,
-          10.33079
-        ]
-      },
-      "properties": {
-        "name": "JY Square Mall",
-        "type": "stop",
-        "routes": [
-          "04B",
-          "04C",
+          "04L",
           "04M"
         ],
         "osm_ids": [
+          10251749651,
           13760438081
         ],
         "source": "osm",
@@ -6166,32 +3912,7 @@
           "11A"
         ],
         "osm_ids": [
-          10250495154
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.880165,
-          10.291309
-        ]
-      },
-      "properties": {
-        "name": "Jai Alai",
-        "type": "stop",
-        "routes": [
-          "08G",
-          "09G",
-          "10G",
-          "11A"
-        ],
-        "osm_ids": [
+          10250495154,
           10250495151
         ],
         "source": "osm",
@@ -6237,33 +3958,11 @@
         "type": "stop",
         "routes": [
           "04B",
+          "04D",
           "06B",
           "06C",
           "06F",
-          "07B"
-        ],
-        "osm_ids": [
-          10743640229
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.901382,
-          10.295767
-        ]
-      },
-      "properties": {
-        "name": "Jakosalem",
-        "type": "stop",
-        "routes": [
-          "04D",
+          "07B",
           "08G",
           "09F",
           "09G",
@@ -6271,6 +3970,7 @@
           "10M"
         ],
         "osm_ids": [
+          10743640229,
           14102393323
         ],
         "source": "osm",
@@ -6317,29 +4017,7 @@
           "07B"
         ],
         "osm_ids": [
-          14114354088
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.884935,
-          10.315523
-        ]
-      },
-      "properties": {
-        "name": "Jollibee Banawa",
-        "type": "stop",
-        "routes": [
-          "07B"
-        ],
-        "osm_ids": [
+          14114354088,
           14114354089
         ],
         "source": "osm",
@@ -6362,34 +4040,11 @@
         "routes": [
           "04B",
           "04D",
+          "04H",
           "06H"
         ],
         "osm_ids": [
-          10892049019
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.894174,
-          10.317454
-        ]
-      },
-      "properties": {
-        "name": "Jollibee Escario",
-        "type": "stop",
-        "routes": [
-          "04B",
-          "04D",
-          "04H"
-        ],
-        "osm_ids": [
+          10892049019,
           10892049475
         ],
         "source": "osm",
@@ -6412,39 +4067,13 @@
         "routes": [
           "04B",
           "04D",
-          "06B",
-          "06F",
-          "07B"
-        ],
-        "osm_ids": [
-          10149227776
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.892256,
-          10.312055
-        ]
-      },
-      "properties": {
-        "name": "Jose Rizal Memorial Library",
-        "type": "stop",
-        "routes": [
-          "04B",
-          "04D",
           "04H",
           "06B",
           "06F",
           "07B"
         ],
         "osm_ids": [
+          10149227776,
           10250495111
         ],
         "source": "osm",
@@ -6514,33 +4143,11 @@
         "name": "Kabulihan",
         "type": "stop",
         "routes": [
-          "01B"
-        ],
-        "osm_ids": [
-          14104747705
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.891824,
-          10.299786
-        ]
-      },
-      "properties": {
-        "name": "Kabulihan",
-        "type": "stop",
-        "routes": [
           "01B",
           "01C"
         ],
         "osm_ids": [
+          14104747705,
           14104747704
         ],
         "source": "osm",
@@ -6591,31 +4198,7 @@
           "10M"
         ],
         "osm_ids": [
-          14114354081
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.857986,
-          10.28233
-        ]
-      },
-      "properties": {
-        "name": "Kinasang-an",
-        "type": "stop",
-        "routes": [
-          "10F",
-          "10H",
-          "10M"
-        ],
-        "osm_ids": [
+          14114354081,
           14114354082
         ],
         "source": "osm",
@@ -6643,33 +4226,7 @@
           "06H"
         ],
         "osm_ids": [
-          14048307478
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.884749,
-          10.318595
-        ]
-      },
-      "properties": {
-        "name": "L. Bacayo",
-        "type": "stop",
-        "routes": [
-          "06B",
-          "06C",
-          "06F",
-          "06G",
-          "06H"
-        ],
-        "osm_ids": [
+          14048307478,
           14048307471
         ],
         "source": "osm",
@@ -6745,35 +4302,11 @@
           "04D",
           "04H",
           "04I",
-          "04L"
-        ],
-        "osm_ids": [
-          13760438075
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.89794,
-          10.327191
-        ]
-      },
-      "properties": {
-        "name": "LDS Cebu City Temple",
-        "type": "stop",
-        "routes": [
-          "04B",
-          "04C",
-          "04D",
+          "04L",
           "04M"
         ],
         "osm_ids": [
+          13760438075,
           13760438076
         ],
         "source": "osm",
@@ -6801,30 +4334,7 @@
           "07B"
         ],
         "osm_ids": [
-          10743640249
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.900096,
-          10.295418
-        ]
-      },
-      "properties": {
-        "name": "LUYM Building",
-        "type": "stop",
-        "routes": [
-          "06C",
-          "06F"
-        ],
-        "osm_ids": [
+          10743640249,
           10250495137
         ],
         "source": "osm",
@@ -6850,35 +4360,11 @@
           "04D",
           "04H",
           "04I",
-          "04L"
-        ],
-        "osm_ids": [
-          10149201814
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.898149,
-          10.325836
-        ]
-      },
-      "properties": {
-        "name": "Lahug",
-        "type": "stop",
-        "routes": [
-          "04B",
-          "04C",
-          "04D",
+          "04L",
           "04M"
         ],
         "osm_ids": [
+          10149201814,
           13760438077
         ],
         "source": "osm",
@@ -6930,31 +4416,7 @@
           "11A"
         ],
         "osm_ids": [
-          14102393320
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.891593,
-          10.293855
-        ]
-      },
-      "properties": {
-        "name": "Lakandula",
-        "type": "stop",
-        "routes": [
-          "08G",
-          "09G",
-          "10G"
-        ],
-        "osm_ids": [
+          14102393320,
           14102393309
         ],
         "source": "osm",
@@ -6978,29 +4440,7 @@
           "MI-04B"
         ],
         "osm_ids": [
-          13779441618
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.964275,
-          10.318536
-        ]
-      },
-      "properties": {
-        "name": "Lapu-Lapu City Hall",
-        "type": "stop",
-        "routes": [
-          "MI-04B"
-        ],
-        "osm_ids": [
+          13779441618,
           13779441619
         ],
         "source": "osm",
@@ -7075,39 +4515,16 @@
         "routes": [
           "02B",
           "03A",
+          "03B",
           "03L",
           "10H",
+          "13C",
+          "21A",
+          "22A",
           "22D"
         ],
         "osm_ids": [
-          14102354675
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.905978,
-          10.307113
-        ]
-      },
-      "properties": {
-        "name": "Lorega",
-        "type": "stop",
-        "routes": [
-          "03A",
-          "03B",
-          "03L",
-          "13C",
-          "21A",
-          "22A"
-        ],
-        "osm_ids": [
+          14102354675,
           10250495191
         ],
         "source": "osm",
@@ -7131,29 +4548,7 @@
           "11A"
         ],
         "osm_ids": [
-          14158689216
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.856103,
-          10.26365
-        ]
-      },
-      "properties": {
-        "name": "Lower Torre",
-        "type": "stop",
-        "routes": [
-          "11A"
-        ],
-        "osm_ids": [
+          14158689216,
           14158689215
         ],
         "source": "osm",
@@ -7179,30 +4574,7 @@
           "13C"
         ],
         "osm_ids": [
-          10251749633
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.906359,
-          10.324084
-        ]
-      },
-      "properties": {
-        "name": "Luz",
-        "type": "stop",
-        "routes": [
-          "13B",
-          "13C"
-        ],
-        "osm_ids": [
+          10251749633,
           10251749634
         ],
         "source": "osm",
@@ -7225,35 +4597,13 @@
         "routes": [
           "01K",
           "01KX",
+          "10H",
           "10M",
           "21A",
           "22A"
         ],
         "osm_ids": [
-          14102354677
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.90972,
-          10.304104
-        ]
-      },
-      "properties": {
-        "name": "M. Lhuillier Group Headquarters",
-        "type": "stop",
-        "routes": [
-          "10H",
-          "10M"
-        ],
-        "osm_ids": [
+          14102354677,
           14104740299
         ],
         "source": "osm",
@@ -7301,33 +4651,11 @@
         "type": "stop",
         "routes": [
           "01B",
+          "10H",
           "10M"
         ],
         "osm_ids": [
-          10250495135
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.907004,
-          10.301888
-        ]
-      },
-      "properties": {
-        "name": "M.J. Cuenco",
-        "type": "stop",
-        "routes": [
-          "01B",
-          "10H"
-        ],
-        "osm_ids": [
+          10250495135,
           10250495158
         ],
         "source": "osm",
@@ -7456,29 +4784,7 @@
           "07B"
         ],
         "osm_ids": [
-          14049861701
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.880576,
-          10.313856
-        ]
-      },
-      "properties": {
-        "name": "MHAM",
-        "type": "stop",
-        "routes": [
-          "07B"
-        ],
-        "osm_ids": [
+          14049861701,
           14049861706
         ],
         "source": "osm",
@@ -7499,35 +4805,13 @@
         "name": "MYA Building",
         "type": "stop",
         "routes": [
-          "04C",
-          "04D"
-        ],
-        "osm_ids": [
-          14104740229
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.902438,
-          10.311337
-        ]
-      },
-      "properties": {
-        "name": "MYA Building",
-        "type": "stop",
-        "routes": [
           "03B",
           "04C",
+          "04D",
           "04I"
         ],
         "osm_ids": [
+          14104740229,
           13185519448
         ],
         "source": "osm",
@@ -7602,30 +4886,7 @@
           "06H"
         ],
         "osm_ids": [
-          10251749645
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.915622,
-          10.313231
-        ]
-      },
-      "properties": {
-        "name": "Mabolo Elementary School",
-        "type": "stop",
-        "routes": [
-          "03Q",
-          "06H"
-        ],
-        "osm_ids": [
+          10251749645,
           14114354094
         ],
         "source": "osm",
@@ -7671,32 +4932,11 @@
         "name": "Mactan Road",
         "type": "stop",
         "routes": [
+          "13C",
           "20A"
         ],
         "osm_ids": [
-          14102493795
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.909259,
-          10.313804
-        ]
-      },
-      "properties": {
-        "name": "Mactan Road",
-        "type": "stop",
-        "routes": [
-          "13C"
-        ],
-        "osm_ids": [
+          14102493795,
           13761865122
         ],
         "source": "osm",
@@ -7772,32 +5012,7 @@
           "11A"
         ],
         "osm_ids": [
-          10250495194
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.878104,
-          10.290817
-        ]
-      },
-      "properties": {
-        "name": "Mambaling",
-        "type": "stop",
-        "routes": [
-          "08G",
-          "09G",
-          "10G",
-          "11A"
-        ],
-        "osm_ids": [
+          10250495194,
           10250473103
         ],
         "source": "osm",
@@ -7850,35 +5065,7 @@
           "10M"
         ],
         "osm_ids": [
-          10250495144
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.87483,
-          10.290144
-        ]
-      },
-      "properties": {
-        "name": "Mambaling Elementary School",
-        "type": "stop",
-        "routes": [
-          "09C",
-          "09F",
-          "09G",
-          "10F",
-          "10G",
-          "10H",
-          "10M"
-        ],
-        "osm_ids": [
+          10250495144,
           10250495229
         ],
         "source": "osm",
@@ -7975,30 +5162,7 @@
           "22D"
         ],
         "osm_ids": [
-          13769775040
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.942813,
-          10.327551
-        ]
-      },
-      "properties": {
-        "name": "Mandaue City Government Complex",
-        "type": "stop",
-        "routes": [
-          "22A",
-          "22D"
-        ],
-        "osm_ids": [
+          13769775040,
           13769775035
         ],
         "source": "osm",
@@ -8069,36 +5233,14 @@
         "name": "Mango Square",
         "type": "stop",
         "routes": [
-          "04C",
-          "04D"
-        ],
-        "osm_ids": [
-          10250495147
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.895979,
-          10.310512
-        ]
-      },
-      "properties": {
-        "name": "Mango Square",
-        "type": "stop",
-        "routes": [
           "03B",
           "04C",
+          "04D",
           "04I",
           "06H"
         ],
         "osm_ids": [
+          10250495147,
           10250495223
         ],
         "source": "osm",
@@ -8146,29 +5288,7 @@
           "MI-04B"
         ],
         "osm_ids": [
-          13779441615
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.969525,
-          10.32216
-        ]
-      },
-      "properties": {
-        "name": "Marcelo Fernan Bridge",
-        "type": "stop",
-        "routes": [
-          "MI-04B"
-        ],
-        "osm_ids": [
+          13779441615,
           13779441614
         ],
         "source": "osm",
@@ -8189,34 +5309,12 @@
         "name": "Marco Polo Plaza",
         "type": "stop",
         "routes": [
-          "04D"
-        ],
-        "osm_ids": [
-          14106868772
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.896524,
-          10.341495
-        ]
-      },
-      "properties": {
-        "name": "Marco Polo Plaza",
-        "type": "stop",
-        "routes": [
           "04D",
           "04H",
           "04I"
         ],
         "osm_ids": [
+          14106868772,
           14106868773
         ],
         "source": "osm",
@@ -8240,29 +5338,7 @@
           "MI-04B"
         ],
         "osm_ids": [
-          13779441610
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.977462,
-          10.326266
-        ]
-      },
-      "properties": {
-        "name": "Marina Mall",
-        "type": "stop",
-        "routes": [
-          "MI-04B"
-        ],
-        "osm_ids": [
+          13779441610,
           13779441611
         ],
         "source": "osm",
@@ -8287,29 +5363,7 @@
           "13C"
         ],
         "osm_ids": [
-          14104740279
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.903895,
-          10.310432
-        ]
-      },
-      "properties": {
-        "name": "Maxilom",
-        "type": "stop",
-        "routes": [
-          "13B"
-        ],
-        "osm_ids": [
+          14104740279,
           14104740288
         ],
         "source": "osm",
@@ -8404,59 +5458,15 @@
         "name": "Metrobank Mabolo",
         "type": "stop",
         "routes": [
-          "20A",
-          "21A",
-          "22A"
-        ],
-        "osm_ids": [
-          13761865124
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.917008,
-          10.316291
-        ]
-      },
-      "properties": {
-        "name": "Metrobank Mabolo",
-        "type": "stop",
-        "routes": [
           "03B",
           "20A",
+          "21A",
+          "22A",
           "22D"
         ],
         "osm_ids": [
-          13761865120
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.917068,
-          10.316654
-        ]
-      },
-      "properties": {
-        "name": "Metrobank Mabolo",
-        "type": "stop",
-        "routes": [
-          "03B"
-        ],
-        "osm_ids": [
+          13761865124,
+          13761865120,
           14104740258
         ],
         "source": "osm",
@@ -8478,33 +5488,11 @@
         "type": "stop",
         "routes": [
           "04C",
-          "04D"
-        ],
-        "osm_ids": [
-          13148912638
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.900386,
-          10.317538
-        ]
-      },
-      "properties": {
-        "name": "Mitsubishi Gorordo",
-        "type": "stop",
-        "routes": [
-          "04C",
+          "04D",
           "04I"
         ],
         "osm_ids": [
+          13148912638,
           10149222110
         ],
         "source": "osm",
@@ -8526,61 +5514,18 @@
         "type": "stop",
         "routes": [
           "01B",
-          "02B"
-        ],
-        "osm_ids": [
-          10250495177
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.903492,
-          10.298733
-        ]
-      },
-      "properties": {
-        "name": "Museo Pari-an",
-        "type": "stop",
-        "routes": [
-          "01KX",
-          "09C",
-          "13C"
-        ],
-        "osm_ids": [
-          14104740248
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.903979,
-          10.298685
-        ]
-      },
-      "properties": {
-        "name": "Museo Pari-an",
-        "type": "stop",
-        "routes": [
           "01C",
           "01K",
           "01KX",
+          "02B",
+          "09C",
           "09F",
-          "10M"
+          "10M",
+          "13C"
         ],
         "osm_ids": [
+          10250495177,
+          14104740248,
           14104747702
         ],
         "source": "osm",
@@ -8601,42 +5546,19 @@
         "name": "Museo Sugbo",
         "type": "stop",
         "routes": [
-          "02B",
-          "03A",
-          "03L",
-          "10H",
-          "22D"
-        ],
-        "osm_ids": [
-          10250495146
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.906268,
-          10.304383
-        ]
-      },
-      "properties": {
-        "name": "Museo Sugbo",
-        "type": "stop",
-        "routes": [
           "01K",
           "01KX",
+          "02B",
           "03A",
           "03B",
           "03L",
+          "10H",
           "21A",
-          "22A"
+          "22A",
+          "22D"
         ],
         "osm_ids": [
+          10250495146,
           10250495181
         ],
         "source": "osm",
@@ -8664,30 +5586,7 @@
           "20A"
         ],
         "osm_ids": [
-          13754365856
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.904253,
-          10.316517
-        ]
-      },
-      "properties": {
-        "name": "Negros Road",
-        "type": "stop",
-        "routes": [
-          "06H",
-          "13B"
-        ],
-        "osm_ids": [
+          13754365856,
           13754365862
         ],
         "source": "osm",
@@ -8762,31 +5661,7 @@
           "10M"
         ],
         "osm_ids": [
-          14114354078
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.853458,
-          10.277536
-        ]
-      },
-      "properties": {
-        "name": "Newtown Subdivision",
-        "type": "stop",
-        "routes": [
-          "10F",
-          "10H",
-          "10M"
-        ],
-        "osm_ids": [
+          14114354078,
           14114354077
         ],
         "source": "osm",
@@ -8807,34 +5682,12 @@
         "name": "Nivel Hills",
         "type": "stop",
         "routes": [
-          "04D"
-        ],
-        "osm_ids": [
-          14106868774
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.89537,
-          10.342844
-        ]
-      },
-      "properties": {
-        "name": "Nivel Hills",
-        "type": "stop",
-        "routes": [
           "04D",
           "04H",
           "04I"
         ],
         "osm_ids": [
+          14106868774,
           14106868775
         ],
         "source": "osm",
@@ -8855,34 +5708,12 @@
         "name": "Nivel Hills Chapel",
         "type": "stop",
         "routes": [
-          "04D"
-        ],
-        "osm_ids": [
-          14106868776
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.893667,
-          10.344058
-        ]
-      },
-      "properties": {
-        "name": "Nivel Hills Chapel",
-        "type": "stop",
-        "routes": [
           "04D",
           "04H",
           "04I"
         ],
         "osm_ids": [
+          14106868776,
           14106868777
         ],
         "source": "osm",
@@ -8903,34 +5734,13 @@
         "name": "North Bus Terminal",
         "type": "stop",
         "routes": [
-          "04L"
-        ],
-        "osm_ids": [
-          10251749649
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.921022,
-          10.311451
-        ]
-      },
-      "properties": {
-        "name": "North Bus Terminal",
-        "type": "stop",
-        "routes": [
           "03Q",
+          "04L",
           "06H",
           "10H"
         ],
         "osm_ids": [
+          10251749649,
           14114354095
         ],
         "source": "osm",
@@ -9026,30 +5836,7 @@
           "06H"
         ],
         "osm_ids": [
-          14048307486
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.886545,
-          10.30891
-        ]
-      },
-      "properties": {
-        "name": "P. Abella",
-        "type": "stop",
-        "routes": [
-          "06C",
-          "06G"
-        ],
-        "osm_ids": [
+          14048307486,
           14048307487
         ],
         "source": "osm",
@@ -9073,29 +5860,7 @@
           "07B"
         ],
         "osm_ids": [
-          14114354091
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.876417,
-          10.305537
-        ]
-      },
-      "properties": {
-        "name": "P. Abella",
-        "type": "stop",
-        "routes": [
-          "07B"
-        ],
-        "osm_ids": [
+          14114354091,
           14114354092
         ],
         "source": "osm",
@@ -9172,33 +5937,7 @@
           "06H"
         ],
         "osm_ids": [
-          14048307477
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.884356,
-          10.32045
-        ]
-      },
-      "properties": {
-        "name": "P. Duterte Elementary School",
-        "type": "stop",
-        "routes": [
-          "06B",
-          "06C",
-          "06F",
-          "06G",
-          "06H"
-        ],
-        "osm_ids": [
+          14048307477,
           14048307476
         ],
         "source": "osm",
@@ -9250,30 +5989,7 @@
           "07B"
         ],
         "osm_ids": [
-          10743640245
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.899064,
-          10.295849
-        ]
-      },
-      "properties": {
-        "name": "P. Gullas",
-        "type": "stop",
-        "routes": [
-          "06C",
-          "06F"
-        ],
-        "osm_ids": [
+          10743640245,
           10250495178
         ],
         "source": "osm",
@@ -9397,30 +6113,7 @@
           "13C"
         ],
         "osm_ids": [
-          13754365860
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.904218,
-          10.320357
-        ]
-      },
-      "properties": {
-        "name": "Pag-IBIG",
-        "type": "stop",
-        "routes": [
-          "13B",
-          "13C"
-        ],
-        "osm_ids": [
+          13754365860,
           13754365863
         ],
         "source": "osm",
@@ -9445,29 +6138,7 @@
           "MI-04B"
         ],
         "osm_ids": [
-          13762031063
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.958757,
-          10.313906
-        ]
-      },
-      "properties": {
-        "name": "Pajo Junction",
-        "type": "stop",
-        "routes": [
-          "MI-04A"
-        ],
-        "osm_ids": [
+          13762031063,
           13762031060
         ],
         "source": "osm",
@@ -9491,29 +6162,7 @@
           "11A"
         ],
         "osm_ids": [
-          14158689234
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.869008,
-          10.285182
-        ]
-      },
-      "properties": {
-        "name": "Panaghiusa",
-        "type": "stop",
-        "routes": [
-          "11A"
-        ],
-        "osm_ids": [
+          14158689234,
           14158689233
         ],
         "source": "osm",
@@ -9534,38 +6183,17 @@
         "name": "Panganiban",
         "type": "stop",
         "routes": [
-          "08G",
-          "09C",
-          "09F"
-        ],
-        "osm_ids": [
-          14102393321
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.896014,
-          10.293185
-        ]
-      },
-      "properties": {
-        "name": "Panganiban",
-        "type": "stop",
-        "routes": [
           "04C",
           "04D",
           "04H",
           "04I",
+          "08G",
+          "09C",
+          "09F",
           "11A"
         ],
         "osm_ids": [
+          14102393321,
           14104740233
         ],
         "source": "osm",
@@ -9592,32 +6220,7 @@
           "10M"
         ],
         "osm_ids": [
-          10250495139
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.855453,
-          10.279531
-        ]
-      },
-      "properties": {
-        "name": "Pardo",
-        "type": "stop",
-        "routes": [
-          "10F",
-          "10G",
-          "10H",
-          "10M"
-        ],
-        "osm_ids": [
+          10250495139,
           10250473104
         ],
         "source": "osm",
@@ -9642,30 +6245,7 @@
           "13C"
         ],
         "osm_ids": [
-          13769915552
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.915057,
-          10.356291
-        ]
-      },
-      "properties": {
-        "name": "Park Terrace",
-        "type": "stop",
-        "routes": [
-          "13B",
-          "13C"
-        ],
-        "osm_ids": [
+          13769915552,
           14104740283
         ],
         "source": "osm",
@@ -9714,29 +6294,7 @@
           "07B"
         ],
         "osm_ids": [
-          14049861704
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.876144,
-          10.309824
-        ]
-      },
-      "properties": {
-        "name": "Paseo Arcenas",
-        "type": "stop",
-        "routes": [
-          "07B"
-        ],
-        "osm_ids": [
+          14049861704,
           14049861705
         ],
         "source": "osm",
@@ -9784,30 +6342,7 @@
           "04C"
         ],
         "osm_ids": [
-          14104740235
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.900221,
-          10.332015
-        ]
-      },
-      "properties": {
-        "name": "Pasteur",
-        "type": "stop",
-        "routes": [
-          "04B",
-          "04C"
-        ],
-        "osm_ids": [
+          14104740235,
           14104740240
         ],
         "source": "osm",
@@ -9855,29 +6390,7 @@
           "06H"
         ],
         "osm_ids": [
-          14048307484
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.88734,
-          10.307875
-        ]
-      },
-      "properties": {
-        "name": "Phoenix B. Rodriguez",
-        "type": "stop",
-        "routes": [
-          "06C"
-        ],
-        "osm_ids": [
+          14048307484,
           14048307485
         ],
         "source": "osm",
@@ -9925,29 +6438,7 @@
           "02B"
         ],
         "osm_ids": [
-          10250495160
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.909517,
-          10.29784
-        ]
-      },
-      "properties": {
-        "name": "Pier 3",
-        "type": "stop",
-        "routes": [
-          "02B"
-        ],
-        "osm_ids": [
+          10250495160,
           14104747707
         ],
         "source": "osm",
@@ -9993,34 +6484,13 @@
         "type": "stop",
         "routes": [
           "04D",
+          "09C",
           "09G",
           "10G",
           "11A"
         ],
         "osm_ids": [
-          14102393304
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.899693,
-          10.294354
-        ]
-      },
-      "properties": {
-        "name": "Plaridel",
-        "type": "stop",
-        "routes": [
-          "09C"
-        ],
-        "osm_ids": [
+          14102393304,
           11237821660
         ],
         "source": "osm",
@@ -10065,34 +6535,12 @@
         "name": "Plaza Housing",
         "type": "stop",
         "routes": [
-          "04D"
-        ],
-        "osm_ids": [
-          14106868783
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.89179,
-          10.347531
-        ]
-      },
-      "properties": {
-        "name": "Plaza Housing",
-        "type": "stop",
-        "routes": [
           "04D",
           "04H",
           "04I"
         ],
         "osm_ids": [
+          14106868783,
           14106868784
         ],
         "source": "osm",
@@ -10114,57 +6562,14 @@
         "type": "stop",
         "routes": [
           "04D",
+          "09C",
           "09G",
           "10G",
           "11A"
         ],
         "osm_ids": [
-          10250495182
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.901012,
-          10.293981
-        ]
-      },
-      "properties": {
-        "name": "Plaza Sugbo",
-        "type": "stop",
-        "routes": [
-          "09C"
-        ],
-        "osm_ids": [
-          14114354087
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.902352,
-          10.293083
-        ]
-      },
-      "properties": {
-        "name": "Plaza Sugbo",
-        "type": "stop",
-        "routes": [
-          "09C"
-        ],
-        "osm_ids": [
+          10250495182,
+          14114354087,
           4258594589
         ],
         "source": "osm",
@@ -10186,33 +6591,11 @@
         "type": "stop",
         "routes": [
           "04C",
-          "04D"
-        ],
-        "osm_ids": [
-          10250495113
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.89499,
-          10.308917
-        ]
-      },
-      "properties": {
-        "name": "Primeway Suites",
-        "type": "stop",
-        "routes": [
-          "04C",
+          "04D",
           "04I"
         ],
         "osm_ids": [
+          10250495113,
           10250495219
         ],
         "source": "osm",
@@ -10238,31 +6621,7 @@
           "10M"
         ],
         "osm_ids": [
-          14114354085
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.849584,
-          10.273733
-        ]
-      },
-      "properties": {
-        "name": "Prince Warehouse Club",
-        "type": "stop",
-        "routes": [
-          "10F",
-          "10H",
-          "10M"
-        ],
-        "osm_ids": [
+          14114354085,
           14114354086
         ],
         "source": "osm",
@@ -10290,33 +6649,7 @@
           "06H"
         ],
         "osm_ids": [
-          13761760735
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.883656,
-          10.323508
-        ]
-      },
-      "properties": {
-        "name": "Puregold Guadalupe",
-        "type": "stop",
-        "routes": [
-          "06B",
-          "06C",
-          "06F",
-          "06G",
-          "06H"
-        ],
-        "osm_ids": [
+          13761760735,
           13761760740
         ],
         "source": "osm",
@@ -10337,36 +6670,14 @@
         "name": "Puregold Mango",
         "type": "stop",
         "routes": [
-          "04C",
-          "04D"
-        ],
-        "osm_ids": [
-          14104740231
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.898677,
-          10.311393
-        ]
-      },
-      "properties": {
-        "name": "Puregold Mango",
-        "type": "stop",
-        "routes": [
           "03B",
           "04C",
+          "04D",
           "04I",
           "06H"
         ],
         "osm_ids": [
+          14104740231,
           13185519446
         ],
         "source": "osm",
@@ -10390,29 +6701,7 @@
           "MI-04B"
         ],
         "osm_ids": [
-          13779441612
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.975275,
-          10.325059
-        ]
-      },
-      "properties": {
-        "name": "Pusok Elementary School",
-        "type": "stop",
-        "routes": [
-          "MI-04B"
-        ],
-        "osm_ids": [
+          13779441612,
           13779441613
         ],
         "source": "osm",
@@ -10436,29 +6725,7 @@
           "MI-04B"
         ],
         "osm_ids": [
-          13779441616
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.967109,
-          10.320597
-        ]
-      },
-      "properties": {
-        "name": "Pusok Road",
-        "type": "stop",
-        "routes": [
-          "MI-04B"
-        ],
-        "osm_ids": [
+          13779441616,
           13779441617
         ],
         "source": "osm",
@@ -10560,32 +6827,7 @@
           "11A"
         ],
         "osm_ids": [
-          10250495190
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.88401,
-          10.292447
-        ]
-      },
-      "properties": {
-        "name": "R. Padilla",
-        "type": "stop",
-        "routes": [
-          "08G",
-          "09G",
-          "10G",
-          "11A"
-        ],
-        "osm_ids": [
+          10250495190,
           10250473107
         ],
         "source": "osm",
@@ -10659,29 +6901,7 @@
           "13B"
         ],
         "osm_ids": [
-          14104740275
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.900569,
-          10.306526
-        ]
-      },
-      "properties": {
-        "name": "Rahmann",
-        "type": "stop",
-        "routes": [
-          "13B"
-        ],
-        "osm_ids": [
+          14104740275,
           14104740290
         ],
         "source": "osm",
@@ -10730,29 +6950,7 @@
           "11A"
         ],
         "osm_ids": [
-          14158689228
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.865489,
-          10.281632
-        ]
-      },
-      "properties": {
-        "name": "Richielda Taxi Garage",
-        "type": "stop",
-        "routes": [
-          "11A"
-        ],
-        "osm_ids": [
+          14158689228,
           14158689227
         ],
         "source": "osm",
@@ -10773,38 +6971,16 @@
         "name": "Robinsons Galleria Cebu Benedicto Entrance",
         "type": "stop",
         "routes": [
+          "01C",
           "01K",
           "01KX",
+          "10H",
           "10M",
           "21A",
           "22A"
         ],
         "osm_ids": [
-          14102354678
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.910487,
-          10.305283
-        ]
-      },
-      "properties": {
-        "name": "Robinsons Galleria Cebu Benedicto Entrance",
-        "type": "stop",
-        "routes": [
-          "01C",
-          "10H",
-          "10M"
-        ],
-        "osm_ids": [
+          14102354678,
           14104740298
         ],
         "source": "osm",
@@ -10848,32 +7024,11 @@
         "name": "Robinsons Galleria Cebu Maxilom Entrance",
         "type": "stop",
         "routes": [
-          "02B"
-        ],
-        "osm_ids": [
-          14103985209
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.911918,
-          10.305194
-        ]
-      },
-      "properties": {
-        "name": "Robinsons Galleria Cebu Maxilom Entrance",
-        "type": "stop",
-        "routes": [
+          "02B",
           "10M"
         ],
         "osm_ids": [
+          14103985209,
           14114354076
         ],
         "source": "osm",
@@ -10898,30 +7053,7 @@
           "13C"
         ],
         "osm_ids": [
-          14104740281
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.913502,
-          10.350703
-        ]
-      },
-      "properties": {
-        "name": "Rosedale",
-        "type": "stop",
-        "routes": [
-          "13B",
-          "13C"
-        ],
-        "osm_ids": [
+          14104740281,
           13769915551
         ],
         "source": "osm",
@@ -10991,35 +7123,12 @@
         "routes": [
           "01K",
           "01KX",
+          "21A",
+          "22A",
           "22D"
         ],
         "osm_ids": [
-          6282787985
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.925813,
-          10.319671
-        ]
-      },
-      "properties": {
-        "name": "S. O. Albaño",
-        "type": "stop",
-        "routes": [
-          "01K",
-          "01KX",
-          "21A",
-          "22A"
-        ],
-        "osm_ids": [
+          6282787985,
           10897787267
         ],
         "source": "osm",
@@ -11115,61 +7224,16 @@
           "01K",
           "01KX",
           "03Q",
+          "04L",
           "06H",
           "10H",
+          "21A",
+          "22A",
           "22D"
         ],
         "osm_ids": [
-          14102354672
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.916505,
-          10.312717
-        ]
-      },
-      "properties": {
-        "name": "SM City Cebu",
-        "type": "stop",
-        "routes": [
-          "01K",
-          "01KX",
-          "04L",
-          "21A",
-          "22A"
-        ],
-        "osm_ids": [
-          10251749647
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.916886,
-          10.311378
-        ]
-      },
-      "properties": {
-        "name": "SM City Cebu",
-        "type": "stop",
-        "routes": [
-          "04L"
-        ],
-        "osm_ids": [
+          14102354672,
+          10251749647,
           14104740223
         ],
         "source": "osm",
@@ -11217,32 +7281,11 @@
         "type": "stop",
         "routes": [
           "20A",
-          "21A"
-        ],
-        "osm_ids": [
-          13769775062
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.933584,
-          10.335093
-        ]
-      },
-      "properties": {
-        "name": "SM City JMall",
-        "type": "stop",
-        "routes": [
+          "21A",
           "MI-04A"
         ],
         "osm_ids": [
+          13769775062,
           13769775032
         ],
         "source": "osm",
@@ -11338,29 +7381,7 @@
           "01KX"
         ],
         "osm_ids": [
-          14104747715
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.892755,
-          10.303705
-        ]
-      },
-      "properties": {
-        "name": "SWU PHINMA Hospital",
-        "type": "stop",
-        "routes": [
-          "01K"
-        ],
-        "osm_ids": [
+          14104747715,
           14104747717
         ],
         "source": "osm",
@@ -11383,34 +7404,11 @@
         "routes": [
           "04B",
           "04D",
+          "04H",
           "06H"
         ],
         "osm_ids": [
-          13754365852
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.895897,
-          10.317795
-        ]
-      },
-      "properties": {
-        "name": "Sacred Heart",
-        "type": "stop",
-        "routes": [
-          "04B",
-          "04D",
-          "04H"
-        ],
-        "osm_ids": [
+          13754365852,
           13754365861
         ],
         "source": "osm",
@@ -11458,29 +7456,7 @@
           "11A"
         ],
         "osm_ids": [
-          14102393312
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.870953,
-          10.286662
-        ]
-      },
-      "properties": {
-        "name": "Saint Anthony Mother and Child Hospital",
-        "type": "stop",
-        "routes": [
-          "11A"
-        ],
-        "osm_ids": [
+          14102393312,
           14158689236
         ],
         "source": "osm",
@@ -11510,32 +7486,7 @@
           "10M"
         ],
         "osm_ids": [
-          10250495221
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.883025,
-          10.295346
-        ]
-      },
-      "properties": {
-        "name": "Salazar Colleges",
-        "type": "stop",
-        "routes": [
-          "01KX",
-          "10F",
-          "10H",
-          "10M"
-        ],
-        "osm_ids": [
+          10250495221,
           10250495170
         ],
         "source": "osm",
@@ -11563,30 +7514,7 @@
           "20A"
         ],
         "osm_ids": [
-          13754365851
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.909116,
-          10.31719
-        ]
-      },
-      "properties": {
-        "name": "Samar Loop",
-        "type": "stop",
-        "routes": [
-          "03Q",
-          "13C"
-        ],
-        "osm_ids": [
+          13754365851,
           10149245933
         ],
         "source": "osm",
@@ -11634,29 +7562,7 @@
           "13C"
         ],
         "osm_ids": [
-          14104740278
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.903314,
-          10.308575
-        ]
-      },
-      "properties": {
-        "name": "San Miguel",
-        "type": "stop",
-        "routes": [
-          "13B"
-        ],
-        "osm_ids": [
+          14104740278,
           14104740287
         ],
         "source": "osm",
@@ -11700,33 +7606,12 @@
         "name": "San Nicolas Parish",
         "type": "stop",
         "routes": [
-          "06G"
-        ],
-        "osm_ids": [
-          14048311804
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.892807,
-          10.292592
-        ]
-      },
-      "properties": {
-        "name": "San Nicolas Parish",
-        "type": "stop",
-        "routes": [
           "04D",
+          "06G",
           "11A"
         ],
         "osm_ids": [
+          14048311804,
           10250495121
         ],
         "source": "osm",
@@ -11751,30 +7636,7 @@
           "MI-04B"
         ],
         "osm_ids": [
-          13762031058
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.960761,
-          10.31146
-        ]
-      },
-      "properties": {
-        "name": "Sangi Road",
-        "type": "stop",
-        "routes": [
-          "MI-04A",
-          "MI-04B"
-        ],
-        "osm_ids": [
+          13762031058,
           13762031064
         ],
         "source": "osm",
@@ -11800,30 +7662,7 @@
           "06H"
         ],
         "osm_ids": [
-          13761760743
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.885952,
-          10.31295
-        ]
-      },
-      "properties": {
-        "name": "Securities and Exchange Commision",
-        "type": "stop",
-        "routes": [
-          "06C",
-          "06G"
-        ],
-        "osm_ids": [
+          13761760743,
           13761760734
         ],
         "source": "osm",
@@ -11871,29 +7710,7 @@
           "03A"
         ],
         "osm_ids": [
-          14104740267
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.916097,
-          10.325265
-        ]
-      },
-      "properties": {
-        "name": "Shell F. Cabahug",
-        "type": "stop",
-        "routes": [
-          "03A"
-        ],
-        "osm_ids": [
+          14104740267,
           14104740268
         ],
         "source": "osm",
@@ -11917,29 +7734,7 @@
           "11A"
         ],
         "osm_ids": [
-          14158689225
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.863397,
-          10.278983
-        ]
-      },
-      "properties": {
-        "name": "Shell L. Gabuya",
-        "type": "stop",
-        "routes": [
-          "11A"
-        ],
-        "osm_ids": [
+          14158689225,
           14158689226
         ],
         "source": "osm",
@@ -12018,29 +7813,7 @@
           "13C"
         ],
         "osm_ids": [
-          14104740277
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.901628,
-          10.305836
-        ]
-      },
-      "properties": {
-        "name": "Sikatuna",
-        "type": "stop",
-        "routes": [
-          "13B"
-        ],
-        "osm_ids": [
+          14104740277,
           14104740276
         ],
         "source": "osm",
@@ -12065,30 +7838,7 @@
           "13C"
         ],
         "osm_ids": [
-          13769915548
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.915301,
-          10.361786
-        ]
-      },
-      "properties": {
-        "name": "Silver Hills",
-        "type": "stop",
-        "routes": [
-          "13B",
-          "13C"
-        ],
-        "osm_ids": [
+          13769915548,
           13769915554
         ],
         "source": "osm",
@@ -12185,29 +7935,7 @@
           "44"
         ],
         "osm_ids": [
-          7986499852
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.770898,
-          10.232175
-        ]
-      },
-      "properties": {
-        "name": "South General Hospital",
-        "type": "stop",
-        "routes": [
-          "44"
-        ],
-        "osm_ids": [
+          7986499852,
           7986499849
         ],
         "source": "osm",
@@ -12231,29 +7959,7 @@
           "07B"
         ],
         "osm_ids": [
-          14049861707
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.876055,
-          10.306892
-        ]
-      },
-      "properties": {
-        "name": "South Hills International School",
-        "type": "stop",
-        "routes": [
-          "07B"
-        ],
-        "osm_ids": [
+          14049861707,
           14049861713
         ],
         "source": "osm",
@@ -12298,33 +8004,11 @@
         "type": "stop",
         "routes": [
           "04C",
-          "04D"
-        ],
-        "osm_ids": [
-          10250495129
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.897872,
-          10.305107
-        ]
-      },
-      "properties": {
-        "name": "St. Paul College High School",
-        "type": "stop",
-        "routes": [
-          "04C",
+          "04D",
           "04I"
         ],
         "osm_ids": [
+          10250495129,
           10250495220
         ],
         "source": "osm",
@@ -12348,29 +8032,7 @@
           "03A"
         ],
         "osm_ids": [
-          14104740269
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.920601,
-          10.327073
-        ]
-      },
-      "properties": {
-        "name": "Subangdaku Boundary",
-        "type": "stop",
-        "routes": [
-          "03A"
-        ],
-        "osm_ids": [
+          14104740269,
           14104740270
         ],
         "source": "osm",
@@ -12396,35 +8058,11 @@
           "04D",
           "04H",
           "04I",
-          "04L"
-        ],
-        "osm_ids": [
-          13760438073
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.897535,
-          10.329099
-        ]
-      },
-      "properties": {
-        "name": "Sudlon",
-        "type": "stop",
-        "routes": [
-          "04B",
-          "04C",
-          "04D",
+          "04L",
           "04M"
         ],
         "osm_ids": [
+          13760438073,
           13760438074
         ],
         "source": "osm",
@@ -12471,41 +8109,17 @@
         "routes": [
           "01K",
           "01KX",
+          "02B",
           "03A",
           "03B",
           "03L",
+          "10H",
           "21A",
           "22A",
           "22D"
         ],
         "osm_ids": [
-          10250495197
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.906457,
-          10.302332
-        ]
-      },
-      "properties": {
-        "name": "T. Padilla",
-        "type": "stop",
-        "routes": [
-          "02B",
-          "03A",
-          "03L",
-          "10H",
-          "22D"
-        ],
-        "osm_ids": [
+          10250495197,
           10250495180
         ],
         "source": "osm",
@@ -12528,35 +8142,13 @@
         "routes": [
           "01K",
           "01KX",
+          "10H",
           "10M",
           "21A",
           "22A"
         ],
         "osm_ids": [
-          14102354676
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.909099,
-          10.30238
-        ]
-      },
-      "properties": {
-        "name": "T. Padilla",
-        "type": "stop",
-        "routes": [
-          "10H",
-          "10M"
-        ],
-        "osm_ids": [
+          14102354676,
           14104740300
         ],
         "source": "osm",
@@ -12577,56 +8169,12 @@
         "name": "Tabada",
         "type": "stop",
         "routes": [
-          "08G"
-        ],
-        "osm_ids": [
-          14102393318
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.874263,
-          10.288948
-        ]
-      },
-      "properties": {
-        "name": "Tabada",
-        "type": "stop",
-        "routes": [
           "08G",
           "11A"
         ],
         "osm_ids": [
-          14102393311
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.874153,
-          10.288962
-        ]
-      },
-      "properties": {
-        "name": "Tabada",
-        "type": "stop",
-        "routes": [
-          "11A"
-        ],
-        "osm_ids": [
+          14102393318,
+          14102393311,
           14158689235
         ],
         "source": "osm",
@@ -12674,30 +8222,7 @@
           "13C"
         ],
         "osm_ids": [
-          13769915555
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.916291,
-          10.369165
-        ]
-      },
-      "properties": {
-        "name": "Talamban",
-        "type": "stop",
-        "routes": [
-          "13B",
-          "13C"
-        ],
-        "osm_ids": [
+          13769915555,
           13769915544
         ],
         "source": "osm",
@@ -12722,30 +8247,7 @@
           "13C"
         ],
         "osm_ids": [
-          14104740272
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.91805,
-          10.36964
-        ]
-      },
-      "properties": {
-        "name": "Talamban National High School",
-        "type": "stop",
-        "routes": [
-          "13B",
-          "13C"
-        ],
-        "osm_ids": [
+          14104740272,
           14104740271
         ],
         "source": "osm",
@@ -12794,30 +8296,7 @@
           "13C"
         ],
         "osm_ids": [
-          14104740296
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.924789,
-          10.370947
-        ]
-      },
-      "properties": {
-        "name": "Tantay PUJ Terminal",
-        "type": "stop",
-        "routes": [
-          "13B",
-          "13C"
-        ],
-        "osm_ids": [
+          14104740296,
           14104740297
         ],
         "source": "osm",
@@ -12842,46 +8321,18 @@
           "01C",
           "01K",
           "01KX",
+          "02B",
           "03A",
           "03B",
           "03L",
+          "10H",
           "10M",
           "21A",
           "22A",
           "22D"
         ],
         "osm_ids": [
-          10250473098
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.906374,
-          10.300594
-        ]
-      },
-      "properties": {
-        "name": "Tejero Elementary School",
-        "type": "stop",
-        "routes": [
-          "01B",
-          "01K",
-          "01KX",
-          "02B",
-          "03A",
-          "03L",
-          "10H",
-          "10M",
-          "22D"
-        ],
-        "osm_ids": [
+          10250473098,
           10250495228
         ],
         "source": "osm",
@@ -12905,29 +8356,7 @@
           "07B"
         ],
         "osm_ids": [
-          14049861708
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.87677,
-          10.310916
-        ]
-      },
-      "properties": {
-        "name": "The Marketplace",
-        "type": "stop",
-        "routes": [
-          "07B"
-        ],
-        "osm_ids": [
+          14049861708,
           14049861712
         ],
         "source": "osm",
@@ -12948,32 +8377,11 @@
         "name": "Tiburcio Padilla Public Market",
         "type": "stop",
         "routes": [
-          "01B"
-        ],
-        "osm_ids": [
-          14114354074
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.905126,
-          10.301792
-        ]
-      },
-      "properties": {
-        "name": "Tiburcio Padilla Public Market",
-        "type": "stop",
-        "routes": [
+          "01B",
           "10H"
         ],
         "osm_ids": [
+          14114354074,
           14114354075
         ],
         "source": "osm",
@@ -13020,34 +8428,12 @@
         "name": "Tops Restaurant",
         "type": "stop",
         "routes": [
-          "04D"
-        ],
-        "osm_ids": [
-          14106868769
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.896497,
-          10.339735
-        ]
-      },
-      "properties": {
-        "name": "Tops Restaurant",
-        "type": "stop",
-        "routes": [
           "04D",
           "04H",
           "04I"
         ],
         "osm_ids": [
+          14106868769,
           14106868770
         ],
         "source": "osm",
@@ -13069,37 +8455,14 @@
         "type": "stop",
         "routes": [
           "08G",
-          "09G",
-          "10G"
-        ],
-        "osm_ids": [
-          14102393307
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.893136,
-          10.294289
-        ]
-      },
-      "properties": {
-        "name": "Tres de Abril",
-        "type": "stop",
-        "routes": [
-          "08G",
           "09C",
           "09F",
+          "09G",
           "10G",
           "11A"
         ],
         "osm_ids": [
+          14102393307,
           14102393319
         ],
         "source": "osm",
@@ -13154,31 +8517,7 @@
           "10M"
         ],
         "osm_ids": [
-          10250495156
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.848209,
-          10.272395
-        ]
-      },
-      "properties": {
-        "name": "UC Pardo",
-        "type": "stop",
-        "routes": [
-          "10F",
-          "10H",
-          "10M"
-        ],
-        "osm_ids": [
+          10250495156,
           10250473102
         ],
         "source": "osm",
@@ -13204,35 +8543,11 @@
           "04D",
           "04H",
           "04I",
-          "04L"
-        ],
-        "osm_ids": [
-          14104740239
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.898812,
-          10.322466
-        ]
-      },
-      "properties": {
-        "name": "UP Cebu",
-        "type": "stop",
-        "routes": [
-          "04B",
-          "04C",
-          "04D",
+          "04L",
           "04M"
         ],
         "osm_ids": [
+          14104740239,
           13760438078
         ],
         "source": "osm",
@@ -13254,36 +8569,15 @@
         "type": "stop",
         "routes": [
           "04C",
+          "04D",
           "04I",
           "09F",
           "10F",
-          "13B"
-        ],
-        "osm_ids": [
-          10250495109
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.89821,
-          10.299248
-        ]
-      },
-      "properties": {
-        "name": "USC Main",
-        "type": "stop",
-        "routes": [
-          "04D",
+          "13B",
           "13C"
         ],
         "osm_ids": [
+          10250495109,
           10250495130
         ],
         "source": "osm",
@@ -13304,35 +8598,13 @@
         "name": "USC North Campus",
         "type": "stop",
         "routes": [
-          "04C",
-          "04D"
-        ],
-        "osm_ids": [
-          14104740230
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.901144,
-          10.311577
-        ]
-      },
-      "properties": {
-        "name": "USC North Campus",
-        "type": "stop",
-        "routes": [
           "03B",
           "04C",
+          "04D",
           "04I"
         ],
         "osm_ids": [
+          14104740230,
           10250495203
         ],
         "source": "osm",
@@ -13358,31 +8630,7 @@
           "01KX"
         ],
         "osm_ids": [
-          13760438069
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.888767,
-          10.299284
-        ]
-      },
-      "properties": {
-        "name": "USC South Campus",
-        "type": "stop",
-        "routes": [
-          "01B",
-          "01C",
-          "01KX"
-        ],
-        "osm_ids": [
+          13760438069,
           13760438068
         ],
         "source": "osm",
@@ -13406,29 +8654,7 @@
           "06G"
         ],
         "osm_ids": [
-          13761760742
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.886659,
-          10.300218
-        ]
-      },
-      "properties": {
-        "name": "USC South Campus V. Rama Entrance",
-        "type": "stop",
-        "routes": [
-          "06G"
-        ],
-        "osm_ids": [
+          13761760742,
           13761760741
         ],
         "source": "osm",
@@ -13453,30 +8679,7 @@
           "13C"
         ],
         "osm_ids": [
-          13769915545
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.91383,
-          10.352015
-        ]
-      },
-      "properties": {
-        "name": "USC Talamban Campus",
-        "type": "stop",
-        "routes": [
-          "13B",
-          "13C"
-        ],
-        "osm_ids": [
+          13769915545,
           14104740282
         ],
         "source": "osm",
@@ -13531,32 +8734,7 @@
           "10M"
         ],
         "osm_ids": [
-          10250495162
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.862301,
-          10.287015
-        ]
-      },
-      "properties": {
-        "name": "USJ Recoletos Basak",
-        "type": "stop",
-        "routes": [
-          "10F",
-          "10G",
-          "10H",
-          "10M"
-        ],
-        "osm_ids": [
+          10250495162,
           10250495200
         ],
         "source": "osm",
@@ -13577,33 +8755,6 @@
         "name": "Unitop",
         "type": "stop",
         "routes": [
-          "04B",
-          "06B",
-          "06C",
-          "06F",
-          "07B"
-        ],
-        "osm_ids": [
-          10250495225
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.897815,
-          10.296929
-        ]
-      },
-      "properties": {
-        "name": "Unitop",
-        "type": "stop",
-        "routes": [
           "03B",
           "04B",
           "06B",
@@ -13612,6 +8763,7 @@
           "07B"
         ],
         "osm_ids": [
+          10250495225,
           10250495173
         ],
         "source": "osm",
@@ -13707,32 +8859,11 @@
         "name": "University of Southern Philippines",
         "type": "stop",
         "routes": [
-          "04L"
-        ],
-        "osm_ids": [
-          10251749629
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.901042,
-          10.32966
-        ]
-      },
-      "properties": {
-        "name": "University of Southern Philippines",
-        "type": "stop",
-        "routes": [
+          "04L",
           "04M"
         ],
         "osm_ids": [
+          10251749629,
           10251749630
         ],
         "source": "osm",
@@ -13802,34 +8933,6 @@
         "name": "Uytengsu",
         "type": "stop",
         "routes": [
-          "04B",
-          "04D",
-          "06B",
-          "06C",
-          "06F",
-          "07B"
-        ],
-        "osm_ids": [
-          10743602340
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.895039,
-          10.304184
-        ]
-      },
-      "properties": {
-        "name": "Uytengsu",
-        "type": "stop",
-        "routes": [
           "03B",
           "04B",
           "04D",
@@ -13840,6 +8943,7 @@
           "07B"
         ],
         "osm_ids": [
+          10743602340,
           10743602369
         ],
         "source": "osm",
@@ -13921,32 +9025,7 @@
           "10M"
         ],
         "osm_ids": [
-          13760236659
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.886549,
-          10.297083
-        ]
-      },
-      "properties": {
-        "name": "V. Rama",
-        "type": "stop",
-        "routes": [
-          "01KX",
-          "10F",
-          "10H",
-          "10M"
-        ],
-        "osm_ids": [
+          13760236659,
           13754365849
         ],
         "source": "osm",
@@ -13994,29 +9073,7 @@
           "06H"
         ],
         "osm_ids": [
-          14113797207
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.891651,
-          10.308793
-        ]
-      },
-      "properties": {
-        "name": "Vicente Sotto Memorial Medical Center",
-        "type": "stop",
-        "routes": [
-          "06C"
-        ],
-        "osm_ids": [
+          14113797207,
           14113797208
         ],
         "source": "osm",
@@ -14040,29 +9097,7 @@
           "03A"
         ],
         "osm_ids": [
-          14104740265
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.91487,
-          10.324003
-        ]
-      },
-      "properties": {
-        "name": "Villa Aurora",
-        "type": "stop",
-        "routes": [
-          "03A"
-        ],
-        "osm_ids": [
+          14104740265,
           14104740266
         ],
         "source": "osm",
@@ -14083,34 +9118,6 @@
         "name": "VisayasMed Hospital",
         "type": "stop",
         "routes": [
-          "04B",
-          "04D",
-          "06B",
-          "06C",
-          "06F",
-          "07B"
-        ],
-        "osm_ids": [
-          12845374601
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.894261,
-          10.306369
-        ]
-      },
-      "properties": {
-        "name": "VisayasMed Hospital",
-        "type": "stop",
-        "routes": [
           "03B",
           "04B",
           "04D",
@@ -14121,6 +9128,7 @@
           "07B"
         ],
         "osm_ids": [
+          12845374601,
           10743585378
         ],
         "source": "osm",
@@ -14143,60 +9151,15 @@
         "routes": [
           "01K",
           "01KX",
+          "02B",
           "10H",
+          "10M",
+          "21A",
           "22D"
         ],
         "osm_ids": [
-          14102354673
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.910001,
-          10.306779
-        ]
-      },
-      "properties": {
-        "name": "White Gold House",
-        "type": "stop",
-        "routes": [
-          "01K",
-          "01KX",
-          "10M",
-          "21A"
-        ],
-        "osm_ids": [
-          14102354679
-        ],
-        "source": "osm",
-        "license": "ODbL",
-        "attribution": "© OpenStreetMap contributors (ODbL)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.910487,
-          10.306523
-        ]
-      },
-      "properties": {
-        "name": "White Gold House",
-        "type": "stop",
-        "routes": [
-          "02B",
-          "10H"
-        ],
-        "osm_ids": [
+          14102354673,
+          14102354679,
           14103985210
         ],
         "source": "osm",

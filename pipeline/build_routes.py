@@ -42,6 +42,12 @@ from common import (
 )
 
 NEAR_M = 35
+GAP_M = 300  # a hole wider than this in a route line is a break, not a missing junction
+STOP_MERGE_M = 200  # same-name stops this close are one place (usually both sides of the road)
+
+
+def max_gap_m(parts: list[list[tuple[float, float]]]) -> float:
+    return max((haversine_m(a[-1], b[0]) for a, b in zip(parts, parts[1:])), default=0.0)
 
 
 def latest_raw(kind: str) -> Path | None:
@@ -107,25 +113,30 @@ def kml_lines(blob: bytes) -> tuple[str, list[dict]]:
 
 
 def stitch(ways: list[list[tuple[float, float]]]) -> list[list[tuple[float, float]]]:
+    # Older OSM relations list ways out of order, so join the nearest remaining way, not the next one.
+    remaining = [line for line in ways if len(line) >= 2]
     parts: list[list[tuple[float, float]]] = []
     current: list[tuple[float, float]] | None = None
-    for line in ways:
-        if len(line) < 2:
-            continue
+    while remaining:
         if current is None:
-            current = line[:]
+            current = remaining.pop(0)[:]
             continue
-        candidates = (
-            (haversine_m(current[-1], line[0]), "append"),
-            (haversine_m(current[-1], line[-1]), "append_rev"),
-            (haversine_m(current[0], line[-1]), "prepend"),
-            (haversine_m(current[0], line[0]), "prepend_rev"),
-        )
-        dist, how = min(candidates, key=lambda item: item[0])
+        best = None
+        for i, line in enumerate(remaining):
+            for dist, how in (
+                (haversine_m(current[-1], line[0]), "append"),
+                (haversine_m(current[-1], line[-1]), "append_rev"),
+                (haversine_m(current[0], line[-1]), "prepend"),
+                (haversine_m(current[0], line[0]), "prepend_rev"),
+            ):
+                if best is None or dist < best[0]:
+                    best = (dist, how, i)
+        dist, how, i = best
         if dist > NEAR_M:
             parts.append(current)
-            current = line[:]
+            current = None
             continue
+        line = remaining.pop(i)
         if how == "append":
             current.extend(line[1:])
         elif how == "append_rev":
@@ -136,6 +147,13 @@ def stitch(ways: list[list[tuple[float, float]]]) -> list[list[tuple[float, floa
             current = list(reversed(line))[:-1] + current
     if current:
         parts.append(current)
+    # Way node order is arbitrary in OSM; relations list ways from the start, so the first way belongs at the start.
+    if parts and ways and len(ways[0]) >= 2:
+        first = parts[0]
+        near_start = min(haversine_m(first[0], ways[0][0]), haversine_m(first[0], ways[0][-1]))
+        near_end = min(haversine_m(first[-1], ways[0][0]), haversine_m(first[-1], ways[0][-1]))
+        if near_end < near_start:
+            parts = [list(reversed(part)) for part in reversed(parts)]
     return parts
 
 
@@ -238,6 +256,9 @@ def choose_geometry(code: str, osm_items: list[dict], weebly_items: list[dict], 
     if preference == "osm" and any(item["parts"] for item in osm_items):
         return "osm"
     if any(item["parts"] for item in osm_items):
+        # A broken OSM line (pieces far apart) can't be routed on; a whole weebly line can.
+        if weebly_items and max(max_gap_m(item["parts"]) for item in osm_items) > GAP_M:
+            return "weebly"
         return "osm"
     if weebly_items:
         return "weebly"
@@ -330,12 +351,6 @@ def build() -> None:
             if item.get("page") and item["page"] not in pages:
                 pages.append(item["page"])
         sources.extend(pages)
-        if source_kind == "weebly":
-            sources.append(WEEBLY_ATTRIBUTION)
-        elif source_kind == "osm":
-            sources.append(OSM_ATTRIBUTION)
-            if pages:
-                sources.append("cross-check: " + WEEBLY_ATTRIBUTION)
 
         names = [item["name"] for item in group["osm"] if item.get("name")]
         if not names:
@@ -354,15 +369,23 @@ def build() -> None:
         item_lengths = [
             sum(line_length_m(part) for part in item["parts"]) for item in chosen if item["parts"]
         ]
-        has_real_line = any(length >= 1000 for length in item_lengths)
+        longest = max(item_lengths, default=0)
         mode = "bus" if code.startswith("MY") else "jeep"
+        first_line = None
         for index, item in enumerate(chosen, start=1):
             if not item["parts"]:
                 continue
             this_m = sum(line_length_m(part) for part in item["parts"])
-            # Drop map-glitch stubs once a real line exists for the code.
-            if this_m < 150 and has_real_line:
+            # Drop map-glitch stubs and drawing scraps: anything under a quarter of the code's longest line.
+            if this_m < 0.25 * longest:
                 continue
+            start, end = item["parts"][0][0], item["parts"][-1][-1]
+            if first_line is None:
+                first_line = (start, end)
+            # Same start as the first line = same way; else the return trip.
+            same_way = haversine_m(start, first_line[0]) + haversine_m(end, first_line[1])
+            flipped = haversine_m(start, first_line[1]) + haversine_m(end, first_line[0])
+            direction = "outbound" if same_way <= flipped else "inbound"
             if source_kind == "osm":
                 feature_id = f"{code}-osm-{item['osm_id']}"
                 direction_name = item["name"] or f"{item['from']} – {item['to']}".strip(" –") or f"relation {item['osm_id']}"
@@ -375,7 +398,8 @@ def build() -> None:
             props = {
                 "id": feature_id,
                 "code": code,
-                "direction": direction_name,
+                "direction": direction,
+                "headsign": direction_name,
                 "name": label,
                 "from": origin,
                 "to": dest,
@@ -410,6 +434,7 @@ def build() -> None:
                 directions.append(
                     {
                         "id": feature_id,
+                        "direction": direction,
                         "name": direction_name,
                         "from": origin,
                         "to": dest,
@@ -469,27 +494,25 @@ def _split_via(name: str) -> tuple[str, str]:
 
 
 def _stop_features(stops: list[dict]) -> list[dict]:
-    merged: dict[tuple, dict] = {}
+    rows: list[dict] = []
     for stop in stops:
-        if not stop.get("code"):
+        if not stop.get("code") or stop["name"] == "Unnamed stop":
             continue
-        key = (round(stop["lon"], 5), round(stop["lat"], 5), stop["name"].strip().lower())
-        row = merged.setdefault(
-            key,
-            {
-                "name": stop["name"],
-                "lon": stop["lon"],
-                "lat": stop["lat"],
-                "osm_ids": [],
-                "routes": [],
-            },
+        key = stop["name"].strip().lower()
+        point = (stop["lon"], stop["lat"])
+        row = next(
+            (r for r in rows if r["key"] == key and haversine_m((r["lon"], r["lat"]), point) <= STOP_MERGE_M),
+            None,
         )
+        if row is None:
+            row = {"key": key, "name": stop["name"], "lon": stop["lon"], "lat": stop["lat"], "osm_ids": [], "routes": []}
+            rows.append(row)
         if stop["code"] not in row["routes"]:
             row["routes"].append(stop["code"])
         if stop.get("osm_id") and stop["osm_id"] not in row["osm_ids"]:
             row["osm_ids"].append(stop["osm_id"])
     features = []
-    for row in merged.values():
+    for row in rows:
         features.append(
             {
                 "type": "Feature",

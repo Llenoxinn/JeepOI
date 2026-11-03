@@ -14,7 +14,7 @@ HERE = Path(__file__).resolve().parent
 
 def main() -> None:
     py = sys.executable
-    for script in ("fetch_osm.py", "fetch_weebly.py", "build_routes.py"):
+    for script in ("fetch_osm.py", "fetch_weebly.py", "build_routes.py", "check_data.py"):
         print(f"\n== {script} ==")
         subprocess.check_call([py, str(HERE / script)])
 

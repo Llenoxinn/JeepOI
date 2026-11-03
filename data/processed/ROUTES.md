@@ -5,7 +5,7 @@ Generated 2026-11-03 by `pipeline/build_routes.py`. This file is an output. Chan
 The map reads `routes.geojson`. Lists and the trust ledger read `routes.json`. Nothing here is marked verified: verification still means a GPS ride.
 
 - 70 codes
-- 69 with geometry (53 drawn from OpenStreetMap, 16 drawn from weebly because OSM had no line)
+- 69 with geometry (46 drawn from OpenStreetMap, 23 drawn from weebly because OSM had no line)
 - 1 disputed
 - 1 still need a waypoint list or a ride
 
@@ -21,7 +21,7 @@ Licenses, per feature: OpenStreetMap geometry is ODbL (© OpenStreetMap contribu
 | 04L | yes | unconfirmed | osm |  |
 | 01K | yes | unconfirmed | osm |  |
 | 14D | yes | unconfirmed | weebly |  |
-| 12G | yes | unconfirmed | osm |  |
+| 12G | yes | unconfirmed | weebly |  |
 | 04B | yes | unconfirmed | osm | suroy.ph lists it in 2026. The team has not seen it on the road. Field-check before treating it as active. |
 | 13C | yes | unconfirmed | osm | OSM and weebly both draw Talamban-Ayala-Colon and the lines match. A 3D Universal page says SM/Ayala/IT Park instead. Ignore 3D Universal. Ride it before marking it verified. |
 | 06H | yes | unconfirmed | osm |  |
@@ -82,21 +82,21 @@ Disputed means the two maps disagree, or `overrides.yaml` says so. A ride settle
 | 10H | Bulacao-Pardo-North Reclamation | unconfirmed | osm | 10.89 | 44 | OSM 21267097, 21267098; weebly |
 | 10M | Bulacao-Pardo-SM Cebu | unconfirmed | osm | 10.63 | 41 | OSM 21267095, 21267096; weebly |
 | 11A | Inayawan-Colon | unconfirmed | osm | 8.4 | 35 | OSM 21363724, 21363725; weebly |
-| 12D | Jeepney 12D: Downtown - Punta Princesa | unconfirmed | osm | 9.45 | 0 | OSM 3203006; weebly |
-| 12G | Jeepney 12G: Labangon - Colon - Pier - SM | unconfirmed | osm | 16.07 | 0 | OSM 3203041; weebly |
-| 12I | Jeepney 12I: SM Cebu - Downtown - Punta Princesa | unconfirmed | osm | 15.6 | 0 | OSM 3203115; weebly |
-| 12L | Jeepney 12L: Ayala - Escario- Labangon | unconfirmed | osm | 14.3 | 0 | OSM 3169782; weebly |
+| 12D | Jeepney 12D: Downtown - Punta Princesa | unconfirmed | osm | 9.41 | 0 | OSM 3203006; weebly |
+| 12G | Jeepney 12G: Labangon - Colon - Pier - SM | unconfirmed | weebly | 8.79 | 0 | OSM 3203041; weebly |
+| 12I | Jeepney 12I: SM Cebu - Downtown - Punta Princesa | unconfirmed | weebly | 8.34 | 0 | OSM 3203115; weebly |
+| 12L | Jeepney 12L: Ayala - Escario- Labangon | unconfirmed | weebly | 7.18 | 0 | OSM 3169782; weebly |
 | 13B | Talamban-Ayala-Carbon | unconfirmed | osm | 13.06 | 43 | OSM 21251281, 21251282; weebly |
 | 13C | Talamban-Ayala-Colon | unconfirmed | osm | 11.62 | 40 | OSM 21251275, 21251276; weebly |
 | 13H | Pit-os to Mandaue Public Market | unconfirmed | weebly | 12.03 | 0 | weebly |
 | 14D | Ayala Terminal to Colon | unconfirmed | weebly | 7.68 | 0 | weebly |
 | 17B | Apas to Carbon | unconfirmed | weebly | 9.48 | 0 | weebly |
-| 17C | Jeepney 17C: Apas - Lahug - Carbon via Ramos, San Nicolas | unconfirmed | osm | 13.18 | 0 | OSM 3203945; weebly |
-| 17D | Jeepney 17D: Apas - Lahug - Carbon via Escario, Jones, San Nicolas | unconfirmed | osm | 14.91 | 0 | OSM 3204007; weebly |
+| 17C | Jeepney 17C: Apas - Lahug - Carbon via Ramos, San Nicolas | unconfirmed | weebly | 9.83 | 0 | OSM 3203945; weebly |
+| 17D | Jeepney 17D: Apas - Lahug - Carbon via Escario, Jones, San Nicolas | unconfirmed | weebly | 9.7 | 0 | OSM 3204007; weebly |
 | 20A | Ayala Center-Pacific Mall | unconfirmed | osm | 11.7 | 40 | OSM 3207109, 3207166; weebly |
 | 20B | Ayala terminal to Ibabao - Estancia | unconfirmed | weebly | 10.1 | 0 | weebly |
 | 21A | Cathedral-Pacific Mall | unconfirmed | osm | 12.36 | 52 | OSM 21241575, 21241576; weebly |
-| 21D | P. Burgos–Pacific Mall (odd) | unconfirmed | osm | 21.99 | 0 | OSM 3210109, 3211723; weebly |
+| 21D | P. Burgos–Pacific Mall (odd) | unconfirmed | weebly | 11.8 | 0 | OSM 3210109, 3211723; weebly |
 | 22A | Ouano (Mandaue City)-Cebu City | unconfirmed | osm | 8.99 | 44 | OSM 21241366, 21241367; weebly |
 | 22D | Ibabaw (Mandaue City)-Manalili-Cebu City | unconfirmed | osm | 9.4 | 44 | OSM 3208008, 3208066; weebly |
 | 22G | Cathedral to Mandaue (Ouano) | unconfirmed | weebly | 10.41 | 0 | weebly |
@@ -104,7 +104,7 @@ Disputed means the two maps disagree, or `overrides.yaml` says so. A ride settle
 | 23 | Parkmall to Punta Engano | unconfirmed | weebly | 18.66 | 0 | weebly |
 | 23D | Opon to Mandaue | unconfirmed | weebly | 8.12 | 0 | weebly |
 | 24 | Consolacion to White Gold via Sm and Mabolo | unconfirmed | weebly | 12.72 | 0 | weebly |
-| 25 | Mandaue–Lilo-an via Makro | unconfirmed | osm | 15.4 | 0 | OSM 3279746; weebly |
+| 25 | Mandaue–Lilo-an via Makro | unconfirmed | weebly | 16.84 | 0 | OSM 3279746; weebly |
 | 44 | Jeepney 44: Naga - Basak - Punta Princesa | unconfirmed | osm | 23.31 | 3 | OSM 3183060 |
 | 52 | Guba-Fuente | unconfirmed | osm | 24.06 | 0 | OSM 3171936, 14140743 |
 | 60 | Jeepney 60: Bonbon - Lahug - Carbon | unconfirmed | osm | 40.64 | 0 | OSM 3171907 |
